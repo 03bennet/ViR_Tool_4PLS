@@ -1,2 +1,2 @@
 # ViR_Tool
- A tool to collate Veg infringement reports from PLS CADD
+ A tool to collate relevant Veg infringement report values from PLS CADD into one xml 
