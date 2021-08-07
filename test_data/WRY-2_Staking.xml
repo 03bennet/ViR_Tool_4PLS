@@ -1,0 +1,3708 @@
+<?xml version='1.0' encoding='windows-1252' standalone='yes'?>
+<!-- Created by PLS-CADD Version 16.20 on 10:53:01 05/07/2021 by tombe on NMLD000042 -->
+
+<root>
+<creator application='PLS-CADD' version='Version 16.20' registereduser='Network Mapping Inc' date='05/07/2021' time='10:53:01' computer='NMLD000042' user='tombe' project='WRY-2_PLS_052421_v1.xyz' projectpath='E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\WRY-2_PLS_052421_v1.xyz' activeline='Original As-surveyed Conductor' coordinatesystem='nad83' zone='3101' zonedsescription='New York East' gridshift='' surveyfoot='yes' schemafile='e:\tom_bennett\tom b\stuff\pls\schema\pls-cadd_v1_tb.sma' plsxmlver='1.0'/>
+<table plsname='Staking Table' tagname='staking_table' ncols='71' nrows='50' units='0' version='0' titledetail=''>
+  <staking_table rownum='0'>
+    <rowtext />
+    <structure_number>1</structure_number>
+    <station units='ft' />
+    <height_adjust units='ft'>-0.580</height_adjust>
+    <offset_adjust units='ft' />
+    <orientation_angle units='deg' />
+    <x_easting units='ft'>591106.425</x_easting>
+    <y_northing units='ft'>2206890.034</y_northing>
+    <centerline_z_elevation units='ft'>1134.540</centerline_z_elevation>
+    <tin_z_elevation units='ft'>1134.540</tin_z_elevation>
+    <ahead_span units='ft'>292.869</ahead_span>
+    <line_angle units='deg' />
+    <sets_in_xy_structure_line_angle_calculation>1-60</sets_in_xy_structure_line_angle_calculation>
+    <transverse_axis_azimuth units='deg'>168.7835</transverse_axis_azimuth>
+    <structure_name>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\structures\230-w-2_sub.#1.070</structure_name>
+    <structure_description>Willis #2 Substation Deadend</structure_description>
+    <struct_height units='ft'>70.000</struct_height>
+    <embedded_length units='ft' />
+    <structure_specific_material>0</structure_specific_material>
+    <counter_weights units='lbs' />
+    <automatic_structure_group_membership>&apos;All&apos;, &apos;Has DE&apos;, &apos;All sets DE&apos;</automatic_structure_group_membership>
+    <manual_structure_group_membership />
+    <structure_comment_1>WILLIS_SUB</structure_comment_1>
+    <structure_comment_2 />
+    <structure_comment_3>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\WRY-2_1_WILLIS_SUB_073018_v1.JPG</structure_comment_3>
+    <structure_comment_4 />
+    <structure_comment_5 />
+    <structure_comment_6 />
+    <structure_comment_7 />
+    <structure_comment_8 />
+    <structure_comment_9 />
+    <structure_comment_10 />
+    <structure_comment_11 />
+    <structure_comment_12 />
+    <structure_comment_13 />
+    <structure_comment_14 />
+    <structure_comment_15 />
+    <structure_comment_16 />
+    <structure_comment_17 />
+    <structure_comment_18 />
+    <structure_comment_19 />
+    <structure_comment_20 />
+    <structure_comment_21 />
+    <structure_comment_22 />
+    <structure_comment_23 />
+    <structure_comment_24 />
+    <structure_comment_25 />
+    <structure_comment_26 />
+    <structure_comment_27 />
+    <structure_comment_28 />
+    <structure_comment_29 />
+    <structure_comment_30 />
+    <structure_comment_31 />
+    <structure_comment_32 />
+    <structure_comment_33 />
+    <structure_comment_34 />
+    <structure_comment_35 />
+    <structure_comment_36 />
+    <structure_comment_37 />
+    <structure_comment_38 />
+    <structure_comment_39 />
+    <structure_comment_40 />
+    <structure_comment_41 />
+    <structure_comment_42 />
+    <structure_comment_43 />
+    <structure_comment_44 />
+    <structure_comment_45 />
+    <structure_comment_46 />
+    <structure_comment_47 />
+    <structure_comment_48 />
+    <structure_comment_49 />
+    <structure_comment_50 />
+  </staking_table>
+  <staking_table rownum='1'>
+    <rowtext />
+    <structure_number>2</structure_number>
+    <station units='ft'>292.869</station>
+    <height_adjust units='ft'>9.875</height_adjust>
+    <offset_adjust units='ft' />
+    <orientation_angle units='deg' />
+    <x_easting units='ft'>591393.700</x_easting>
+    <y_northing units='ft'>2206947.002</y_northing>
+    <centerline_z_elevation units='ft'>1133.345</centerline_z_elevation>
+    <tin_z_elevation units='ft'>1133.345</tin_z_elevation>
+    <ahead_span units='ft'>733.090</ahead_span>
+    <line_angle units='deg'>-0.7897</line_angle>
+    <sets_in_xy_structure_line_angle_calculation>1-60</sets_in_xy_structure_line_angle_calculation>
+    <transverse_axis_azimuth units='deg'>168.3886</transverse_axis_azimuth>
+    <structure_name>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\rue 1-1-230-ee+3.065</structure_name>
+    <structure_description>230kV - Type EE - Strain Three Pole - 0&#176; Angle - Distance Below Top Varies</structure_description>
+    <struct_height units='ft'>56.500</struct_height>
+    <embedded_length units='ft' />
+    <structure_specific_material>0</structure_specific_material>
+    <counter_weights units='lbs' />
+    <automatic_structure_group_membership>&apos;All&apos;, &apos;Has DE&apos;, &apos;All sets DE&apos;, &apos;Angle&apos;</automatic_structure_group_membership>
+    <manual_structure_group_membership />
+    <structure_comment_1>1/1</structure_comment_1>
+    <structure_comment_2>EE</structure_comment_2>
+    <structure_comment_3>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\WRY-2_2_1_1_073018_v1.JPG</structure_comment_3>
+    <structure_comment_4 />
+    <structure_comment_5 />
+    <structure_comment_6 />
+    <structure_comment_7 />
+    <structure_comment_8 />
+    <structure_comment_9 />
+    <structure_comment_10 />
+    <structure_comment_11 />
+    <structure_comment_12 />
+    <structure_comment_13 />
+    <structure_comment_14 />
+    <structure_comment_15 />
+    <structure_comment_16 />
+    <structure_comment_17 />
+    <structure_comment_18 />
+    <structure_comment_19 />
+    <structure_comment_20 />
+    <structure_comment_21 />
+    <structure_comment_22 />
+    <structure_comment_23 />
+    <structure_comment_24 />
+    <structure_comment_25 />
+    <structure_comment_26 />
+    <structure_comment_27 />
+    <structure_comment_28 />
+    <structure_comment_29 />
+    <structure_comment_30 />
+    <structure_comment_31 />
+    <structure_comment_32 />
+    <structure_comment_33 />
+    <structure_comment_34 />
+    <structure_comment_35 />
+    <structure_comment_36 />
+    <structure_comment_37 />
+    <structure_comment_38 />
+    <structure_comment_39 />
+    <structure_comment_40 />
+    <structure_comment_41 />
+    <structure_comment_42 />
+    <structure_comment_43 />
+    <structure_comment_44 />
+    <structure_comment_45 />
+    <structure_comment_46 />
+    <structure_comment_47 />
+    <structure_comment_48 />
+    <structure_comment_49 />
+    <structure_comment_50 />
+  </staking_table>
+  <staking_table rownum='2'>
+    <rowtext />
+    <structure_number>3</structure_number>
+    <station units='ft'>1025.959</station>
+    <height_adjust units='ft'>13.808</height_adjust>
+    <offset_adjust units='ft' />
+    <orientation_angle units='deg' />
+    <x_easting units='ft'>592110.754</x_easting>
+    <y_northing units='ft'>2207099.498</y_northing>
+    <centerline_z_elevation units='ft'>1142.632</centerline_z_elevation>
+    <tin_z_elevation units='ft'>1142.632</tin_z_elevation>
+    <ahead_span units='ft'>766.109</ahead_span>
+    <line_angle units='deg'>4.7591</line_angle>
+    <sets_in_xy_structure_line_angle_calculation>1-60</sets_in_xy_structure_line_angle_calculation>
+    <transverse_axis_azimuth units='deg'>170.3733</transverse_axis_azimuth>
+    <structure_name>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\structures\230-bb-l.#3.065</structure_name>
+    <structure_description>230kV - Type BB - V-String - Small Running Angle - Left Angle</structure_description>
+    <struct_height units='ft'>56.500</struct_height>
+    <embedded_length units='ft' />
+    <structure_specific_material>0</structure_specific_material>
+    <counter_weights units='lbs' />
+    <automatic_structure_group_membership>&apos;All&apos;, &apos;No DE&apos;, &apos;Not all sets DE&apos;, &apos;Angle&apos;</automatic_structure_group_membership>
+    <manual_structure_group_membership />
+    <structure_comment_1>1/2</structure_comment_1>
+    <structure_comment_2>BB</structure_comment_2>
+    <structure_comment_3>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\WRY-2_3_1_2_073018_v1.JPG</structure_comment_3>
+    <structure_comment_4 />
+    <structure_comment_5 />
+    <structure_comment_6 />
+    <structure_comment_7 />
+    <structure_comment_8 />
+    <structure_comment_9 />
+    <structure_comment_10 />
+    <structure_comment_11 />
+    <structure_comment_12 />
+    <structure_comment_13 />
+    <structure_comment_14 />
+    <structure_comment_15 />
+    <structure_comment_16 />
+    <structure_comment_17 />
+    <structure_comment_18 />
+    <structure_comment_19 />
+    <structure_comment_20 />
+    <structure_comment_21 />
+    <structure_comment_22 />
+    <structure_comment_23 />
+    <structure_comment_24 />
+    <structure_comment_25 />
+    <structure_comment_26 />
+    <structure_comment_27 />
+    <structure_comment_28 />
+    <structure_comment_29 />
+    <structure_comment_30 />
+    <structure_comment_31 />
+    <structure_comment_32 />
+    <structure_comment_33 />
+    <structure_comment_34 />
+    <structure_comment_35 />
+    <structure_comment_36 />
+    <structure_comment_37 />
+    <structure_comment_38 />
+    <structure_comment_39 />
+    <structure_comment_40 />
+    <structure_comment_41 />
+    <structure_comment_42 />
+    <structure_comment_43 />
+    <structure_comment_44 />
+    <structure_comment_45 />
+    <structure_comment_46 />
+    <structure_comment_47 />
+    <structure_comment_48 />
+    <structure_comment_49 />
+    <structure_comment_50 />
+  </staking_table>
+  <staking_table rownum='3'>
+    <rowtext />
+    <structure_number>4</structure_number>
+    <station units='ft'>1792.069</station>
+    <height_adjust units='ft'>13.354</height_adjust>
+    <offset_adjust units='ft' />
+    <orientation_angle units='deg' />
+    <x_easting units='ft'>592870.743</x_easting>
+    <y_northing units='ft'>2207196.142</y_northing>
+    <centerline_z_elevation units='ft'>1158.306</centerline_z_elevation>
+    <tin_z_elevation units='ft'>1158.306</tin_z_elevation>
+    <ahead_span units='ft'>729.714</ahead_span>
+    <line_angle units='deg'>-0.8995</line_angle>
+    <sets_in_xy_structure_line_angle_calculation>1-60</sets_in_xy_structure_line_angle_calculation>
+    <transverse_axis_azimuth units='deg'>172.3031</transverse_axis_azimuth>
+    <structure_name>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\structures\230-aa.#4.065</structure_name>
+    <structure_description>230kV - Type AA - Suspension H-Frame</structure_description>
+    <struct_height units='ft'>56.500</struct_height>
+    <embedded_length units='ft' />
+    <structure_specific_material>0</structure_specific_material>
+    <counter_weights units='lbs' />
+    <automatic_structure_group_membership>&apos;All&apos;, &apos;No DE&apos;, &apos;Not all sets DE&apos;, &apos;Angle&apos;</automatic_structure_group_membership>
+    <manual_structure_group_membership />
+    <structure_comment_1>1/3</structure_comment_1>
+    <structure_comment_2>AA</structure_comment_2>
+    <structure_comment_3>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\WRY-2_4_1_3_073018_v1.JPG</structure_comment_3>
+    <structure_comment_4 />
+    <structure_comment_5 />
+    <structure_comment_6 />
+    <structure_comment_7 />
+    <structure_comment_8 />
+    <structure_comment_9 />
+    <structure_comment_10 />
+    <structure_comment_11 />
+    <structure_comment_12 />
+    <structure_comment_13 />
+    <structure_comment_14 />
+    <structure_comment_15 />
+    <structure_comment_16 />
+    <structure_comment_17 />
+    <structure_comment_18 />
+    <structure_comment_19 />
+    <structure_comment_20 />
+    <structure_comment_21 />
+    <structure_comment_22 />
+    <structure_comment_23 />
+    <structure_comment_24 />
+    <structure_comment_25 />
+    <structure_comment_26 />
+    <structure_comment_27 />
+    <structure_comment_28 />
+    <structure_comment_29 />
+    <structure_comment_30 />
+    <structure_comment_31 />
+    <structure_comment_32 />
+    <structure_comment_33 />
+    <structure_comment_34 />
+    <structure_comment_35 />
+    <structure_comment_36 />
+    <structure_comment_37 />
+    <structure_comment_38 />
+    <structure_comment_39 />
+    <structure_comment_40 />
+    <structure_comment_41 />
+    <structure_comment_42 />
+    <structure_comment_43 />
+    <structure_comment_44 />
+    <structure_comment_45 />
+    <structure_comment_46 />
+    <structure_comment_47 />
+    <structure_comment_48 />
+    <structure_comment_49 />
+    <structure_comment_50 />
+  </staking_table>
+  <staking_table rownum='4'>
+    <rowtext />
+    <structure_number>5</structure_number>
+    <station units='ft'>2521.782</station>
+    <height_adjust units='ft'>13.821</height_adjust>
+    <offset_adjust units='ft' />
+    <orientation_angle units='deg' />
+    <x_easting units='ft'>593593.093</x_easting>
+    <y_northing units='ft'>2207299.547</y_northing>
+    <centerline_z_elevation units='ft'>1173.394</centerline_z_elevation>
+    <tin_z_elevation units='ft'>1173.394</tin_z_elevation>
+    <ahead_span units='ft'>770.439</ahead_span>
+    <line_angle units='deg'>0.1450</line_angle>
+    <sets_in_xy_structure_line_angle_calculation>1-60</sets_in_xy_structure_line_angle_calculation>
+    <transverse_axis_azimuth units='deg'>171.9259</transverse_axis_azimuth>
+    <structure_name>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\structures\230-aa.#5.065</structure_name>
+    <structure_description>230kV - Type AA - Suspension H-Frame</structure_description>
+    <struct_height units='ft'>56.500</struct_height>
+    <embedded_length units='ft' />
+    <structure_specific_material>0</structure_specific_material>
+    <counter_weights units='lbs' />
+    <automatic_structure_group_membership>&apos;All&apos;, &apos;No DE&apos;, &apos;Not all sets DE&apos;, &apos;Angle&apos;</automatic_structure_group_membership>
+    <manual_structure_group_membership />
+    <structure_comment_1>1/4</structure_comment_1>
+    <structure_comment_2>AA</structure_comment_2>
+    <structure_comment_3>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\WRY-2_5_1_4_073018_v1.JPG</structure_comment_3>
+    <structure_comment_4 />
+    <structure_comment_5 />
+    <structure_comment_6 />
+    <structure_comment_7 />
+    <structure_comment_8 />
+    <structure_comment_9 />
+    <structure_comment_10 />
+    <structure_comment_11 />
+    <structure_comment_12 />
+    <structure_comment_13 />
+    <structure_comment_14 />
+    <structure_comment_15 />
+    <structure_comment_16 />
+    <structure_comment_17 />
+    <structure_comment_18 />
+    <structure_comment_19 />
+    <structure_comment_20 />
+    <structure_comment_21 />
+    <structure_comment_22 />
+    <structure_comment_23 />
+    <structure_comment_24 />
+    <structure_comment_25 />
+    <structure_comment_26 />
+    <structure_comment_27 />
+    <structure_comment_28 />
+    <structure_comment_29 />
+    <structure_comment_30 />
+    <structure_comment_31 />
+    <structure_comment_32 />
+    <structure_comment_33 />
+    <structure_comment_34 />
+    <structure_comment_35 />
+    <structure_comment_36 />
+    <structure_comment_37 />
+    <structure_comment_38 />
+    <structure_comment_39 />
+    <structure_comment_40 />
+    <structure_comment_41 />
+    <structure_comment_42 />
+    <structure_comment_43 />
+    <structure_comment_44 />
+    <structure_comment_45 />
+    <structure_comment_46 />
+    <structure_comment_47 />
+    <structure_comment_48 />
+    <structure_comment_49 />
+    <structure_comment_50 />
+  </staking_table>
+  <staking_table rownum='5'>
+    <rowtext />
+    <structure_number>6</structure_number>
+    <station units='ft'>3292.221</station>
+    <height_adjust units='ft'>17.626</height_adjust>
+    <offset_adjust units='ft' />
+    <orientation_angle units='deg' />
+    <x_easting units='ft'>594356.031</x_easting>
+    <y_northing units='ft'>2207406.792</y_northing>
+    <centerline_z_elevation units='ft'>1173.924</centerline_z_elevation>
+    <tin_z_elevation units='ft'>1173.924</tin_z_elevation>
+    <ahead_span units='ft'>800.449</ahead_span>
+    <line_angle units='deg'>0.0609</line_angle>
+    <sets_in_xy_structure_line_angle_calculation>1-60</sets_in_xy_structure_line_angle_calculation>
+    <transverse_axis_azimuth units='deg'>172.0289</transverse_axis_azimuth>
+    <structure_name>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\structures\230-aa.#6.065</structure_name>
+    <structure_description>230kV - Type AA - Suspension H-Frame</structure_description>
+    <struct_height units='ft'>56.500</struct_height>
+    <embedded_length units='ft' />
+    <structure_specific_material>0</structure_specific_material>
+    <counter_weights units='lbs' />
+    <automatic_structure_group_membership>&apos;All&apos;, &apos;No DE&apos;, &apos;Not all sets DE&apos;, &apos;Angle&apos;</automatic_structure_group_membership>
+    <manual_structure_group_membership />
+    <structure_comment_1>1/5</structure_comment_1>
+    <structure_comment_2>AA</structure_comment_2>
+    <structure_comment_3>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\WRY-2_6_1_5_073018_v1.JPG</structure_comment_3>
+    <structure_comment_4 />
+    <structure_comment_5 />
+    <structure_comment_6 />
+    <structure_comment_7 />
+    <structure_comment_8 />
+    <structure_comment_9 />
+    <structure_comment_10 />
+    <structure_comment_11 />
+    <structure_comment_12 />
+    <structure_comment_13 />
+    <structure_comment_14 />
+    <structure_comment_15 />
+    <structure_comment_16 />
+    <structure_comment_17 />
+    <structure_comment_18 />
+    <structure_comment_19 />
+    <structure_comment_20 />
+    <structure_comment_21 />
+    <structure_comment_22 />
+    <structure_comment_23 />
+    <structure_comment_24 />
+    <structure_comment_25 />
+    <structure_comment_26 />
+    <structure_comment_27 />
+    <structure_comment_28 />
+    <structure_comment_29 />
+    <structure_comment_30 />
+    <structure_comment_31 />
+    <structure_comment_32 />
+    <structure_comment_33 />
+    <structure_comment_34 />
+    <structure_comment_35 />
+    <structure_comment_36 />
+    <structure_comment_37 />
+    <structure_comment_38 />
+    <structure_comment_39 />
+    <structure_comment_40 />
+    <structure_comment_41 />
+    <structure_comment_42 />
+    <structure_comment_43 />
+    <structure_comment_44 />
+    <structure_comment_45 />
+    <structure_comment_46 />
+    <structure_comment_47 />
+    <structure_comment_48 />
+    <structure_comment_49 />
+    <structure_comment_50 />
+  </staking_table>
+  <staking_table rownum='6'>
+    <rowtext />
+    <structure_number>7</structure_number>
+    <station units='ft'>4092.670</station>
+    <height_adjust units='ft'>17.816</height_adjust>
+    <offset_adjust units='ft' />
+    <orientation_angle units='deg' />
+    <x_easting units='ft'>595148.805</x_easting>
+    <y_northing units='ft'>2207517.372</y_northing>
+    <centerline_z_elevation units='ft'>1188.564</centerline_z_elevation>
+    <tin_z_elevation units='ft'>1188.564</tin_z_elevation>
+    <ahead_span units='ft'>849.306</ahead_span>
+    <line_angle units='deg'>-0.1877</line_angle>
+    <sets_in_xy_structure_line_angle_calculation>1-60</sets_in_xy_structure_line_angle_calculation>
+    <transverse_axis_azimuth units='deg'>171.9655</transverse_axis_azimuth>
+    <structure_name>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\structures\230-aa.#7.065</structure_name>
+    <structure_description>230kV - Type AA - Suspension H-Frame</structure_description>
+    <struct_height units='ft'>56.500</struct_height>
+    <embedded_length units='ft' />
+    <structure_specific_material>0</structure_specific_material>
+    <counter_weights units='lbs' />
+    <automatic_structure_group_membership>&apos;All&apos;, &apos;No DE&apos;, &apos;Not all sets DE&apos;, &apos;Angle&apos;</automatic_structure_group_membership>
+    <manual_structure_group_membership />
+    <structure_comment_1>1/6</structure_comment_1>
+    <structure_comment_2>AA</structure_comment_2>
+    <structure_comment_3>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\WRY-2_7_1_6_073018_v1.JPG</structure_comment_3>
+    <structure_comment_4 />
+    <structure_comment_5 />
+    <structure_comment_6 />
+    <structure_comment_7 />
+    <structure_comment_8 />
+    <structure_comment_9 />
+    <structure_comment_10 />
+    <structure_comment_11 />
+    <structure_comment_12 />
+    <structure_comment_13 />
+    <structure_comment_14 />
+    <structure_comment_15 />
+    <structure_comment_16 />
+    <structure_comment_17 />
+    <structure_comment_18 />
+    <structure_comment_19 />
+    <structure_comment_20 />
+    <structure_comment_21 />
+    <structure_comment_22 />
+    <structure_comment_23 />
+    <structure_comment_24 />
+    <structure_comment_25 />
+    <structure_comment_26 />
+    <structure_comment_27 />
+    <structure_comment_28 />
+    <structure_comment_29 />
+    <structure_comment_30 />
+    <structure_comment_31 />
+    <structure_comment_32 />
+    <structure_comment_33 />
+    <structure_comment_34 />
+    <structure_comment_35 />
+    <structure_comment_36 />
+    <structure_comment_37 />
+    <structure_comment_38 />
+    <structure_comment_39 />
+    <structure_comment_40 />
+    <structure_comment_41 />
+    <structure_comment_42 />
+    <structure_comment_43 />
+    <structure_comment_44 />
+    <structure_comment_45 />
+    <structure_comment_46 />
+    <structure_comment_47 />
+    <structure_comment_48 />
+    <structure_comment_49 />
+    <structure_comment_50 />
+  </staking_table>
+  <staking_table rownum='7'>
+    <rowtext />
+    <structure_number>8</structure_number>
+    <station units='ft'>4941.976</station>
+    <height_adjust units='ft'>18.536</height_adjust>
+    <offset_adjust units='ft' />
+    <orientation_angle units='deg' />
+    <x_easting units='ft'>595989.579</x_easting>
+    <y_northing units='ft'>2207637.457</y_northing>
+    <centerline_z_elevation units='ft'>1193.614</centerline_z_elevation>
+    <tin_z_elevation units='ft'>1193.614</tin_z_elevation>
+    <ahead_span units='ft'>830.341</ahead_span>
+    <line_angle units='deg'>0.1602</line_angle>
+    <sets_in_xy_structure_line_angle_calculation>1-60</sets_in_xy_structure_line_angle_calculation>
+    <transverse_axis_azimuth units='deg'>171.9517</transverse_axis_azimuth>
+    <structure_name>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\structures\230-aa.#8.065</structure_name>
+    <structure_description>230kV - Type AA - Suspension H-Frame</structure_description>
+    <struct_height units='ft'>56.500</struct_height>
+    <embedded_length units='ft' />
+    <structure_specific_material>0</structure_specific_material>
+    <counter_weights units='lbs' />
+    <automatic_structure_group_membership>&apos;All&apos;, &apos;No DE&apos;, &apos;Not all sets DE&apos;, &apos;Angle&apos;</automatic_structure_group_membership>
+    <manual_structure_group_membership />
+    <structure_comment_1>1/7</structure_comment_1>
+    <structure_comment_2>AA</structure_comment_2>
+    <structure_comment_3>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\WRY-2_8_1_7_073018_v1.JPG</structure_comment_3>
+    <structure_comment_4 />
+    <structure_comment_5 />
+    <structure_comment_6 />
+    <structure_comment_7 />
+    <structure_comment_8 />
+    <structure_comment_9 />
+    <structure_comment_10 />
+    <structure_comment_11 />
+    <structure_comment_12 />
+    <structure_comment_13 />
+    <structure_comment_14 />
+    <structure_comment_15 />
+    <structure_comment_16 />
+    <structure_comment_17 />
+    <structure_comment_18 />
+    <structure_comment_19 />
+    <structure_comment_20 />
+    <structure_comment_21 />
+    <structure_comment_22 />
+    <structure_comment_23 />
+    <structure_comment_24 />
+    <structure_comment_25 />
+    <structure_comment_26 />
+    <structure_comment_27 />
+    <structure_comment_28 />
+    <structure_comment_29 />
+    <structure_comment_30 />
+    <structure_comment_31 />
+    <structure_comment_32 />
+    <structure_comment_33 />
+    <structure_comment_34 />
+    <structure_comment_35 />
+    <structure_comment_36 />
+    <structure_comment_37 />
+    <structure_comment_38 />
+    <structure_comment_39 />
+    <structure_comment_40 />
+    <structure_comment_41 />
+    <structure_comment_42 />
+    <structure_comment_43 />
+    <structure_comment_44 />
+    <structure_comment_45 />
+    <structure_comment_46 />
+    <structure_comment_47 />
+    <structure_comment_48 />
+    <structure_comment_49 />
+    <structure_comment_50 />
+  </staking_table>
+  <staking_table rownum='8'>
+    <rowtext />
+    <structure_number>9</structure_number>
+    <station units='ft'>5772.317</station>
+    <height_adjust units='ft'>11.476</height_adjust>
+    <offset_adjust units='ft' />
+    <orientation_angle units='deg' />
+    <x_easting units='ft'>596811.903</x_easting>
+    <y_northing units='ft'>2207752.561</y_northing>
+    <centerline_z_elevation units='ft'>1201.244</centerline_z_elevation>
+    <tin_z_elevation units='ft'>1201.244</tin_z_elevation>
+    <ahead_span units='ft'>869.757</ahead_span>
+    <line_angle units='deg'>-0.1226</line_angle>
+    <sets_in_xy_structure_line_angle_calculation>1-60</sets_in_xy_structure_line_angle_calculation>
+    <transverse_axis_azimuth units='deg'>171.9705</transverse_axis_azimuth>
+    <structure_name>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\structures\230-aa.#9.065</structure_name>
+    <structure_description>230kV - Type AA - Suspension H-Frame</structure_description>
+    <struct_height units='ft'>56.500</struct_height>
+    <embedded_length units='ft' />
+    <structure_specific_material>0</structure_specific_material>
+    <counter_weights units='lbs' />
+    <automatic_structure_group_membership>&apos;All&apos;, &apos;No DE&apos;, &apos;Not all sets DE&apos;, &apos;Angle&apos;</automatic_structure_group_membership>
+    <manual_structure_group_membership />
+    <structure_comment_1>2/1</structure_comment_1>
+    <structure_comment_2>AA</structure_comment_2>
+    <structure_comment_3>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\WRY-2_9_2_1_073018_v1.JPG</structure_comment_3>
+    <structure_comment_4 />
+    <structure_comment_5 />
+    <structure_comment_6 />
+    <structure_comment_7 />
+    <structure_comment_8 />
+    <structure_comment_9 />
+    <structure_comment_10 />
+    <structure_comment_11 />
+    <structure_comment_12 />
+    <structure_comment_13 />
+    <structure_comment_14 />
+    <structure_comment_15 />
+    <structure_comment_16 />
+    <structure_comment_17 />
+    <structure_comment_18 />
+    <structure_comment_19 />
+    <structure_comment_20 />
+    <structure_comment_21 />
+    <structure_comment_22 />
+    <structure_comment_23 />
+    <structure_comment_24 />
+    <structure_comment_25 />
+    <structure_comment_26 />
+    <structure_comment_27 />
+    <structure_comment_28 />
+    <structure_comment_29 />
+    <structure_comment_30 />
+    <structure_comment_31 />
+    <structure_comment_32 />
+    <structure_comment_33 />
+    <structure_comment_34 />
+    <structure_comment_35 />
+    <structure_comment_36 />
+    <structure_comment_37 />
+    <structure_comment_38 />
+    <structure_comment_39 />
+    <structure_comment_40 />
+    <structure_comment_41 />
+    <structure_comment_42 />
+    <structure_comment_43 />
+    <structure_comment_44 />
+    <structure_comment_45 />
+    <structure_comment_46 />
+    <structure_comment_47 />
+    <structure_comment_48 />
+    <structure_comment_49 />
+    <structure_comment_50 />
+  </staking_table>
+  <staking_table rownum='9'>
+    <rowtext />
+    <structure_number>10</structure_number>
+    <station units='ft'>6642.074</station>
+    <height_adjust units='ft'>17.184</height_adjust>
+    <offset_adjust units='ft' />
+    <orientation_angle units='deg'>2.0000</orientation_angle>
+    <x_easting units='ft'>597673.003</x_easting>
+    <y_northing units='ft'>2207874.972</y_northing>
+    <centerline_z_elevation units='ft'>1203.346</centerline_z_elevation>
+    <tin_z_elevation units='ft'>1203.346</tin_z_elevation>
+    <ahead_span units='ft'>750.430</ahead_span>
+    <line_angle units='deg'>0.1199</line_angle>
+    <sets_in_xy_structure_line_angle_calculation>1-60</sets_in_xy_structure_line_angle_calculation>
+    <transverse_axis_azimuth units='deg'>173.9692</transverse_axis_azimuth>
+    <structure_name>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\structures\230-aa.#10.065</structure_name>
+    <structure_description>230kV - Type AA - Suspension H-Frame</structure_description>
+    <struct_height units='ft'>56.500</struct_height>
+    <embedded_length units='ft' />
+    <structure_specific_material>0</structure_specific_material>
+    <counter_weights units='lbs' />
+    <automatic_structure_group_membership>&apos;All&apos;, &apos;No DE&apos;, &apos;Not all sets DE&apos;, &apos;Angle&apos;</automatic_structure_group_membership>
+    <manual_structure_group_membership />
+    <structure_comment_1>2/2</structure_comment_1>
+    <structure_comment_2>AA</structure_comment_2>
+    <structure_comment_3>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\WRY-2_10_2_2_073018_v1.JPG</structure_comment_3>
+    <structure_comment_4 />
+    <structure_comment_5 />
+    <structure_comment_6 />
+    <structure_comment_7 />
+    <structure_comment_8 />
+    <structure_comment_9 />
+    <structure_comment_10 />
+    <structure_comment_11 />
+    <structure_comment_12 />
+    <structure_comment_13 />
+    <structure_comment_14 />
+    <structure_comment_15 />
+    <structure_comment_16 />
+    <structure_comment_17 />
+    <structure_comment_18 />
+    <structure_comment_19 />
+    <structure_comment_20 />
+    <structure_comment_21 />
+    <structure_comment_22 />
+    <structure_comment_23 />
+    <structure_comment_24 />
+    <structure_comment_25 />
+    <structure_comment_26 />
+    <structure_comment_27 />
+    <structure_comment_28 />
+    <structure_comment_29 />
+    <structure_comment_30 />
+    <structure_comment_31 />
+    <structure_comment_32 />
+    <structure_comment_33 />
+    <structure_comment_34 />
+    <structure_comment_35 />
+    <structure_comment_36 />
+    <structure_comment_37 />
+    <structure_comment_38 />
+    <structure_comment_39 />
+    <structure_comment_40 />
+    <structure_comment_41 />
+    <structure_comment_42 />
+    <structure_comment_43 />
+    <structure_comment_44 />
+    <structure_comment_45 />
+    <structure_comment_46 />
+    <structure_comment_47 />
+    <structure_comment_48 />
+    <structure_comment_49 />
+    <structure_comment_50 />
+  </staking_table>
+  <staking_table rownum='10'>
+    <rowtext />
+    <structure_number>11</structure_number>
+    <station units='ft'>7392.505</station>
+    <height_adjust units='ft'>13.589</height_adjust>
+    <offset_adjust units='ft' />
+    <orientation_angle units='deg' />
+    <x_easting units='ft'>598416.183</x_easting>
+    <y_northing units='ft'>2207979.034</y_northing>
+    <centerline_z_elevation units='ft'>1204.391</centerline_z_elevation>
+    <tin_z_elevation units='ft'>1204.391</tin_z_elevation>
+    <ahead_span units='ft'>790.195</ahead_span>
+    <line_angle units='deg'>-0.0204</line_angle>
+    <sets_in_xy_structure_line_angle_calculation>1-60</sets_in_xy_structure_line_angle_calculation>
+    <transverse_axis_azimuth units='deg'>172.0189</transverse_axis_azimuth>
+    <structure_name>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\structures\230-aa.#11.065</structure_name>
+    <structure_description>230kV - Type AA - Suspension H-Frame</structure_description>
+    <struct_height units='ft'>56.500</struct_height>
+    <embedded_length units='ft' />
+    <structure_specific_material>0</structure_specific_material>
+    <counter_weights units='lbs' />
+    <automatic_structure_group_membership>&apos;All&apos;, &apos;No DE&apos;, &apos;Not all sets DE&apos;, &apos;Angle&apos;</automatic_structure_group_membership>
+    <manual_structure_group_membership />
+    <structure_comment_1>2/3</structure_comment_1>
+    <structure_comment_2>AA</structure_comment_2>
+    <structure_comment_3>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\WRY-2_11_2_3_073018_v1.JPG</structure_comment_3>
+    <structure_comment_4 />
+    <structure_comment_5 />
+    <structure_comment_6 />
+    <structure_comment_7 />
+    <structure_comment_8 />
+    <structure_comment_9 />
+    <structure_comment_10 />
+    <structure_comment_11 />
+    <structure_comment_12 />
+    <structure_comment_13 />
+    <structure_comment_14 />
+    <structure_comment_15 />
+    <structure_comment_16 />
+    <structure_comment_17 />
+    <structure_comment_18 />
+    <structure_comment_19 />
+    <structure_comment_20 />
+    <structure_comment_21 />
+    <structure_comment_22 />
+    <structure_comment_23 />
+    <structure_comment_24 />
+    <structure_comment_25 />
+    <structure_comment_26 />
+    <structure_comment_27 />
+    <structure_comment_28 />
+    <structure_comment_29 />
+    <structure_comment_30 />
+    <structure_comment_31 />
+    <structure_comment_32 />
+    <structure_comment_33 />
+    <structure_comment_34 />
+    <structure_comment_35 />
+    <structure_comment_36 />
+    <structure_comment_37 />
+    <structure_comment_38 />
+    <structure_comment_39 />
+    <structure_comment_40 />
+    <structure_comment_41 />
+    <structure_comment_42 />
+    <structure_comment_43 />
+    <structure_comment_44 />
+    <structure_comment_45 />
+    <structure_comment_46 />
+    <structure_comment_47 />
+    <structure_comment_48 />
+    <structure_comment_49 />
+    <structure_comment_50 />
+  </staking_table>
+  <staking_table rownum='11'>
+    <rowtext />
+    <structure_number>12</structure_number>
+    <station units='ft'>8182.700</station>
+    <height_adjust units='ft'>18.157</height_adjust>
+    <offset_adjust units='ft' />
+    <orientation_angle units='deg' />
+    <x_easting units='ft'>599198.705</x_easting>
+    <y_northing units='ft'>2208088.889</y_northing>
+    <centerline_z_elevation units='ft'>1186.079</centerline_z_elevation>
+    <tin_z_elevation units='ft'>1186.079</tin_z_elevation>
+    <ahead_span units='ft'>488.192</ahead_span>
+    <line_angle units='deg'>-0.0425</line_angle>
+    <sets_in_xy_structure_line_angle_calculation>1-60</sets_in_xy_structure_line_angle_calculation>
+    <transverse_axis_azimuth units='deg'>171.9875</transverse_axis_azimuth>
+    <structure_name>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\structures\230-aa.#12.065</structure_name>
+    <structure_description>230kV - Type AA - Suspension H-Frame</structure_description>
+    <struct_height units='ft'>56.500</struct_height>
+    <embedded_length units='ft' />
+    <structure_specific_material>0</structure_specific_material>
+    <counter_weights units='lbs' />
+    <automatic_structure_group_membership>&apos;All&apos;, &apos;No DE&apos;, &apos;Not all sets DE&apos;, &apos;Angle&apos;</automatic_structure_group_membership>
+    <manual_structure_group_membership />
+    <structure_comment_1>2/4</structure_comment_1>
+    <structure_comment_2>AA</structure_comment_2>
+    <structure_comment_3>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\WRY-2_12_2_4_073018_v1.JPG</structure_comment_3>
+    <structure_comment_4 />
+    <structure_comment_5 />
+    <structure_comment_6 />
+    <structure_comment_7 />
+    <structure_comment_8 />
+    <structure_comment_9 />
+    <structure_comment_10 />
+    <structure_comment_11 />
+    <structure_comment_12 />
+    <structure_comment_13 />
+    <structure_comment_14 />
+    <structure_comment_15 />
+    <structure_comment_16 />
+    <structure_comment_17 />
+    <structure_comment_18 />
+    <structure_comment_19 />
+    <structure_comment_20 />
+    <structure_comment_21 />
+    <structure_comment_22 />
+    <structure_comment_23 />
+    <structure_comment_24 />
+    <structure_comment_25 />
+    <structure_comment_26 />
+    <structure_comment_27 />
+    <structure_comment_28 />
+    <structure_comment_29 />
+    <structure_comment_30 />
+    <structure_comment_31 />
+    <structure_comment_32 />
+    <structure_comment_33 />
+    <structure_comment_34 />
+    <structure_comment_35 />
+    <structure_comment_36 />
+    <structure_comment_37 />
+    <structure_comment_38 />
+    <structure_comment_39 />
+    <structure_comment_40 />
+    <structure_comment_41 />
+    <structure_comment_42 />
+    <structure_comment_43 />
+    <structure_comment_44 />
+    <structure_comment_45 />
+    <structure_comment_46 />
+    <structure_comment_47 />
+    <structure_comment_48 />
+    <structure_comment_49 />
+    <structure_comment_50 />
+  </staking_table>
+  <staking_table rownum='12'>
+    <rowtext />
+    <structure_number>13</structure_number>
+    <station units='ft'>8670.892</station>
+    <height_adjust units='ft'>13.724</height_adjust>
+    <offset_adjust units='ft' />
+    <orientation_angle units='deg' />
+    <x_easting units='ft'>599682.106</x_easting>
+    <y_northing units='ft'>2208157.117</y_northing>
+    <centerline_z_elevation units='ft'>1178.516</centerline_z_elevation>
+    <tin_z_elevation units='ft'>1178.516</tin_z_elevation>
+    <ahead_span units='ft'>1461.084</ahead_span>
+    <line_angle units='deg'>-0.0441</line_angle>
+    <sets_in_xy_structure_line_angle_calculation>1-60</sets_in_xy_structure_line_angle_calculation>
+    <transverse_axis_azimuth units='deg'>171.9442</transverse_axis_azimuth>
+    <structure_name>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\rue 2-5-230-ee+3.065</structure_name>
+    <structure_description>230kV - Type EE - Strain Three Pole - 0&#176; Angle - Distance Below Top Varies</structure_description>
+    <struct_height units='ft'>56.500</struct_height>
+    <embedded_length units='ft' />
+    <structure_specific_material>0</structure_specific_material>
+    <counter_weights units='lbs' />
+    <automatic_structure_group_membership>&apos;All&apos;, &apos;Has DE&apos;, &apos;All sets DE&apos;, &apos;Angle&apos;</automatic_structure_group_membership>
+    <manual_structure_group_membership />
+    <structure_comment_1>2/5</structure_comment_1>
+    <structure_comment_2>EE</structure_comment_2>
+    <structure_comment_3>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\WRY-2_13_2_5_073018_v1.JPG</structure_comment_3>
+    <structure_comment_4 />
+    <structure_comment_5 />
+    <structure_comment_6 />
+    <structure_comment_7 />
+    <structure_comment_8 />
+    <structure_comment_9 />
+    <structure_comment_10 />
+    <structure_comment_11 />
+    <structure_comment_12 />
+    <structure_comment_13 />
+    <structure_comment_14 />
+    <structure_comment_15 />
+    <structure_comment_16 />
+    <structure_comment_17 />
+    <structure_comment_18 />
+    <structure_comment_19 />
+    <structure_comment_20 />
+    <structure_comment_21 />
+    <structure_comment_22 />
+    <structure_comment_23 />
+    <structure_comment_24 />
+    <structure_comment_25 />
+    <structure_comment_26 />
+    <structure_comment_27 />
+    <structure_comment_28 />
+    <structure_comment_29 />
+    <structure_comment_30 />
+    <structure_comment_31 />
+    <structure_comment_32 />
+    <structure_comment_33 />
+    <structure_comment_34 />
+    <structure_comment_35 />
+    <structure_comment_36 />
+    <structure_comment_37 />
+    <structure_comment_38 />
+    <structure_comment_39 />
+    <structure_comment_40 />
+    <structure_comment_41 />
+    <structure_comment_42 />
+    <structure_comment_43 />
+    <structure_comment_44 />
+    <structure_comment_45 />
+    <structure_comment_46 />
+    <structure_comment_47 />
+    <structure_comment_48 />
+    <structure_comment_49 />
+    <structure_comment_50 />
+  </staking_table>
+  <staking_table rownum='13'>
+    <rowtext />
+    <structure_number>14</structure_number>
+    <station units='ft'>10131.976</station>
+    <height_adjust units='ft'>8.651</height_adjust>
+    <offset_adjust units='ft' />
+    <orientation_angle units='deg' />
+    <x_easting units='ft'>601128.693</x_easting>
+    <y_northing units='ft'>2208362.427</y_northing>
+    <centerline_z_elevation units='ft'>1186.209</centerline_z_elevation>
+    <tin_z_elevation units='ft'>1186.209</tin_z_elevation>
+    <ahead_span units='ft'>529.928</ahead_span>
+    <line_angle units='deg'>0.0962</line_angle>
+    <sets_in_xy_structure_line_angle_calculation>1-60</sets_in_xy_structure_line_angle_calculation>
+    <transverse_axis_azimuth units='deg'>171.9702</transverse_axis_azimuth>
+    <structure_name>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\rue 2-6-230-ee+3.065</structure_name>
+    <structure_description>230kV - Type EE - Strain Three Pole - 0&#176; Angle - Distance Below Top Varies</structure_description>
+    <struct_height units='ft'>56.500</struct_height>
+    <embedded_length units='ft' />
+    <structure_specific_material>0</structure_specific_material>
+    <counter_weights units='lbs' />
+    <automatic_structure_group_membership>&apos;All&apos;, &apos;Has DE&apos;, &apos;All sets DE&apos;, &apos;Angle&apos;</automatic_structure_group_membership>
+    <manual_structure_group_membership />
+    <structure_comment_1>2/6</structure_comment_1>
+    <structure_comment_2>EE</structure_comment_2>
+    <structure_comment_3>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\WRY-2_14_2_6_073018_v1.JPG</structure_comment_3>
+    <structure_comment_4 />
+    <structure_comment_5 />
+    <structure_comment_6 />
+    <structure_comment_7 />
+    <structure_comment_8 />
+    <structure_comment_9 />
+    <structure_comment_10 />
+    <structure_comment_11 />
+    <structure_comment_12 />
+    <structure_comment_13 />
+    <structure_comment_14 />
+    <structure_comment_15 />
+    <structure_comment_16 />
+    <structure_comment_17 />
+    <structure_comment_18 />
+    <structure_comment_19 />
+    <structure_comment_20 />
+    <structure_comment_21 />
+    <structure_comment_22 />
+    <structure_comment_23 />
+    <structure_comment_24 />
+    <structure_comment_25 />
+    <structure_comment_26 />
+    <structure_comment_27 />
+    <structure_comment_28 />
+    <structure_comment_29 />
+    <structure_comment_30 />
+    <structure_comment_31 />
+    <structure_comment_32 />
+    <structure_comment_33 />
+    <structure_comment_34 />
+    <structure_comment_35 />
+    <structure_comment_36 />
+    <structure_comment_37 />
+    <structure_comment_38 />
+    <structure_comment_39 />
+    <structure_comment_40 />
+    <structure_comment_41 />
+    <structure_comment_42 />
+    <structure_comment_43 />
+    <structure_comment_44 />
+    <structure_comment_45 />
+    <structure_comment_46 />
+    <structure_comment_47 />
+    <structure_comment_48 />
+    <structure_comment_49 />
+    <structure_comment_50 />
+  </staking_table>
+  <staking_table rownum='14'>
+    <rowtext />
+    <structure_number>15</structure_number>
+    <station units='ft'>10661.904</station>
+    <height_adjust units='ft'>8.428</height_adjust>
+    <offset_adjust units='ft' />
+    <orientation_angle units='deg' />
+    <x_easting units='ft'>601653.487</x_easting>
+    <y_northing units='ft'>2208436.011</y_northing>
+    <centerline_z_elevation units='ft'>1180.812</centerline_z_elevation>
+    <tin_z_elevation units='ft'>1180.812</tin_z_elevation>
+    <ahead_span units='ft'>679.176</ahead_span>
+    <line_angle units='deg'>0.0304</line_angle>
+    <sets_in_xy_structure_line_angle_calculation>1-60</sets_in_xy_structure_line_angle_calculation>
+    <transverse_axis_azimuth units='deg'>172.0335</transverse_axis_azimuth>
+    <structure_name>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\structures\230-aa.#15.065</structure_name>
+    <structure_description>230kV - Type AA - Suspension H-Frame</structure_description>
+    <struct_height units='ft'>56.500</struct_height>
+    <embedded_length units='ft' />
+    <structure_specific_material>0</structure_specific_material>
+    <counter_weights units='lbs' />
+    <automatic_structure_group_membership>&apos;All&apos;, &apos;No DE&apos;, &apos;Not all sets DE&apos;, &apos;Angle&apos;</automatic_structure_group_membership>
+    <manual_structure_group_membership />
+    <structure_comment_1>3/1</structure_comment_1>
+    <structure_comment_2>AA</structure_comment_2>
+    <structure_comment_3>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\WRY-2_15_3_1_073018_v1.JPG</structure_comment_3>
+    <structure_comment_4 />
+    <structure_comment_5 />
+    <structure_comment_6 />
+    <structure_comment_7 />
+    <structure_comment_8 />
+    <structure_comment_9 />
+    <structure_comment_10 />
+    <structure_comment_11 />
+    <structure_comment_12 />
+    <structure_comment_13 />
+    <structure_comment_14 />
+    <structure_comment_15 />
+    <structure_comment_16 />
+    <structure_comment_17 />
+    <structure_comment_18 />
+    <structure_comment_19 />
+    <structure_comment_20 />
+    <structure_comment_21 />
+    <structure_comment_22 />
+    <structure_comment_23 />
+    <structure_comment_24 />
+    <structure_comment_25 />
+    <structure_comment_26 />
+    <structure_comment_27 />
+    <structure_comment_28 />
+    <structure_comment_29 />
+    <structure_comment_30 />
+    <structure_comment_31 />
+    <structure_comment_32 />
+    <structure_comment_33 />
+    <structure_comment_34 />
+    <structure_comment_35 />
+    <structure_comment_36 />
+    <structure_comment_37 />
+    <structure_comment_38 />
+    <structure_comment_39 />
+    <structure_comment_40 />
+    <structure_comment_41 />
+    <structure_comment_42 />
+    <structure_comment_43 />
+    <structure_comment_44 />
+    <structure_comment_45 />
+    <structure_comment_46 />
+    <structure_comment_47 />
+    <structure_comment_48 />
+    <structure_comment_49 />
+    <structure_comment_50 />
+  </staking_table>
+  <staking_table rownum='15'>
+    <rowtext />
+    <structure_number>16</structure_number>
+    <station units='ft'>11341.079</station>
+    <height_adjust units='ft'>8.693</height_adjust>
+    <offset_adjust units='ft' />
+    <orientation_angle units='deg' />
+    <x_easting units='ft'>602326.133</x_easting>
+    <y_northing units='ft'>2208529.962</y_northing>
+    <centerline_z_elevation units='ft'>1183.367</centerline_z_elevation>
+    <tin_z_elevation units='ft'>1183.367</tin_z_elevation>
+    <ahead_span units='ft'>681.441</ahead_span>
+    <line_angle units='deg'>-0.1338</line_angle>
+    <sets_in_xy_structure_line_angle_calculation>1-60</sets_in_xy_structure_line_angle_calculation>
+    <transverse_axis_azimuth units='deg'>171.9818</transverse_axis_azimuth>
+    <structure_name>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\structures\230-aa.#16.065</structure_name>
+    <structure_description>230kV - Type AA - Suspension H-Frame</structure_description>
+    <struct_height units='ft'>56.500</struct_height>
+    <embedded_length units='ft' />
+    <structure_specific_material>0</structure_specific_material>
+    <counter_weights units='lbs' />
+    <automatic_structure_group_membership>&apos;All&apos;, &apos;No DE&apos;, &apos;Not all sets DE&apos;, &apos;Angle&apos;</automatic_structure_group_membership>
+    <manual_structure_group_membership />
+    <structure_comment_1>3/2</structure_comment_1>
+    <structure_comment_2>AA</structure_comment_2>
+    <structure_comment_3>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\WRY-2_16_3_2_073018_v1.JPG</structure_comment_3>
+    <structure_comment_4 />
+    <structure_comment_5 />
+    <structure_comment_6 />
+    <structure_comment_7 />
+    <structure_comment_8 />
+    <structure_comment_9 />
+    <structure_comment_10 />
+    <structure_comment_11 />
+    <structure_comment_12 />
+    <structure_comment_13 />
+    <structure_comment_14 />
+    <structure_comment_15 />
+    <structure_comment_16 />
+    <structure_comment_17 />
+    <structure_comment_18 />
+    <structure_comment_19 />
+    <structure_comment_20 />
+    <structure_comment_21 />
+    <structure_comment_22 />
+    <structure_comment_23 />
+    <structure_comment_24 />
+    <structure_comment_25 />
+    <structure_comment_26 />
+    <structure_comment_27 />
+    <structure_comment_28 />
+    <structure_comment_29 />
+    <structure_comment_30 />
+    <structure_comment_31 />
+    <structure_comment_32 />
+    <structure_comment_33 />
+    <structure_comment_34 />
+    <structure_comment_35 />
+    <structure_comment_36 />
+    <structure_comment_37 />
+    <structure_comment_38 />
+    <structure_comment_39 />
+    <structure_comment_40 />
+    <structure_comment_41 />
+    <structure_comment_42 />
+    <structure_comment_43 />
+    <structure_comment_44 />
+    <structure_comment_45 />
+    <structure_comment_46 />
+    <structure_comment_47 />
+    <structure_comment_48 />
+    <structure_comment_49 />
+    <structure_comment_50 />
+  </staking_table>
+  <staking_table rownum='16'>
+    <rowtext />
+    <structure_number>17</structure_number>
+    <station units='ft'>12022.521</station>
+    <height_adjust units='ft'>8.167</height_adjust>
+    <offset_adjust units='ft' />
+    <orientation_angle units='deg' />
+    <x_easting units='ft'>603000.801</x_easting>
+    <y_northing units='ft'>2208625.802</y_northing>
+    <centerline_z_elevation units='ft'>1201.053</centerline_z_elevation>
+    <tin_z_elevation units='ft'>1201.053</tin_z_elevation>
+    <ahead_span units='ft'>560.411</ahead_span>
+    <line_angle units='deg'>0.0599</line_angle>
+    <sets_in_xy_structure_line_angle_calculation>1-60</sets_in_xy_structure_line_angle_calculation>
+    <transverse_axis_azimuth units='deg'>171.9449</transverse_axis_azimuth>
+    <structure_name>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\structures\230-aa.#17.065</structure_name>
+    <structure_description>230kV - Type AA - Suspension H-Frame</structure_description>
+    <struct_height units='ft'>56.500</struct_height>
+    <embedded_length units='ft' />
+    <structure_specific_material>0</structure_specific_material>
+    <counter_weights units='lbs' />
+    <automatic_structure_group_membership>&apos;All&apos;, &apos;No DE&apos;, &apos;Not all sets DE&apos;, &apos;Angle&apos;</automatic_structure_group_membership>
+    <manual_structure_group_membership />
+    <structure_comment_1>3/3</structure_comment_1>
+    <structure_comment_2>AA</structure_comment_2>
+    <structure_comment_3>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\WRY-2_17_3_3_073018_v1.JPG</structure_comment_3>
+    <structure_comment_4 />
+    <structure_comment_5 />
+    <structure_comment_6 />
+    <structure_comment_7 />
+    <structure_comment_8 />
+    <structure_comment_9 />
+    <structure_comment_10 />
+    <structure_comment_11 />
+    <structure_comment_12 />
+    <structure_comment_13 />
+    <structure_comment_14 />
+    <structure_comment_15 />
+    <structure_comment_16 />
+    <structure_comment_17 />
+    <structure_comment_18 />
+    <structure_comment_19 />
+    <structure_comment_20 />
+    <structure_comment_21 />
+    <structure_comment_22 />
+    <structure_comment_23 />
+    <structure_comment_24 />
+    <structure_comment_25 />
+    <structure_comment_26 />
+    <structure_comment_27 />
+    <structure_comment_28 />
+    <structure_comment_29 />
+    <structure_comment_30 />
+    <structure_comment_31 />
+    <structure_comment_32 />
+    <structure_comment_33 />
+    <structure_comment_34 />
+    <structure_comment_35 />
+    <structure_comment_36 />
+    <structure_comment_37 />
+    <structure_comment_38 />
+    <structure_comment_39 />
+    <structure_comment_40 />
+    <structure_comment_41 />
+    <structure_comment_42 />
+    <structure_comment_43 />
+    <structure_comment_44 />
+    <structure_comment_45 />
+    <structure_comment_46 />
+    <structure_comment_47 />
+    <structure_comment_48 />
+    <structure_comment_49 />
+    <structure_comment_50 />
+  </staking_table>
+  <staking_table rownum='17'>
+    <rowtext />
+    <structure_number>18</structure_number>
+    <station units='ft'>12582.932</station>
+    <height_adjust units='ft'>8.811</height_adjust>
+    <offset_adjust units='ft' />
+    <orientation_angle units='deg' />
+    <x_easting units='ft'>603555.724</x_easting>
+    <y_northing units='ft'>2208704.040</y_northing>
+    <centerline_z_elevation units='ft'>1208.419</centerline_z_elevation>
+    <tin_z_elevation units='ft'>1208.419</tin_z_elevation>
+    <ahead_span units='ft'>628.307</ahead_span>
+    <line_angle units='deg'>-0.0160</line_angle>
+    <sets_in_xy_structure_line_angle_calculation>1-60</sets_in_xy_structure_line_angle_calculation>
+    <transverse_axis_azimuth units='deg'>171.9668</transverse_axis_azimuth>
+    <structure_name>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\structures\230-aa.#18.065</structure_name>
+    <structure_description>230kV - Type AA - Suspension H-Frame</structure_description>
+    <struct_height units='ft'>56.500</struct_height>
+    <embedded_length units='ft' />
+    <structure_specific_material>0</structure_specific_material>
+    <counter_weights units='lbs' />
+    <automatic_structure_group_membership>&apos;All&apos;, &apos;No DE&apos;, &apos;Not all sets DE&apos;, &apos;Angle&apos;</automatic_structure_group_membership>
+    <manual_structure_group_membership />
+    <structure_comment_1>3/4</structure_comment_1>
+    <structure_comment_2>AA</structure_comment_2>
+    <structure_comment_3>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\WRY-2_18_3_4_073018_v1.JPG</structure_comment_3>
+    <structure_comment_4 />
+    <structure_comment_5 />
+    <structure_comment_6 />
+    <structure_comment_7 />
+    <structure_comment_8 />
+    <structure_comment_9 />
+    <structure_comment_10 />
+    <structure_comment_11 />
+    <structure_comment_12 />
+    <structure_comment_13 />
+    <structure_comment_14 />
+    <structure_comment_15 />
+    <structure_comment_16 />
+    <structure_comment_17 />
+    <structure_comment_18 />
+    <structure_comment_19 />
+    <structure_comment_20 />
+    <structure_comment_21 />
+    <structure_comment_22 />
+    <structure_comment_23 />
+    <structure_comment_24 />
+    <structure_comment_25 />
+    <structure_comment_26 />
+    <structure_comment_27 />
+    <structure_comment_28 />
+    <structure_comment_29 />
+    <structure_comment_30 />
+    <structure_comment_31 />
+    <structure_comment_32 />
+    <structure_comment_33 />
+    <structure_comment_34 />
+    <structure_comment_35 />
+    <structure_comment_36 />
+    <structure_comment_37 />
+    <structure_comment_38 />
+    <structure_comment_39 />
+    <structure_comment_40 />
+    <structure_comment_41 />
+    <structure_comment_42 />
+    <structure_comment_43 />
+    <structure_comment_44 />
+    <structure_comment_45 />
+    <structure_comment_46 />
+    <structure_comment_47 />
+    <structure_comment_48 />
+    <structure_comment_49 />
+    <structure_comment_50 />
+  </staking_table>
+  <staking_table rownum='18'>
+    <rowtext />
+    <structure_number>19</structure_number>
+    <station units='ft'>13211.238</station>
+    <height_adjust units='ft'>13.052</height_adjust>
+    <offset_adjust units='ft' />
+    <orientation_angle units='deg' />
+    <x_easting units='ft'>604177.853</x_easting>
+    <y_northing units='ft'>2208791.930</y_northing>
+    <centerline_z_elevation units='ft'>1197.018</centerline_z_elevation>
+    <tin_z_elevation units='ft'>1197.018</tin_z_elevation>
+    <ahead_span units='ft'>712.825</ahead_span>
+    <line_angle units='deg'>-0.7513</line_angle>
+    <sets_in_xy_structure_line_angle_calculation>1-60</sets_in_xy_structure_line_angle_calculation>
+    <transverse_axis_azimuth units='deg'>171.5832</transverse_axis_azimuth>
+    <structure_name>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\structures\230-aa.#19.065</structure_name>
+    <structure_description>230kV - Type AA - Suspension H-Frame</structure_description>
+    <struct_height units='ft'>56.500</struct_height>
+    <embedded_length units='ft' />
+    <structure_specific_material>0</structure_specific_material>
+    <counter_weights units='lbs' />
+    <automatic_structure_group_membership>&apos;All&apos;, &apos;No DE&apos;, &apos;Not all sets DE&apos;, &apos;Angle&apos;</automatic_structure_group_membership>
+    <manual_structure_group_membership />
+    <structure_comment_1>3/5</structure_comment_1>
+    <structure_comment_2>AA</structure_comment_2>
+    <structure_comment_3>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\WRY-2_19_3_5_073018_v1.JPG</structure_comment_3>
+    <structure_comment_4 />
+    <structure_comment_5 />
+    <structure_comment_6 />
+    <structure_comment_7 />
+    <structure_comment_8 />
+    <structure_comment_9 />
+    <structure_comment_10 />
+    <structure_comment_11 />
+    <structure_comment_12 />
+    <structure_comment_13 />
+    <structure_comment_14 />
+    <structure_comment_15 />
+    <structure_comment_16 />
+    <structure_comment_17 />
+    <structure_comment_18 />
+    <structure_comment_19 />
+    <structure_comment_20 />
+    <structure_comment_21 />
+    <structure_comment_22 />
+    <structure_comment_23 />
+    <structure_comment_24 />
+    <structure_comment_25 />
+    <structure_comment_26 />
+    <structure_comment_27 />
+    <structure_comment_28 />
+    <structure_comment_29 />
+    <structure_comment_30 />
+    <structure_comment_31 />
+    <structure_comment_32 />
+    <structure_comment_33 />
+    <structure_comment_34 />
+    <structure_comment_35 />
+    <structure_comment_36 />
+    <structure_comment_37 />
+    <structure_comment_38 />
+    <structure_comment_39 />
+    <structure_comment_40 />
+    <structure_comment_41 />
+    <structure_comment_42 />
+    <structure_comment_43 />
+    <structure_comment_44 />
+    <structure_comment_45 />
+    <structure_comment_46 />
+    <structure_comment_47 />
+    <structure_comment_48 />
+    <structure_comment_49 />
+    <structure_comment_50 />
+  </staking_table>
+  <staking_table rownum='19'>
+    <rowtext />
+    <structure_number>20</structure_number>
+    <station units='ft'>13924.063</station>
+    <height_adjust units='ft'>16.596</height_adjust>
+    <offset_adjust units='ft' />
+    <orientation_angle units='deg' />
+    <x_easting units='ft'>604882.301</x_easting>
+    <y_northing units='ft'>2208900.889</y_northing>
+    <centerline_z_elevation units='ft'>1215.202</centerline_z_elevation>
+    <tin_z_elevation units='ft'>1215.202</tin_z_elevation>
+    <ahead_span units='ft'>570.394</ahead_span>
+    <line_angle units='deg'>12.6499</line_angle>
+    <sets_in_xy_structure_line_angle_calculation>1-60</sets_in_xy_structure_line_angle_calculation>
+    <transverse_axis_azimuth units='deg'>177.5325</transverse_axis_azimuth>
+    <structure_name>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\rue 3-6-230-cc-l.065</structure_name>
+    <structure_description>230kV - Type CC - V-String - Large Running Angle - Left Angle</structure_description>
+    <struct_height units='ft'>56.500</struct_height>
+    <embedded_length units='ft' />
+    <structure_specific_material>0</structure_specific_material>
+    <counter_weights units='lbs' />
+    <automatic_structure_group_membership>&apos;All&apos;, &apos;No DE&apos;, &apos;Not all sets DE&apos;, &apos;Angle&apos;</automatic_structure_group_membership>
+    <manual_structure_group_membership />
+    <structure_comment_1>3/6</structure_comment_1>
+    <structure_comment_2>CC</structure_comment_2>
+    <structure_comment_3>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\WRY-2_20_3_6_073018_v1.JPG</structure_comment_3>
+    <structure_comment_4 />
+    <structure_comment_5 />
+    <structure_comment_6 />
+    <structure_comment_7 />
+    <structure_comment_8 />
+    <structure_comment_9 />
+    <structure_comment_10 />
+    <structure_comment_11 />
+    <structure_comment_12 />
+    <structure_comment_13 />
+    <structure_comment_14 />
+    <structure_comment_15 />
+    <structure_comment_16 />
+    <structure_comment_17 />
+    <structure_comment_18 />
+    <structure_comment_19 />
+    <structure_comment_20 />
+    <structure_comment_21 />
+    <structure_comment_22 />
+    <structure_comment_23 />
+    <structure_comment_24 />
+    <structure_comment_25 />
+    <structure_comment_26 />
+    <structure_comment_27 />
+    <structure_comment_28 />
+    <structure_comment_29 />
+    <structure_comment_30 />
+    <structure_comment_31 />
+    <structure_comment_32 />
+    <structure_comment_33 />
+    <structure_comment_34 />
+    <structure_comment_35 />
+    <structure_comment_36 />
+    <structure_comment_37 />
+    <structure_comment_38 />
+    <structure_comment_39 />
+    <structure_comment_40 />
+    <structure_comment_41 />
+    <structure_comment_42 />
+    <structure_comment_43 />
+    <structure_comment_44 />
+    <structure_comment_45 />
+    <structure_comment_46 />
+    <structure_comment_47 />
+    <structure_comment_48 />
+    <structure_comment_49 />
+    <structure_comment_50 />
+  </staking_table>
+  <staking_table rownum='20'>
+    <rowtext />
+    <structure_number>21</structure_number>
+    <station units='ft'>14494.457</station>
+    <height_adjust units='ft'>9.954</height_adjust>
+    <offset_adjust units='ft' />
+    <orientation_angle units='deg' />
+    <x_easting units='ft'>605451.403</x_easting>
+    <y_northing units='ft'>2208862.516</y_northing>
+    <centerline_z_elevation units='ft'>1228.426</centerline_z_elevation>
+    <tin_z_elevation units='ft'>1228.426</tin_z_elevation>
+    <ahead_span units='ft'>789.070</ahead_span>
+    <line_angle units='deg'>-0.9456</line_angle>
+    <sets_in_xy_structure_line_angle_calculation>1-60</sets_in_xy_structure_line_angle_calculation>
+    <transverse_axis_azimuth units='deg'>183.3847</transverse_axis_azimuth>
+    <structure_name>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\structures\230-aa.#21.065</structure_name>
+    <structure_description>230kV - Type AA - Suspension H-Frame</structure_description>
+    <struct_height units='ft'>56.500</struct_height>
+    <embedded_length units='ft' />
+    <structure_specific_material>0</structure_specific_material>
+    <counter_weights units='lbs' />
+    <automatic_structure_group_membership>&apos;All&apos;, &apos;No DE&apos;, &apos;Not all sets DE&apos;, &apos;Angle&apos;</automatic_structure_group_membership>
+    <manual_structure_group_membership />
+    <structure_comment_1>3/7</structure_comment_1>
+    <structure_comment_2>AA</structure_comment_2>
+    <structure_comment_3>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\WRY-2_21_3_7_073018_v1.JPG</structure_comment_3>
+    <structure_comment_4 />
+    <structure_comment_5 />
+    <structure_comment_6 />
+    <structure_comment_7 />
+    <structure_comment_8 />
+    <structure_comment_9 />
+    <structure_comment_10 />
+    <structure_comment_11 />
+    <structure_comment_12 />
+    <structure_comment_13 />
+    <structure_comment_14 />
+    <structure_comment_15 />
+    <structure_comment_16 />
+    <structure_comment_17 />
+    <structure_comment_18 />
+    <structure_comment_19 />
+    <structure_comment_20 />
+    <structure_comment_21 />
+    <structure_comment_22 />
+    <structure_comment_23 />
+    <structure_comment_24 />
+    <structure_comment_25 />
+    <structure_comment_26 />
+    <structure_comment_27 />
+    <structure_comment_28 />
+    <structure_comment_29 />
+    <structure_comment_30 />
+    <structure_comment_31 />
+    <structure_comment_32 />
+    <structure_comment_33 />
+    <structure_comment_34 />
+    <structure_comment_35 />
+    <structure_comment_36 />
+    <structure_comment_37 />
+    <structure_comment_38 />
+    <structure_comment_39 />
+    <structure_comment_40 />
+    <structure_comment_41 />
+    <structure_comment_42 />
+    <structure_comment_43 />
+    <structure_comment_44 />
+    <structure_comment_45 />
+    <structure_comment_46 />
+    <structure_comment_47 />
+    <structure_comment_48 />
+    <structure_comment_49 />
+    <structure_comment_50 />
+  </staking_table>
+  <staking_table rownum='21'>
+    <rowtext />
+    <structure_number>22</structure_number>
+    <station units='ft'>15283.527</station>
+    <height_adjust units='ft'>13.545</height_adjust>
+    <offset_adjust units='ft' />
+    <orientation_angle units='deg' />
+    <x_easting units='ft'>606239.454</x_easting>
+    <y_northing units='ft'>2208822.431</y_northing>
+    <centerline_z_elevation units='ft'>1262.875</centerline_z_elevation>
+    <tin_z_elevation units='ft'>1262.875</tin_z_elevation>
+    <ahead_span units='ft'>768.957</ahead_span>
+    <line_angle units='deg'>-0.0554</line_angle>
+    <sets_in_xy_structure_line_angle_calculation>1-60</sets_in_xy_structure_line_angle_calculation>
+    <transverse_axis_azimuth units='deg'>182.8842</transverse_axis_azimuth>
+    <structure_name>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\structures\230-aa.#22.065</structure_name>
+    <structure_description>230kV - Type AA - Suspension H-Frame</structure_description>
+    <struct_height units='ft'>56.500</struct_height>
+    <embedded_length units='ft' />
+    <structure_specific_material>0</structure_specific_material>
+    <counter_weights units='lbs' />
+    <automatic_structure_group_membership>&apos;All&apos;, &apos;No DE&apos;, &apos;Not all sets DE&apos;, &apos;Angle&apos;</automatic_structure_group_membership>
+    <manual_structure_group_membership />
+    <structure_comment_1>3/8</structure_comment_1>
+    <structure_comment_2>AA</structure_comment_2>
+    <structure_comment_3>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\WRY-2_22_3_8_073018_v1.JPG</structure_comment_3>
+    <structure_comment_4 />
+    <structure_comment_5 />
+    <structure_comment_6 />
+    <structure_comment_7 />
+    <structure_comment_8 />
+    <structure_comment_9 />
+    <structure_comment_10 />
+    <structure_comment_11 />
+    <structure_comment_12 />
+    <structure_comment_13 />
+    <structure_comment_14 />
+    <structure_comment_15 />
+    <structure_comment_16 />
+    <structure_comment_17 />
+    <structure_comment_18 />
+    <structure_comment_19 />
+    <structure_comment_20 />
+    <structure_comment_21 />
+    <structure_comment_22 />
+    <structure_comment_23 />
+    <structure_comment_24 />
+    <structure_comment_25 />
+    <structure_comment_26 />
+    <structure_comment_27 />
+    <structure_comment_28 />
+    <structure_comment_29 />
+    <structure_comment_30 />
+    <structure_comment_31 />
+    <structure_comment_32 />
+    <structure_comment_33 />
+    <structure_comment_34 />
+    <structure_comment_35 />
+    <structure_comment_36 />
+    <structure_comment_37 />
+    <structure_comment_38 />
+    <structure_comment_39 />
+    <structure_comment_40 />
+    <structure_comment_41 />
+    <structure_comment_42 />
+    <structure_comment_43 />
+    <structure_comment_44 />
+    <structure_comment_45 />
+    <structure_comment_46 />
+    <structure_comment_47 />
+    <structure_comment_48 />
+    <structure_comment_49 />
+    <structure_comment_50 />
+  </staking_table>
+  <staking_table rownum='22'>
+    <rowtext />
+    <structure_number>23</structure_number>
+    <station units='ft'>16052.485</station>
+    <height_adjust units='ft'>13.600</height_adjust>
+    <offset_adjust units='ft' />
+    <orientation_angle units='deg' />
+    <x_easting units='ft'>607007.456</x_easting>
+    <y_northing units='ft'>2208784.110</y_northing>
+    <centerline_z_elevation units='ft'>1270.471</centerline_z_elevation>
+    <tin_z_elevation units='ft'>1270.471</tin_z_elevation>
+    <ahead_span units='ft'>781.220</ahead_span>
+    <line_angle units='deg'>-0.0186</line_angle>
+    <sets_in_xy_structure_line_angle_calculation>1-60</sets_in_xy_structure_line_angle_calculation>
+    <transverse_axis_azimuth units='deg'>182.8472</transverse_axis_azimuth>
+    <structure_name>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\structures\230-aa.#23.065</structure_name>
+    <structure_description>230kV - Type AA - Suspension H-Frame</structure_description>
+    <struct_height units='ft'>56.500</struct_height>
+    <embedded_length units='ft' />
+    <structure_specific_material>0</structure_specific_material>
+    <counter_weights units='lbs' />
+    <automatic_structure_group_membership>&apos;All&apos;, &apos;No DE&apos;, &apos;Not all sets DE&apos;, &apos;Angle&apos;</automatic_structure_group_membership>
+    <manual_structure_group_membership />
+    <structure_comment_1>4/1</structure_comment_1>
+    <structure_comment_2>AA</structure_comment_2>
+    <structure_comment_3>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\WRY-2_23_4_1_073018_v1.JPG</structure_comment_3>
+    <structure_comment_4 />
+    <structure_comment_5 />
+    <structure_comment_6 />
+    <structure_comment_7 />
+    <structure_comment_8 />
+    <structure_comment_9 />
+    <structure_comment_10 />
+    <structure_comment_11 />
+    <structure_comment_12 />
+    <structure_comment_13 />
+    <structure_comment_14 />
+    <structure_comment_15 />
+    <structure_comment_16 />
+    <structure_comment_17 />
+    <structure_comment_18 />
+    <structure_comment_19 />
+    <structure_comment_20 />
+    <structure_comment_21 />
+    <structure_comment_22 />
+    <structure_comment_23 />
+    <structure_comment_24 />
+    <structure_comment_25 />
+    <structure_comment_26 />
+    <structure_comment_27 />
+    <structure_comment_28 />
+    <structure_comment_29 />
+    <structure_comment_30 />
+    <structure_comment_31 />
+    <structure_comment_32 />
+    <structure_comment_33 />
+    <structure_comment_34 />
+    <structure_comment_35 />
+    <structure_comment_36 />
+    <structure_comment_37 />
+    <structure_comment_38 />
+    <structure_comment_39 />
+    <structure_comment_40 />
+    <structure_comment_41 />
+    <structure_comment_42 />
+    <structure_comment_43 />
+    <structure_comment_44 />
+    <structure_comment_45 />
+    <structure_comment_46 />
+    <structure_comment_47 />
+    <structure_comment_48 />
+    <structure_comment_49 />
+    <structure_comment_50 />
+  </staking_table>
+  <staking_table rownum='23'>
+    <rowtext />
+    <structure_number>24</structure_number>
+    <station units='ft'>16833.705</station>
+    <height_adjust units='ft'>14.049</height_adjust>
+    <offset_adjust units='ft' />
+    <orientation_angle units='deg' />
+    <x_easting units='ft'>607787.718</x_easting>
+    <y_northing units='ft'>2208745.431</y_northing>
+    <centerline_z_elevation units='ft'>1282.841</centerline_z_elevation>
+    <tin_z_elevation units='ft'>1282.841</tin_z_elevation>
+    <ahead_span units='ft'>779.742</ahead_span>
+    <line_angle units='deg'>0.1829</line_angle>
+    <sets_in_xy_structure_line_angle_calculation>1-60</sets_in_xy_structure_line_angle_calculation>
+    <transverse_axis_azimuth units='deg'>182.9294</transverse_axis_azimuth>
+    <structure_name>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\structures\230-aa.#24.065</structure_name>
+    <structure_description>230kV - Type AA - Suspension H-Frame</structure_description>
+    <struct_height units='ft'>56.500</struct_height>
+    <embedded_length units='ft' />
+    <structure_specific_material>0</structure_specific_material>
+    <counter_weights units='lbs' />
+    <automatic_structure_group_membership>&apos;All&apos;, &apos;No DE&apos;, &apos;Not all sets DE&apos;, &apos;Angle&apos;</automatic_structure_group_membership>
+    <manual_structure_group_membership />
+    <structure_comment_1>4/2</structure_comment_1>
+    <structure_comment_2>AA</structure_comment_2>
+    <structure_comment_3>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\WRY-2_24_4_2_073018_v1.JPG</structure_comment_3>
+    <structure_comment_4 />
+    <structure_comment_5 />
+    <structure_comment_6 />
+    <structure_comment_7 />
+    <structure_comment_8 />
+    <structure_comment_9 />
+    <structure_comment_10 />
+    <structure_comment_11 />
+    <structure_comment_12 />
+    <structure_comment_13 />
+    <structure_comment_14 />
+    <structure_comment_15 />
+    <structure_comment_16 />
+    <structure_comment_17 />
+    <structure_comment_18 />
+    <structure_comment_19 />
+    <structure_comment_20 />
+    <structure_comment_21 />
+    <structure_comment_22 />
+    <structure_comment_23 />
+    <structure_comment_24 />
+    <structure_comment_25 />
+    <structure_comment_26 />
+    <structure_comment_27 />
+    <structure_comment_28 />
+    <structure_comment_29 />
+    <structure_comment_30 />
+    <structure_comment_31 />
+    <structure_comment_32 />
+    <structure_comment_33 />
+    <structure_comment_34 />
+    <structure_comment_35 />
+    <structure_comment_36 />
+    <structure_comment_37 />
+    <structure_comment_38 />
+    <structure_comment_39 />
+    <structure_comment_40 />
+    <structure_comment_41 />
+    <structure_comment_42 />
+    <structure_comment_43 />
+    <structure_comment_44 />
+    <structure_comment_45 />
+    <structure_comment_46 />
+    <structure_comment_47 />
+    <structure_comment_48 />
+    <structure_comment_49 />
+    <structure_comment_50 />
+  </staking_table>
+  <staking_table rownum='24'>
+    <rowtext />
+    <structure_number>25</structure_number>
+    <station units='ft'>17613.446</station>
+    <height_adjust units='ft'>13.859</height_adjust>
+    <offset_adjust units='ft' />
+    <orientation_angle units='deg' />
+    <x_easting units='ft'>608566.376</x_easting>
+    <y_northing units='ft'>2208704.339</y_northing>
+    <centerline_z_elevation units='ft'>1282.454</centerline_z_elevation>
+    <tin_z_elevation units='ft'>1282.454</tin_z_elevation>
+    <ahead_span units='ft'>729.931</ahead_span>
+    <line_angle units='deg'>-0.0953</line_angle>
+    <sets_in_xy_structure_line_angle_calculation>1-60</sets_in_xy_structure_line_angle_calculation>
+    <transverse_axis_azimuth units='deg'>182.9732</transverse_axis_azimuth>
+    <structure_name>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\structures\230-aa.#25.065</structure_name>
+    <structure_description>230kV - Type AA - Suspension H-Frame</structure_description>
+    <struct_height units='ft'>56.500</struct_height>
+    <embedded_length units='ft' />
+    <structure_specific_material>0</structure_specific_material>
+    <counter_weights units='lbs' />
+    <automatic_structure_group_membership>&apos;All&apos;, &apos;No DE&apos;, &apos;Not all sets DE&apos;, &apos;Angle&apos;</automatic_structure_group_membership>
+    <manual_structure_group_membership />
+    <structure_comment_1>4/3</structure_comment_1>
+    <structure_comment_2>AA</structure_comment_2>
+    <structure_comment_3>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\WRY-2_25_4_3_073018_v1.JPG</structure_comment_3>
+    <structure_comment_4 />
+    <structure_comment_5 />
+    <structure_comment_6 />
+    <structure_comment_7 />
+    <structure_comment_8 />
+    <structure_comment_9 />
+    <structure_comment_10 />
+    <structure_comment_11 />
+    <structure_comment_12 />
+    <structure_comment_13 />
+    <structure_comment_14 />
+    <structure_comment_15 />
+    <structure_comment_16 />
+    <structure_comment_17 />
+    <structure_comment_18 />
+    <structure_comment_19 />
+    <structure_comment_20 />
+    <structure_comment_21 />
+    <structure_comment_22 />
+    <structure_comment_23 />
+    <structure_comment_24 />
+    <structure_comment_25 />
+    <structure_comment_26 />
+    <structure_comment_27 />
+    <structure_comment_28 />
+    <structure_comment_29 />
+    <structure_comment_30 />
+    <structure_comment_31 />
+    <structure_comment_32 />
+    <structure_comment_33 />
+    <structure_comment_34 />
+    <structure_comment_35 />
+    <structure_comment_36 />
+    <structure_comment_37 />
+    <structure_comment_38 />
+    <structure_comment_39 />
+    <structure_comment_40 />
+    <structure_comment_41 />
+    <structure_comment_42 />
+    <structure_comment_43 />
+    <structure_comment_44 />
+    <structure_comment_45 />
+    <structure_comment_46 />
+    <structure_comment_47 />
+    <structure_comment_48 />
+    <structure_comment_49 />
+    <structure_comment_50 />
+  </staking_table>
+  <staking_table rownum='25'>
+    <rowtext />
+    <structure_number>26</structure_number>
+    <station units='ft'>18343.377</station>
+    <height_adjust units='ft'>18.526</height_adjust>
+    <offset_adjust units='ft' />
+    <orientation_angle units='deg' />
+    <x_easting units='ft'>609295.356</x_easting>
+    <y_northing units='ft'>2208667.085</y_northing>
+    <centerline_z_elevation units='ft'>1279.370</centerline_z_elevation>
+    <tin_z_elevation units='ft'>1279.370</tin_z_elevation>
+    <ahead_span units='ft'>750.398</ahead_span>
+    <line_angle units='deg'>-0.0429</line_angle>
+    <sets_in_xy_structure_line_angle_calculation>1-60</sets_in_xy_structure_line_angle_calculation>
+    <transverse_axis_azimuth units='deg'>182.9040</transverse_axis_azimuth>
+    <structure_name>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\structures\230-aa.#26.065</structure_name>
+    <structure_description>230kV - Type AA - Suspension H-Frame</structure_description>
+    <struct_height units='ft'>56.500</struct_height>
+    <embedded_length units='ft' />
+    <structure_specific_material>0</structure_specific_material>
+    <counter_weights units='lbs' />
+    <automatic_structure_group_membership>&apos;All&apos;, &apos;No DE&apos;, &apos;Not all sets DE&apos;, &apos;Angle&apos;</automatic_structure_group_membership>
+    <manual_structure_group_membership />
+    <structure_comment_1>4/4</structure_comment_1>
+    <structure_comment_2>AA</structure_comment_2>
+    <structure_comment_3>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\WRY-2_26_4_4_073018_v1.JPG</structure_comment_3>
+    <structure_comment_4 />
+    <structure_comment_5 />
+    <structure_comment_6 />
+    <structure_comment_7 />
+    <structure_comment_8 />
+    <structure_comment_9 />
+    <structure_comment_10 />
+    <structure_comment_11 />
+    <structure_comment_12 />
+    <structure_comment_13 />
+    <structure_comment_14 />
+    <structure_comment_15 />
+    <structure_comment_16 />
+    <structure_comment_17 />
+    <structure_comment_18 />
+    <structure_comment_19 />
+    <structure_comment_20 />
+    <structure_comment_21 />
+    <structure_comment_22 />
+    <structure_comment_23 />
+    <structure_comment_24 />
+    <structure_comment_25 />
+    <structure_comment_26 />
+    <structure_comment_27 />
+    <structure_comment_28 />
+    <structure_comment_29 />
+    <structure_comment_30 />
+    <structure_comment_31 />
+    <structure_comment_32 />
+    <structure_comment_33 />
+    <structure_comment_34 />
+    <structure_comment_35 />
+    <structure_comment_36 />
+    <structure_comment_37 />
+    <structure_comment_38 />
+    <structure_comment_39 />
+    <structure_comment_40 />
+    <structure_comment_41 />
+    <structure_comment_42 />
+    <structure_comment_43 />
+    <structure_comment_44 />
+    <structure_comment_45 />
+    <structure_comment_46 />
+    <structure_comment_47 />
+    <structure_comment_48 />
+    <structure_comment_49 />
+    <structure_comment_50 />
+  </staking_table>
+  <staking_table rownum='26'>
+    <rowtext />
+    <structure_number>27</structure_number>
+    <station units='ft'>19093.776</station>
+    <height_adjust units='ft'>8.431</height_adjust>
+    <offset_adjust units='ft' />
+    <orientation_angle units='deg' />
+    <x_easting units='ft'>610044.805</x_easting>
+    <y_northing units='ft'>2208629.348</y_northing>
+    <centerline_z_elevation units='ft'>1285.545</centerline_z_elevation>
+    <tin_z_elevation units='ft'>1285.545</tin_z_elevation>
+    <ahead_span units='ft'>749.144</ahead_span>
+    <line_angle units='deg'>0.0496</line_angle>
+    <sets_in_xy_structure_line_angle_calculation>1-60</sets_in_xy_structure_line_angle_calculation>
+    <transverse_axis_azimuth units='deg'>182.9074</transverse_axis_azimuth>
+    <structure_name>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\structures\230-aa.#27.065</structure_name>
+    <structure_description>230kV - Type AA - Suspension H-Frame</structure_description>
+    <struct_height units='ft'>56.500</struct_height>
+    <embedded_length units='ft' />
+    <structure_specific_material>0</structure_specific_material>
+    <counter_weights units='lbs' />
+    <automatic_structure_group_membership>&apos;All&apos;, &apos;No DE&apos;, &apos;Not all sets DE&apos;, &apos;Angle&apos;</automatic_structure_group_membership>
+    <manual_structure_group_membership />
+    <structure_comment_1>4/5</structure_comment_1>
+    <structure_comment_2>AA</structure_comment_2>
+    <structure_comment_3>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\WRY-2_27_4_5_073018_v1.JPG</structure_comment_3>
+    <structure_comment_4 />
+    <structure_comment_5 />
+    <structure_comment_6 />
+    <structure_comment_7 />
+    <structure_comment_8 />
+    <structure_comment_9 />
+    <structure_comment_10 />
+    <structure_comment_11 />
+    <structure_comment_12 />
+    <structure_comment_13 />
+    <structure_comment_14 />
+    <structure_comment_15 />
+    <structure_comment_16 />
+    <structure_comment_17 />
+    <structure_comment_18 />
+    <structure_comment_19 />
+    <structure_comment_20 />
+    <structure_comment_21 />
+    <structure_comment_22 />
+    <structure_comment_23 />
+    <structure_comment_24 />
+    <structure_comment_25 />
+    <structure_comment_26 />
+    <structure_comment_27 />
+    <structure_comment_28 />
+    <structure_comment_29 />
+    <structure_comment_30 />
+    <structure_comment_31 />
+    <structure_comment_32 />
+    <structure_comment_33 />
+    <structure_comment_34 />
+    <structure_comment_35 />
+    <structure_comment_36 />
+    <structure_comment_37 />
+    <structure_comment_38 />
+    <structure_comment_39 />
+    <structure_comment_40 />
+    <structure_comment_41 />
+    <structure_comment_42 />
+    <structure_comment_43 />
+    <structure_comment_44 />
+    <structure_comment_45 />
+    <structure_comment_46 />
+    <structure_comment_47 />
+    <structure_comment_48 />
+    <structure_comment_49 />
+    <structure_comment_50 />
+  </staking_table>
+  <staking_table rownum='27'>
+    <rowtext />
+    <structure_number>28</structure_number>
+    <station units='ft'>19842.920</station>
+    <height_adjust units='ft'>8.325</height_adjust>
+    <offset_adjust units='ft' />
+    <orientation_angle units='deg' />
+    <x_easting units='ft'>610792.968</x_easting>
+    <y_northing units='ft'>2208591.027</y_northing>
+    <centerline_z_elevation units='ft'>1286.189</centerline_z_elevation>
+    <tin_z_elevation units='ft'>1286.189</tin_z_elevation>
+    <ahead_span units='ft'>700.584</ahead_span>
+    <line_angle units='deg'>-0.0353</line_angle>
+    <sets_in_xy_structure_line_angle_calculation>1-60</sets_in_xy_structure_line_angle_calculation>
+    <transverse_axis_azimuth units='deg'>182.9145</transverse_axis_azimuth>
+    <structure_name>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\structures\230-aa.#28.065</structure_name>
+    <structure_description>230kV - Type AA - Suspension H-Frame</structure_description>
+    <struct_height units='ft'>56.500</struct_height>
+    <embedded_length units='ft' />
+    <structure_specific_material>0</structure_specific_material>
+    <counter_weights units='lbs' />
+    <automatic_structure_group_membership>&apos;All&apos;, &apos;No DE&apos;, &apos;Not all sets DE&apos;, &apos;Angle&apos;</automatic_structure_group_membership>
+    <manual_structure_group_membership />
+    <structure_comment_1>4/6</structure_comment_1>
+    <structure_comment_2>AA</structure_comment_2>
+    <structure_comment_3>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\WRY-2_28_4_6_073018_v1.JPG</structure_comment_3>
+    <structure_comment_4 />
+    <structure_comment_5 />
+    <structure_comment_6 />
+    <structure_comment_7 />
+    <structure_comment_8 />
+    <structure_comment_9 />
+    <structure_comment_10 />
+    <structure_comment_11 />
+    <structure_comment_12 />
+    <structure_comment_13 />
+    <structure_comment_14 />
+    <structure_comment_15 />
+    <structure_comment_16 />
+    <structure_comment_17 />
+    <structure_comment_18 />
+    <structure_comment_19 />
+    <structure_comment_20 />
+    <structure_comment_21 />
+    <structure_comment_22 />
+    <structure_comment_23 />
+    <structure_comment_24 />
+    <structure_comment_25 />
+    <structure_comment_26 />
+    <structure_comment_27 />
+    <structure_comment_28 />
+    <structure_comment_29 />
+    <structure_comment_30 />
+    <structure_comment_31 />
+    <structure_comment_32 />
+    <structure_comment_33 />
+    <structure_comment_34 />
+    <structure_comment_35 />
+    <structure_comment_36 />
+    <structure_comment_37 />
+    <structure_comment_38 />
+    <structure_comment_39 />
+    <structure_comment_40 />
+    <structure_comment_41 />
+    <structure_comment_42 />
+    <structure_comment_43 />
+    <structure_comment_44 />
+    <structure_comment_45 />
+    <structure_comment_46 />
+    <structure_comment_47 />
+    <structure_comment_48 />
+    <structure_comment_49 />
+    <structure_comment_50 />
+  </staking_table>
+  <staking_table rownum='28'>
+    <rowtext />
+    <structure_number>29</structure_number>
+    <station units='ft'>20543.504</station>
+    <height_adjust units='ft'>8.492</height_adjust>
+    <offset_adjust units='ft' />
+    <orientation_angle units='deg' />
+    <x_easting units='ft'>611492.657</x_easting>
+    <y_northing units='ft'>2208555.621</y_northing>
+    <centerline_z_elevation units='ft'>1288.818</centerline_z_elevation>
+    <tin_z_elevation units='ft'>1288.818</tin_z_elevation>
+    <ahead_span units='ft'>649.906</ahead_span>
+    <line_angle units='deg'>0.0427</line_angle>
+    <sets_in_xy_structure_line_angle_calculation>1-60</sets_in_xy_structure_line_angle_calculation>
+    <transverse_axis_azimuth units='deg'>182.9182</transverse_axis_azimuth>
+    <structure_name>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\structures\230-aa.#29.065</structure_name>
+    <structure_description>230kV - Type AA - Suspension H-Frame</structure_description>
+    <struct_height units='ft'>56.500</struct_height>
+    <embedded_length units='ft' />
+    <structure_specific_material>0</structure_specific_material>
+    <counter_weights units='lbs' />
+    <automatic_structure_group_membership>&apos;All&apos;, &apos;No DE&apos;, &apos;Not all sets DE&apos;, &apos;Angle&apos;</automatic_structure_group_membership>
+    <manual_structure_group_membership />
+    <structure_comment_1>4/7</structure_comment_1>
+    <structure_comment_2>AA</structure_comment_2>
+    <structure_comment_3>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\WRY-2_29_4_7_073018_v1.JPG</structure_comment_3>
+    <structure_comment_4 />
+    <structure_comment_5 />
+    <structure_comment_6 />
+    <structure_comment_7 />
+    <structure_comment_8 />
+    <structure_comment_9 />
+    <structure_comment_10 />
+    <structure_comment_11 />
+    <structure_comment_12 />
+    <structure_comment_13 />
+    <structure_comment_14 />
+    <structure_comment_15 />
+    <structure_comment_16 />
+    <structure_comment_17 />
+    <structure_comment_18 />
+    <structure_comment_19 />
+    <structure_comment_20 />
+    <structure_comment_21 />
+    <structure_comment_22 />
+    <structure_comment_23 />
+    <structure_comment_24 />
+    <structure_comment_25 />
+    <structure_comment_26 />
+    <structure_comment_27 />
+    <structure_comment_28 />
+    <structure_comment_29 />
+    <structure_comment_30 />
+    <structure_comment_31 />
+    <structure_comment_32 />
+    <structure_comment_33 />
+    <structure_comment_34 />
+    <structure_comment_35 />
+    <structure_comment_36 />
+    <structure_comment_37 />
+    <structure_comment_38 />
+    <structure_comment_39 />
+    <structure_comment_40 />
+    <structure_comment_41 />
+    <structure_comment_42 />
+    <structure_comment_43 />
+    <structure_comment_44 />
+    <structure_comment_45 />
+    <structure_comment_46 />
+    <structure_comment_47 />
+    <structure_comment_48 />
+    <structure_comment_49 />
+    <structure_comment_50 />
+  </staking_table>
+  <staking_table rownum='29'>
+    <rowtext />
+    <structure_number>30</structure_number>
+    <station units='ft'>21193.410</station>
+    <height_adjust units='ft'>8.516</height_adjust>
+    <offset_adjust units='ft' />
+    <orientation_angle units='deg' />
+    <x_easting units='ft'>612141.708</x_easting>
+    <y_northing units='ft'>2208522.292</y_northing>
+    <centerline_z_elevation units='ft'>1286.764</centerline_z_elevation>
+    <tin_z_elevation units='ft'>1286.764</tin_z_elevation>
+    <ahead_span units='ft'>819.002</ahead_span>
+    <line_angle units='deg'>-0.0429</line_angle>
+    <sets_in_xy_structure_line_angle_calculation>1-60</sets_in_xy_structure_line_angle_calculation>
+    <transverse_axis_azimuth units='deg'>182.9182</transverse_axis_azimuth>
+    <structure_name>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\structures\230-aa.#30.065</structure_name>
+    <structure_description>230kV - Type AA - Suspension H-Frame</structure_description>
+    <struct_height units='ft'>56.500</struct_height>
+    <embedded_length units='ft' />
+    <structure_specific_material>0</structure_specific_material>
+    <counter_weights units='lbs' />
+    <automatic_structure_group_membership>&apos;All&apos;, &apos;No DE&apos;, &apos;Not all sets DE&apos;, &apos;Angle&apos;</automatic_structure_group_membership>
+    <manual_structure_group_membership />
+    <structure_comment_1>5/1</structure_comment_1>
+    <structure_comment_2>AA</structure_comment_2>
+    <structure_comment_3>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\WRY-2_30_5_1_073018_v1.JPG</structure_comment_3>
+    <structure_comment_4 />
+    <structure_comment_5 />
+    <structure_comment_6 />
+    <structure_comment_7 />
+    <structure_comment_8 />
+    <structure_comment_9 />
+    <structure_comment_10 />
+    <structure_comment_11 />
+    <structure_comment_12 />
+    <structure_comment_13 />
+    <structure_comment_14 />
+    <structure_comment_15 />
+    <structure_comment_16 />
+    <structure_comment_17 />
+    <structure_comment_18 />
+    <structure_comment_19 />
+    <structure_comment_20 />
+    <structure_comment_21 />
+    <structure_comment_22 />
+    <structure_comment_23 />
+    <structure_comment_24 />
+    <structure_comment_25 />
+    <structure_comment_26 />
+    <structure_comment_27 />
+    <structure_comment_28 />
+    <structure_comment_29 />
+    <structure_comment_30 />
+    <structure_comment_31 />
+    <structure_comment_32 />
+    <structure_comment_33 />
+    <structure_comment_34 />
+    <structure_comment_35 />
+    <structure_comment_36 />
+    <structure_comment_37 />
+    <structure_comment_38 />
+    <structure_comment_39 />
+    <structure_comment_40 />
+    <structure_comment_41 />
+    <structure_comment_42 />
+    <structure_comment_43 />
+    <structure_comment_44 />
+    <structure_comment_45 />
+    <structure_comment_46 />
+    <structure_comment_47 />
+    <structure_comment_48 />
+    <structure_comment_49 />
+    <structure_comment_50 />
+  </staking_table>
+  <staking_table rownum='30'>
+    <rowtext />
+    <structure_number>31</structure_number>
+    <station units='ft'>22012.413</station>
+    <height_adjust units='ft'>13.549</height_adjust>
+    <offset_adjust units='ft' />
+    <orientation_angle units='deg' />
+    <x_easting units='ft'>612959.664</x_easting>
+    <y_northing units='ft'>2208480.903</y_northing>
+    <centerline_z_elevation units='ft'>1291.253</centerline_z_elevation>
+    <tin_z_elevation units='ft'>1291.253</tin_z_elevation>
+    <ahead_span units='ft'>800.191</ahead_span>
+    <line_angle units='deg'>0.0231</line_angle>
+    <sets_in_xy_structure_line_angle_calculation>1-60</sets_in_xy_structure_line_angle_calculation>
+    <transverse_axis_azimuth units='deg'>182.9083</transverse_axis_azimuth>
+    <structure_name>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\structures\230-aa.#31.065</structure_name>
+    <structure_description>230kV - Type AA - Suspension H-Frame</structure_description>
+    <struct_height units='ft'>56.500</struct_height>
+    <embedded_length units='ft' />
+    <structure_specific_material>0</structure_specific_material>
+    <counter_weights units='lbs' />
+    <automatic_structure_group_membership>&apos;All&apos;, &apos;No DE&apos;, &apos;Not all sets DE&apos;, &apos;Angle&apos;</automatic_structure_group_membership>
+    <manual_structure_group_membership />
+    <structure_comment_1>5/2</structure_comment_1>
+    <structure_comment_2>AA</structure_comment_2>
+    <structure_comment_3>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\WRY-2_31_5_2_073018_v1.JPG</structure_comment_3>
+    <structure_comment_4 />
+    <structure_comment_5 />
+    <structure_comment_6 />
+    <structure_comment_7 />
+    <structure_comment_8 />
+    <structure_comment_9 />
+    <structure_comment_10 />
+    <structure_comment_11 />
+    <structure_comment_12 />
+    <structure_comment_13 />
+    <structure_comment_14 />
+    <structure_comment_15 />
+    <structure_comment_16 />
+    <structure_comment_17 />
+    <structure_comment_18 />
+    <structure_comment_19 />
+    <structure_comment_20 />
+    <structure_comment_21 />
+    <structure_comment_22 />
+    <structure_comment_23 />
+    <structure_comment_24 />
+    <structure_comment_25 />
+    <structure_comment_26 />
+    <structure_comment_27 />
+    <structure_comment_28 />
+    <structure_comment_29 />
+    <structure_comment_30 />
+    <structure_comment_31 />
+    <structure_comment_32 />
+    <structure_comment_33 />
+    <structure_comment_34 />
+    <structure_comment_35 />
+    <structure_comment_36 />
+    <structure_comment_37 />
+    <structure_comment_38 />
+    <structure_comment_39 />
+    <structure_comment_40 />
+    <structure_comment_41 />
+    <structure_comment_42 />
+    <structure_comment_43 />
+    <structure_comment_44 />
+    <structure_comment_45 />
+    <structure_comment_46 />
+    <structure_comment_47 />
+    <structure_comment_48 />
+    <structure_comment_49 />
+    <structure_comment_50 />
+  </staking_table>
+  <staking_table rownum='31'>
+    <rowtext />
+    <structure_number>32</structure_number>
+    <station units='ft'>22812.603</station>
+    <height_adjust units='ft'>14.290</height_adjust>
+    <offset_adjust units='ft' />
+    <orientation_angle units='deg' />
+    <x_easting units='ft'>613758.816</x_easting>
+    <y_northing units='ft'>2208440.142</y_northing>
+    <centerline_z_elevation units='ft'>1296.267</centerline_z_elevation>
+    <tin_z_elevation units='ft'>1296.267</tin_z_elevation>
+    <ahead_span units='ft'>731.519</ahead_span>
+    <line_angle units='deg'>0.0838</line_angle>
+    <sets_in_xy_structure_line_angle_calculation>1-60</sets_in_xy_structure_line_angle_calculation>
+    <transverse_axis_azimuth units='deg'>182.9618</transverse_axis_azimuth>
+    <structure_name>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\structures\230-aa.#32.065</structure_name>
+    <structure_description>230kV - Type AA - Suspension H-Frame</structure_description>
+    <struct_height units='ft'>56.500</struct_height>
+    <embedded_length units='ft' />
+    <structure_specific_material>0</structure_specific_material>
+    <counter_weights units='lbs' />
+    <automatic_structure_group_membership>&apos;All&apos;, &apos;No DE&apos;, &apos;Not all sets DE&apos;, &apos;Angle&apos;</automatic_structure_group_membership>
+    <manual_structure_group_membership />
+    <structure_comment_1>5/3</structure_comment_1>
+    <structure_comment_2>AA</structure_comment_2>
+    <structure_comment_3>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\WRY-2_32_5_3_073018_v1.JPG</structure_comment_3>
+    <structure_comment_4 />
+    <structure_comment_5 />
+    <structure_comment_6 />
+    <structure_comment_7 />
+    <structure_comment_8 />
+    <structure_comment_9 />
+    <structure_comment_10 />
+    <structure_comment_11 />
+    <structure_comment_12 />
+    <structure_comment_13 />
+    <structure_comment_14 />
+    <structure_comment_15 />
+    <structure_comment_16 />
+    <structure_comment_17 />
+    <structure_comment_18 />
+    <structure_comment_19 />
+    <structure_comment_20 />
+    <structure_comment_21 />
+    <structure_comment_22 />
+    <structure_comment_23 />
+    <structure_comment_24 />
+    <structure_comment_25 />
+    <structure_comment_26 />
+    <structure_comment_27 />
+    <structure_comment_28 />
+    <structure_comment_29 />
+    <structure_comment_30 />
+    <structure_comment_31 />
+    <structure_comment_32 />
+    <structure_comment_33 />
+    <structure_comment_34 />
+    <structure_comment_35 />
+    <structure_comment_36 />
+    <structure_comment_37 />
+    <structure_comment_38 />
+    <structure_comment_39 />
+    <structure_comment_40 />
+    <structure_comment_41 />
+    <structure_comment_42 />
+    <structure_comment_43 />
+    <structure_comment_44 />
+    <structure_comment_45 />
+    <structure_comment_46 />
+    <structure_comment_47 />
+    <structure_comment_48 />
+    <structure_comment_49 />
+    <structure_comment_50 />
+  </staking_table>
+  <staking_table rownum='32'>
+    <rowtext />
+    <structure_number>33</structure_number>
+    <station units='ft'>23544.122</station>
+    <height_adjust units='ft'>9.257</height_adjust>
+    <offset_adjust units='ft' />
+    <orientation_angle units='deg' />
+    <x_easting units='ft'>614489.330</x_easting>
+    <y_northing units='ft'>2208401.810</y_northing>
+    <centerline_z_elevation units='ft'>1298.173</centerline_z_elevation>
+    <tin_z_elevation units='ft'>1298.173</tin_z_elevation>
+    <ahead_span units='ft'>670.775</ahead_span>
+    <line_angle units='deg'>-0.0940</line_angle>
+    <sets_in_xy_structure_line_angle_calculation>1-60</sets_in_xy_structure_line_angle_calculation>
+    <transverse_axis_azimuth units='deg'>182.9567</transverse_axis_azimuth>
+    <structure_name>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\structures\230-aa.#33.065</structure_name>
+    <structure_description>230kV - Type AA - Suspension H-Frame</structure_description>
+    <struct_height units='ft'>56.500</struct_height>
+    <embedded_length units='ft' />
+    <structure_specific_material>0</structure_specific_material>
+    <counter_weights units='lbs' />
+    <automatic_structure_group_membership>&apos;All&apos;, &apos;No DE&apos;, &apos;Not all sets DE&apos;, &apos;Angle&apos;</automatic_structure_group_membership>
+    <manual_structure_group_membership />
+    <structure_comment_1>5/4</structure_comment_1>
+    <structure_comment_2>AA</structure_comment_2>
+    <structure_comment_3>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\WRY-2_33_5_4_073018_v1.JPG</structure_comment_3>
+    <structure_comment_4 />
+    <structure_comment_5 />
+    <structure_comment_6 />
+    <structure_comment_7 />
+    <structure_comment_8 />
+    <structure_comment_9 />
+    <structure_comment_10 />
+    <structure_comment_11 />
+    <structure_comment_12 />
+    <structure_comment_13 />
+    <structure_comment_14 />
+    <structure_comment_15 />
+    <structure_comment_16 />
+    <structure_comment_17 />
+    <structure_comment_18 />
+    <structure_comment_19 />
+    <structure_comment_20 />
+    <structure_comment_21 />
+    <structure_comment_22 />
+    <structure_comment_23 />
+    <structure_comment_24 />
+    <structure_comment_25 />
+    <structure_comment_26 />
+    <structure_comment_27 />
+    <structure_comment_28 />
+    <structure_comment_29 />
+    <structure_comment_30 />
+    <structure_comment_31 />
+    <structure_comment_32 />
+    <structure_comment_33 />
+    <structure_comment_34 />
+    <structure_comment_35 />
+    <structure_comment_36 />
+    <structure_comment_37 />
+    <structure_comment_38 />
+    <structure_comment_39 />
+    <structure_comment_40 />
+    <structure_comment_41 />
+    <structure_comment_42 />
+    <structure_comment_43 />
+    <structure_comment_44 />
+    <structure_comment_45 />
+    <structure_comment_46 />
+    <structure_comment_47 />
+    <structure_comment_48 />
+    <structure_comment_49 />
+    <structure_comment_50 />
+  </staking_table>
+  <staking_table rownum='33'>
+    <rowtext />
+    <structure_number>34</structure_number>
+    <station units='ft'>24214.897</station>
+    <height_adjust units='ft'>13.237</height_adjust>
+    <offset_adjust units='ft' />
+    <orientation_angle units='deg' />
+    <x_easting units='ft'>615159.240</x_easting>
+    <y_northing units='ft'>2208367.760</y_northing>
+    <centerline_z_elevation units='ft'>1292.783</centerline_z_elevation>
+    <tin_z_elevation units='ft'>1292.783</tin_z_elevation>
+    <ahead_span units='ft'>868.766</ahead_span>
+    <line_angle units='deg'>-0.0713</line_angle>
+    <sets_in_xy_structure_line_angle_calculation>1-60</sets_in_xy_structure_line_angle_calculation>
+    <transverse_axis_azimuth units='deg'>182.8740</transverse_axis_azimuth>
+    <structure_name>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\structures\230-aa.#34.065</structure_name>
+    <structure_description>230kV - Type AA - Suspension H-Frame</structure_description>
+    <struct_height units='ft'>56.500</struct_height>
+    <embedded_length units='ft' />
+    <structure_specific_material>0</structure_specific_material>
+    <counter_weights units='lbs' />
+    <automatic_structure_group_membership>&apos;All&apos;, &apos;No DE&apos;, &apos;Not all sets DE&apos;, &apos;Angle&apos;</automatic_structure_group_membership>
+    <manual_structure_group_membership />
+    <structure_comment_1>5/5</structure_comment_1>
+    <structure_comment_2>AA</structure_comment_2>
+    <structure_comment_3>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\WRY-2_34_5_5_073018_v1.JPG</structure_comment_3>
+    <structure_comment_4 />
+    <structure_comment_5 />
+    <structure_comment_6 />
+    <structure_comment_7 />
+    <structure_comment_8 />
+    <structure_comment_9 />
+    <structure_comment_10 />
+    <structure_comment_11 />
+    <structure_comment_12 />
+    <structure_comment_13 />
+    <structure_comment_14 />
+    <structure_comment_15 />
+    <structure_comment_16 />
+    <structure_comment_17 />
+    <structure_comment_18 />
+    <structure_comment_19 />
+    <structure_comment_20 />
+    <structure_comment_21 />
+    <structure_comment_22 />
+    <structure_comment_23 />
+    <structure_comment_24 />
+    <structure_comment_25 />
+    <structure_comment_26 />
+    <structure_comment_27 />
+    <structure_comment_28 />
+    <structure_comment_29 />
+    <structure_comment_30 />
+    <structure_comment_31 />
+    <structure_comment_32 />
+    <structure_comment_33 />
+    <structure_comment_34 />
+    <structure_comment_35 />
+    <structure_comment_36 />
+    <structure_comment_37 />
+    <structure_comment_38 />
+    <structure_comment_39 />
+    <structure_comment_40 />
+    <structure_comment_41 />
+    <structure_comment_42 />
+    <structure_comment_43 />
+    <structure_comment_44 />
+    <structure_comment_45 />
+    <structure_comment_46 />
+    <structure_comment_47 />
+    <structure_comment_48 />
+    <structure_comment_49 />
+    <structure_comment_50 />
+  </staking_table>
+  <staking_table rownum='34'>
+    <rowtext />
+    <structure_number>35</structure_number>
+    <station units='ft'>25083.663</station>
+    <height_adjust units='ft'>15.529</height_adjust>
+    <offset_adjust units='ft' />
+    <orientation_angle units='deg' />
+    <x_easting units='ft'>616026.940</x_easting>
+    <y_northing units='ft'>2208324.740</y_northing>
+    <centerline_z_elevation units='ft'>1301.151</centerline_z_elevation>
+    <tin_z_elevation units='ft'>1301.151</tin_z_elevation>
+    <ahead_span units='ft'>803.543</ahead_span>
+    <line_angle units='deg'>0.1363</line_angle>
+    <sets_in_xy_structure_line_angle_calculation>1-60</sets_in_xy_structure_line_angle_calculation>
+    <transverse_axis_azimuth units='deg'>182.9065</transverse_axis_azimuth>
+    <structure_name>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\structures\230-aa.#35.065</structure_name>
+    <structure_description>230kV - Type AA - Suspension H-Frame</structure_description>
+    <struct_height units='ft'>56.500</struct_height>
+    <embedded_length units='ft' />
+    <structure_specific_material>0</structure_specific_material>
+    <counter_weights units='lbs' />
+    <automatic_structure_group_membership>&apos;All&apos;, &apos;No DE&apos;, &apos;Not all sets DE&apos;, &apos;Angle&apos;</automatic_structure_group_membership>
+    <manual_structure_group_membership />
+    <structure_comment_1>5/6</structure_comment_1>
+    <structure_comment_2>AA</structure_comment_2>
+    <structure_comment_3>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\WRY-2_35_5_6_073018_v1.JPG</structure_comment_3>
+    <structure_comment_4 />
+    <structure_comment_5 />
+    <structure_comment_6 />
+    <structure_comment_7 />
+    <structure_comment_8 />
+    <structure_comment_9 />
+    <structure_comment_10 />
+    <structure_comment_11 />
+    <structure_comment_12 />
+    <structure_comment_13 />
+    <structure_comment_14 />
+    <structure_comment_15 />
+    <structure_comment_16 />
+    <structure_comment_17 />
+    <structure_comment_18 />
+    <structure_comment_19 />
+    <structure_comment_20 />
+    <structure_comment_21 />
+    <structure_comment_22 />
+    <structure_comment_23 />
+    <structure_comment_24 />
+    <structure_comment_25 />
+    <structure_comment_26 />
+    <structure_comment_27 />
+    <structure_comment_28 />
+    <structure_comment_29 />
+    <structure_comment_30 />
+    <structure_comment_31 />
+    <structure_comment_32 />
+    <structure_comment_33 />
+    <structure_comment_34 />
+    <structure_comment_35 />
+    <structure_comment_36 />
+    <structure_comment_37 />
+    <structure_comment_38 />
+    <structure_comment_39 />
+    <structure_comment_40 />
+    <structure_comment_41 />
+    <structure_comment_42 />
+    <structure_comment_43 />
+    <structure_comment_44 />
+    <structure_comment_45 />
+    <structure_comment_46 />
+    <structure_comment_47 />
+    <structure_comment_48 />
+    <structure_comment_49 />
+    <structure_comment_50 />
+  </staking_table>
+  <staking_table rownum='35'>
+    <rowtext />
+    <structure_number>36</structure_number>
+    <station units='ft'>25887.206</station>
+    <height_adjust units='ft'>14.859</height_adjust>
+    <offset_adjust units='ft' />
+    <orientation_angle units='deg' />
+    <x_easting units='ft'>616829.400</x_easting>
+    <y_northing units='ft'>2208283.040</y_northing>
+    <centerline_z_elevation units='ft'>1306.521</centerline_z_elevation>
+    <tin_z_elevation units='ft'>1306.521</tin_z_elevation>
+    <ahead_span units='ft'>766.704</ahead_span>
+    <line_angle units='deg'>-0.0283</line_angle>
+    <sets_in_xy_structure_line_angle_calculation>1-60</sets_in_xy_structure_line_angle_calculation>
+    <transverse_axis_azimuth units='deg'>182.9606</transverse_axis_azimuth>
+    <structure_name>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\structures\230-aa.#36.065</structure_name>
+    <structure_description>230kV - Type AA - Suspension H-Frame</structure_description>
+    <struct_height units='ft'>56.500</struct_height>
+    <embedded_length units='ft' />
+    <structure_specific_material>0</structure_specific_material>
+    <counter_weights units='lbs' />
+    <automatic_structure_group_membership>&apos;All&apos;, &apos;No DE&apos;, &apos;Not all sets DE&apos;, &apos;Angle&apos;</automatic_structure_group_membership>
+    <manual_structure_group_membership />
+    <structure_comment_1>5/7</structure_comment_1>
+    <structure_comment_2>AA</structure_comment_2>
+    <structure_comment_3>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\WRY-2_36_5_7_073018_v1.JPG</structure_comment_3>
+    <structure_comment_4 />
+    <structure_comment_5 />
+    <structure_comment_6 />
+    <structure_comment_7 />
+    <structure_comment_8 />
+    <structure_comment_9 />
+    <structure_comment_10 />
+    <structure_comment_11 />
+    <structure_comment_12 />
+    <structure_comment_13 />
+    <structure_comment_14 />
+    <structure_comment_15 />
+    <structure_comment_16 />
+    <structure_comment_17 />
+    <structure_comment_18 />
+    <structure_comment_19 />
+    <structure_comment_20 />
+    <structure_comment_21 />
+    <structure_comment_22 />
+    <structure_comment_23 />
+    <structure_comment_24 />
+    <structure_comment_25 />
+    <structure_comment_26 />
+    <structure_comment_27 />
+    <structure_comment_28 />
+    <structure_comment_29 />
+    <structure_comment_30 />
+    <structure_comment_31 />
+    <structure_comment_32 />
+    <structure_comment_33 />
+    <structure_comment_34 />
+    <structure_comment_35 />
+    <structure_comment_36 />
+    <structure_comment_37 />
+    <structure_comment_38 />
+    <structure_comment_39 />
+    <structure_comment_40 />
+    <structure_comment_41 />
+    <structure_comment_42 />
+    <structure_comment_43 />
+    <structure_comment_44 />
+    <structure_comment_45 />
+    <structure_comment_46 />
+    <structure_comment_47 />
+    <structure_comment_48 />
+    <structure_comment_49 />
+    <structure_comment_50 />
+  </staking_table>
+  <staking_table rownum='36'>
+    <rowtext />
+    <structure_number>37</structure_number>
+    <station units='ft'>26653.909</station>
+    <height_adjust units='ft'>12.941</height_adjust>
+    <offset_adjust units='ft' />
+    <orientation_angle units='deg' />
+    <x_easting units='ft'>617595.090</x_easting>
+    <y_northing units='ft'>2208243.630</y_northing>
+    <centerline_z_elevation units='ft'>1310.779</centerline_z_elevation>
+    <tin_z_elevation units='ft'>1310.779</tin_z_elevation>
+    <ahead_span units='ft'>737.424</ahead_span>
+    <line_angle units='deg'>-0.0323</line_angle>
+    <sets_in_xy_structure_line_angle_calculation>1-60</sets_in_xy_structure_line_angle_calculation>
+    <transverse_axis_azimuth units='deg'>182.9303</transverse_axis_azimuth>
+    <structure_name>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\structures\230-aa.#37.065</structure_name>
+    <structure_description>230kV - Type AA - Suspension H-Frame</structure_description>
+    <struct_height units='ft'>56.500</struct_height>
+    <embedded_length units='ft' />
+    <structure_specific_material>0</structure_specific_material>
+    <counter_weights units='lbs' />
+    <automatic_structure_group_membership>&apos;All&apos;, &apos;No DE&apos;, &apos;Not all sets DE&apos;, &apos;Angle&apos;</automatic_structure_group_membership>
+    <manual_structure_group_membership />
+    <structure_comment_1>6/1</structure_comment_1>
+    <structure_comment_2>AA</structure_comment_2>
+    <structure_comment_3>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\WRY-2_37_6_1_073018_v1.JPG</structure_comment_3>
+    <structure_comment_4 />
+    <structure_comment_5 />
+    <structure_comment_6 />
+    <structure_comment_7 />
+    <structure_comment_8 />
+    <structure_comment_9 />
+    <structure_comment_10 />
+    <structure_comment_11 />
+    <structure_comment_12 />
+    <structure_comment_13 />
+    <structure_comment_14 />
+    <structure_comment_15 />
+    <structure_comment_16 />
+    <structure_comment_17 />
+    <structure_comment_18 />
+    <structure_comment_19 />
+    <structure_comment_20 />
+    <structure_comment_21 />
+    <structure_comment_22 />
+    <structure_comment_23 />
+    <structure_comment_24 />
+    <structure_comment_25 />
+    <structure_comment_26 />
+    <structure_comment_27 />
+    <structure_comment_28 />
+    <structure_comment_29 />
+    <structure_comment_30 />
+    <structure_comment_31 />
+    <structure_comment_32 />
+    <structure_comment_33 />
+    <structure_comment_34 />
+    <structure_comment_35 />
+    <structure_comment_36 />
+    <structure_comment_37 />
+    <structure_comment_38 />
+    <structure_comment_39 />
+    <structure_comment_40 />
+    <structure_comment_41 />
+    <structure_comment_42 />
+    <structure_comment_43 />
+    <structure_comment_44 />
+    <structure_comment_45 />
+    <structure_comment_46 />
+    <structure_comment_47 />
+    <structure_comment_48 />
+    <structure_comment_49 />
+    <structure_comment_50 />
+  </staking_table>
+  <staking_table rownum='37'>
+    <rowtext />
+    <structure_number>38</structure_number>
+    <station units='ft'>27391.333</station>
+    <height_adjust units='ft'>14.586</height_adjust>
+    <offset_adjust units='ft' />
+    <orientation_angle units='deg' />
+    <x_easting units='ft'>618331.560</x_easting>
+    <y_northing units='ft'>2208206.140</y_northing>
+    <centerline_z_elevation units='ft'>1320.524</centerline_z_elevation>
+    <tin_z_elevation units='ft'>1320.524</tin_z_elevation>
+    <ahead_span units='ft'>755.871</ahead_span>
+    <line_angle units='deg'>-0.0241</line_angle>
+    <sets_in_xy_structure_line_angle_calculation>1-60</sets_in_xy_structure_line_angle_calculation>
+    <transverse_axis_azimuth units='deg'>182.9021</transverse_axis_azimuth>
+    <structure_name>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\structures\230-aa.#38.065</structure_name>
+    <structure_description>230kV - Type AA - Suspension H-Frame</structure_description>
+    <struct_height units='ft'>56.500</struct_height>
+    <embedded_length units='ft' />
+    <structure_specific_material>0</structure_specific_material>
+    <counter_weights units='lbs' />
+    <automatic_structure_group_membership>&apos;All&apos;, &apos;No DE&apos;, &apos;Not all sets DE&apos;, &apos;Angle&apos;</automatic_structure_group_membership>
+    <manual_structure_group_membership />
+    <structure_comment_1>6/2</structure_comment_1>
+    <structure_comment_2>AA</structure_comment_2>
+    <structure_comment_3>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\WRY-2_38_6_2_073018_v1.JPG</structure_comment_3>
+    <structure_comment_4 />
+    <structure_comment_5 />
+    <structure_comment_6 />
+    <structure_comment_7 />
+    <structure_comment_8 />
+    <structure_comment_9 />
+    <structure_comment_10 />
+    <structure_comment_11 />
+    <structure_comment_12 />
+    <structure_comment_13 />
+    <structure_comment_14 />
+    <structure_comment_15 />
+    <structure_comment_16 />
+    <structure_comment_17 />
+    <structure_comment_18 />
+    <structure_comment_19 />
+    <structure_comment_20 />
+    <structure_comment_21 />
+    <structure_comment_22 />
+    <structure_comment_23 />
+    <structure_comment_24 />
+    <structure_comment_25 />
+    <structure_comment_26 />
+    <structure_comment_27 />
+    <structure_comment_28 />
+    <structure_comment_29 />
+    <structure_comment_30 />
+    <structure_comment_31 />
+    <structure_comment_32 />
+    <structure_comment_33 />
+    <structure_comment_34 />
+    <structure_comment_35 />
+    <structure_comment_36 />
+    <structure_comment_37 />
+    <structure_comment_38 />
+    <structure_comment_39 />
+    <structure_comment_40 />
+    <structure_comment_41 />
+    <structure_comment_42 />
+    <structure_comment_43 />
+    <structure_comment_44 />
+    <structure_comment_45 />
+    <structure_comment_46 />
+    <structure_comment_47 />
+    <structure_comment_48 />
+    <structure_comment_49 />
+    <structure_comment_50 />
+  </staking_table>
+  <staking_table rownum='38'>
+    <rowtext />
+    <structure_number>39</structure_number>
+    <station units='ft'>28147.204</station>
+    <height_adjust units='ft'>15.801</height_adjust>
+    <offset_adjust units='ft' />
+    <orientation_angle units='deg' />
+    <x_easting units='ft'>619086.470</x_easting>
+    <y_northing units='ft'>2208168.030</y_northing>
+    <centerline_z_elevation units='ft'>1320.129</centerline_z_elevation>
+    <tin_z_elevation units='ft'>1320.129</tin_z_elevation>
+    <ahead_span units='ft'>795.712</ahead_span>
+    <line_angle units='deg'>-0.0280</line_angle>
+    <sets_in_xy_structure_line_angle_calculation>1-60</sets_in_xy_structure_line_angle_calculation>
+    <transverse_axis_azimuth units='deg'>182.8760</transverse_axis_azimuth>
+    <structure_name>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\structures\230-aa.#39.065</structure_name>
+    <structure_description>230kV - Type AA - Suspension H-Frame</structure_description>
+    <struct_height units='ft'>56.500</struct_height>
+    <embedded_length units='ft' />
+    <structure_specific_material>0</structure_specific_material>
+    <counter_weights units='lbs' />
+    <automatic_structure_group_membership>&apos;All&apos;, &apos;No DE&apos;, &apos;Not all sets DE&apos;, &apos;Angle&apos;</automatic_structure_group_membership>
+    <manual_structure_group_membership />
+    <structure_comment_1>6/3</structure_comment_1>
+    <structure_comment_2>AA</structure_comment_2>
+    <structure_comment_3>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\WRY-2_39_6_3_073018_v1.JPG</structure_comment_3>
+    <structure_comment_4 />
+    <structure_comment_5 />
+    <structure_comment_6 />
+    <structure_comment_7 />
+    <structure_comment_8 />
+    <structure_comment_9 />
+    <structure_comment_10 />
+    <structure_comment_11 />
+    <structure_comment_12 />
+    <structure_comment_13 />
+    <structure_comment_14 />
+    <structure_comment_15 />
+    <structure_comment_16 />
+    <structure_comment_17 />
+    <structure_comment_18 />
+    <structure_comment_19 />
+    <structure_comment_20 />
+    <structure_comment_21 />
+    <structure_comment_22 />
+    <structure_comment_23 />
+    <structure_comment_24 />
+    <structure_comment_25 />
+    <structure_comment_26 />
+    <structure_comment_27 />
+    <structure_comment_28 />
+    <structure_comment_29 />
+    <structure_comment_30 />
+    <structure_comment_31 />
+    <structure_comment_32 />
+    <structure_comment_33 />
+    <structure_comment_34 />
+    <structure_comment_35 />
+    <structure_comment_36 />
+    <structure_comment_37 />
+    <structure_comment_38 />
+    <structure_comment_39 />
+    <structure_comment_40 />
+    <structure_comment_41 />
+    <structure_comment_42 />
+    <structure_comment_43 />
+    <structure_comment_44 />
+    <structure_comment_45 />
+    <structure_comment_46 />
+    <structure_comment_47 />
+    <structure_comment_48 />
+    <structure_comment_49 />
+    <structure_comment_50 />
+  </staking_table>
+  <staking_table rownum='39'>
+    <rowtext />
+    <structure_number>40</structure_number>
+    <station units='ft'>28942.917</station>
+    <height_adjust units='ft'>13.783</height_adjust>
+    <offset_adjust units='ft' />
+    <orientation_angle units='deg' />
+    <x_easting units='ft'>619881.190</x_easting>
+    <y_northing units='ft'>2208128.300</y_northing>
+    <centerline_z_elevation units='ft'>1316.847</centerline_z_elevation>
+    <tin_z_elevation units='ft'>1316.847</tin_z_elevation>
+    <ahead_span units='ft'>721.076</ahead_span>
+    <line_angle units='deg'>0.0578</line_angle>
+    <sets_in_xy_structure_line_angle_calculation>1-60</sets_in_xy_structure_line_angle_calculation>
+    <transverse_axis_azimuth units='deg'>182.8909</transverse_axis_azimuth>
+    <structure_name>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\structures\230-aa.#40.065</structure_name>
+    <structure_description>230kV - Type AA - Suspension H-Frame</structure_description>
+    <struct_height units='ft'>56.500</struct_height>
+    <embedded_length units='ft' />
+    <structure_specific_material>0</structure_specific_material>
+    <counter_weights units='lbs' />
+    <automatic_structure_group_membership>&apos;All&apos;, &apos;No DE&apos;, &apos;Not all sets DE&apos;, &apos;Angle&apos;</automatic_structure_group_membership>
+    <manual_structure_group_membership />
+    <structure_comment_1>6/4</structure_comment_1>
+    <structure_comment_2>AA</structure_comment_2>
+    <structure_comment_3>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\WRY-2_40_6_4_073018_v1.JPG</structure_comment_3>
+    <structure_comment_4 />
+    <structure_comment_5 />
+    <structure_comment_6 />
+    <structure_comment_7 />
+    <structure_comment_8 />
+    <structure_comment_9 />
+    <structure_comment_10 />
+    <structure_comment_11 />
+    <structure_comment_12 />
+    <structure_comment_13 />
+    <structure_comment_14 />
+    <structure_comment_15 />
+    <structure_comment_16 />
+    <structure_comment_17 />
+    <structure_comment_18 />
+    <structure_comment_19 />
+    <structure_comment_20 />
+    <structure_comment_21 />
+    <structure_comment_22 />
+    <structure_comment_23 />
+    <structure_comment_24 />
+    <structure_comment_25 />
+    <structure_comment_26 />
+    <structure_comment_27 />
+    <structure_comment_28 />
+    <structure_comment_29 />
+    <structure_comment_30 />
+    <structure_comment_31 />
+    <structure_comment_32 />
+    <structure_comment_33 />
+    <structure_comment_34 />
+    <structure_comment_35 />
+    <structure_comment_36 />
+    <structure_comment_37 />
+    <structure_comment_38 />
+    <structure_comment_39 />
+    <structure_comment_40 />
+    <structure_comment_41 />
+    <structure_comment_42 />
+    <structure_comment_43 />
+    <structure_comment_44 />
+    <structure_comment_45 />
+    <structure_comment_46 />
+    <structure_comment_47 />
+    <structure_comment_48 />
+    <structure_comment_49 />
+    <structure_comment_50 />
+  </staking_table>
+  <staking_table rownum='40'>
+    <rowtext />
+    <structure_number>41</structure_number>
+    <station units='ft'>29663.993</station>
+    <height_adjust units='ft'>4.576</height_adjust>
+    <offset_adjust units='ft' />
+    <orientation_angle units='deg' />
+    <x_easting units='ft'>620601.330</x_easting>
+    <y_northing units='ft'>2208091.570</y_northing>
+    <centerline_z_elevation units='ft'>1329.744</centerline_z_elevation>
+    <tin_z_elevation units='ft'>1329.744</tin_z_elevation>
+    <ahead_span units='ft'>729.778</ahead_span>
+    <line_angle units='deg'>-0.0181</line_angle>
+    <sets_in_xy_structure_line_angle_calculation>1-60</sets_in_xy_structure_line_angle_calculation>
+    <transverse_axis_azimuth units='deg'>182.9108</transverse_axis_azimuth>
+    <structure_name>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\structures\230-aa.#41.065</structure_name>
+    <structure_description>230kV - Type AA - Suspension H-Frame</structure_description>
+    <struct_height units='ft'>56.500</struct_height>
+    <embedded_length units='ft' />
+    <structure_specific_material>0</structure_specific_material>
+    <counter_weights units='lbs' />
+    <automatic_structure_group_membership>&apos;All&apos;, &apos;No DE&apos;, &apos;Not all sets DE&apos;, &apos;Angle&apos;</automatic_structure_group_membership>
+    <manual_structure_group_membership />
+    <structure_comment_1>6/5</structure_comment_1>
+    <structure_comment_2>AA</structure_comment_2>
+    <structure_comment_3>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\WRY-2_41_6_5_073018_v1.JPG</structure_comment_3>
+    <structure_comment_4 />
+    <structure_comment_5 />
+    <structure_comment_6 />
+    <structure_comment_7 />
+    <structure_comment_8 />
+    <structure_comment_9 />
+    <structure_comment_10 />
+    <structure_comment_11 />
+    <structure_comment_12 />
+    <structure_comment_13 />
+    <structure_comment_14 />
+    <structure_comment_15 />
+    <structure_comment_16 />
+    <structure_comment_17 />
+    <structure_comment_18 />
+    <structure_comment_19 />
+    <structure_comment_20 />
+    <structure_comment_21 />
+    <structure_comment_22 />
+    <structure_comment_23 />
+    <structure_comment_24 />
+    <structure_comment_25 />
+    <structure_comment_26 />
+    <structure_comment_27 />
+    <structure_comment_28 />
+    <structure_comment_29 />
+    <structure_comment_30 />
+    <structure_comment_31 />
+    <structure_comment_32 />
+    <structure_comment_33 />
+    <structure_comment_34 />
+    <structure_comment_35 />
+    <structure_comment_36 />
+    <structure_comment_37 />
+    <structure_comment_38 />
+    <structure_comment_39 />
+    <structure_comment_40 />
+    <structure_comment_41 />
+    <structure_comment_42 />
+    <structure_comment_43 />
+    <structure_comment_44 />
+    <structure_comment_45 />
+    <structure_comment_46 />
+    <structure_comment_47 />
+    <structure_comment_48 />
+    <structure_comment_49 />
+    <structure_comment_50 />
+  </staking_table>
+  <staking_table rownum='41'>
+    <rowtext />
+    <structure_number>42</structure_number>
+    <station units='ft'>30393.771</station>
+    <height_adjust units='ft'>17.283</height_adjust>
+    <offset_adjust units='ft' />
+    <orientation_angle units='deg' />
+    <x_easting units='ft'>621330.172</x_easting>
+    <y_northing units='ft'>2208054.626</y_northing>
+    <centerline_z_elevation units='ft'>1332.787</centerline_z_elevation>
+    <tin_z_elevation units='ft'>1332.787</tin_z_elevation>
+    <ahead_span units='ft'>748.845</ahead_span>
+    <line_angle units='deg'>0.0519</line_angle>
+    <sets_in_xy_structure_line_angle_calculation>1-60</sets_in_xy_structure_line_angle_calculation>
+    <transverse_axis_azimuth units='deg'>182.9277</transverse_axis_azimuth>
+    <structure_name>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\structures\230-aa.#42.065</structure_name>
+    <structure_description>230kV - Type AA - Suspension H-Frame</structure_description>
+    <struct_height units='ft'>56.500</struct_height>
+    <embedded_length units='ft' />
+    <structure_specific_material>0</structure_specific_material>
+    <counter_weights units='lbs' />
+    <automatic_structure_group_membership>&apos;All&apos;, &apos;No DE&apos;, &apos;Not all sets DE&apos;, &apos;Angle&apos;</automatic_structure_group_membership>
+    <manual_structure_group_membership />
+    <structure_comment_1>6/6</structure_comment_1>
+    <structure_comment_2>AA</structure_comment_2>
+    <structure_comment_3>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\WRY-2_42_6_6_073018_v1.JPG</structure_comment_3>
+    <structure_comment_4 />
+    <structure_comment_5 />
+    <structure_comment_6 />
+    <structure_comment_7 />
+    <structure_comment_8 />
+    <structure_comment_9 />
+    <structure_comment_10 />
+    <structure_comment_11 />
+    <structure_comment_12 />
+    <structure_comment_13 />
+    <structure_comment_14 />
+    <structure_comment_15 />
+    <structure_comment_16 />
+    <structure_comment_17 />
+    <structure_comment_18 />
+    <structure_comment_19 />
+    <structure_comment_20 />
+    <structure_comment_21 />
+    <structure_comment_22 />
+    <structure_comment_23 />
+    <structure_comment_24 />
+    <structure_comment_25 />
+    <structure_comment_26 />
+    <structure_comment_27 />
+    <structure_comment_28 />
+    <structure_comment_29 />
+    <structure_comment_30 />
+    <structure_comment_31 />
+    <structure_comment_32 />
+    <structure_comment_33 />
+    <structure_comment_34 />
+    <structure_comment_35 />
+    <structure_comment_36 />
+    <structure_comment_37 />
+    <structure_comment_38 />
+    <structure_comment_39 />
+    <structure_comment_40 />
+    <structure_comment_41 />
+    <structure_comment_42 />
+    <structure_comment_43 />
+    <structure_comment_44 />
+    <structure_comment_45 />
+    <structure_comment_46 />
+    <structure_comment_47 />
+    <structure_comment_48 />
+    <structure_comment_49 />
+    <structure_comment_50 />
+  </staking_table>
+  <staking_table rownum='42'>
+    <rowtext />
+    <structure_number>43</structure_number>
+    <station units='ft'>31142.616</station>
+    <height_adjust units='ft'>13.729</height_adjust>
+    <offset_adjust units='ft' />
+    <orientation_angle units='deg' />
+    <x_easting units='ft'>622078.022</x_easting>
+    <y_northing units='ft'>2208016.040</y_northing>
+    <centerline_z_elevation units='ft'>1338.024</centerline_z_elevation>
+    <tin_z_elevation units='ft'>1338.024</tin_z_elevation>
+    <ahead_span units='ft'>751.651</ahead_span>
+    <line_angle units='deg' />
+    <sets_in_xy_structure_line_angle_calculation>1-60</sets_in_xy_structure_line_angle_calculation>
+    <transverse_axis_azimuth units='deg'>182.9537</transverse_axis_azimuth>
+    <structure_name>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\structures\230-aa.#43.065</structure_name>
+    <structure_description>230kV - Type AA - Suspension H-Frame</structure_description>
+    <struct_height units='ft'>56.500</struct_height>
+    <embedded_length units='ft' />
+    <structure_specific_material>0</structure_specific_material>
+    <counter_weights units='lbs' />
+    <automatic_structure_group_membership>&apos;All&apos;, &apos;No DE&apos;, &apos;Not all sets DE&apos;, &apos;Angle&apos;</automatic_structure_group_membership>
+    <manual_structure_group_membership />
+    <structure_comment_1>6/7</structure_comment_1>
+    <structure_comment_2>AA</structure_comment_2>
+    <structure_comment_3>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\WRY-2_43_6_7_073018_v1.JPG</structure_comment_3>
+    <structure_comment_4 />
+    <structure_comment_5 />
+    <structure_comment_6 />
+    <structure_comment_7 />
+    <structure_comment_8 />
+    <structure_comment_9 />
+    <structure_comment_10 />
+    <structure_comment_11 />
+    <structure_comment_12 />
+    <structure_comment_13 />
+    <structure_comment_14 />
+    <structure_comment_15 />
+    <structure_comment_16 />
+    <structure_comment_17 />
+    <structure_comment_18 />
+    <structure_comment_19 />
+    <structure_comment_20 />
+    <structure_comment_21 />
+    <structure_comment_22 />
+    <structure_comment_23 />
+    <structure_comment_24 />
+    <structure_comment_25 />
+    <structure_comment_26 />
+    <structure_comment_27 />
+    <structure_comment_28 />
+    <structure_comment_29 />
+    <structure_comment_30 />
+    <structure_comment_31 />
+    <structure_comment_32 />
+    <structure_comment_33 />
+    <structure_comment_34 />
+    <structure_comment_35 />
+    <structure_comment_36 />
+    <structure_comment_37 />
+    <structure_comment_38 />
+    <structure_comment_39 />
+    <structure_comment_40 />
+    <structure_comment_41 />
+    <structure_comment_42 />
+    <structure_comment_43 />
+    <structure_comment_44 />
+    <structure_comment_45 />
+    <structure_comment_46 />
+    <structure_comment_47 />
+    <structure_comment_48 />
+    <structure_comment_49 />
+    <structure_comment_50 />
+  </staking_table>
+  <staking_table rownum='43'>
+    <rowtext />
+    <structure_number>44</structure_number>
+    <station units='ft'>31894.266</station>
+    <height_adjust units='ft'>13.658</height_adjust>
+    <offset_adjust units='ft' />
+    <orientation_angle units='deg' />
+    <x_easting units='ft'>622828.674</x_easting>
+    <y_northing units='ft'>2207977.309</y_northing>
+    <centerline_z_elevation units='ft'>1339.522</centerline_z_elevation>
+    <tin_z_elevation units='ft'>1339.522</tin_z_elevation>
+    <ahead_span units='ft'>799.728</ahead_span>
+    <line_angle units='deg' />
+    <sets_in_xy_structure_line_angle_calculation>1-60</sets_in_xy_structure_line_angle_calculation>
+    <transverse_axis_azimuth units='deg'>182.9537</transverse_axis_azimuth>
+    <structure_name>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\structures\230-aa.#44.065</structure_name>
+    <structure_description>230kV - Type AA - Suspension H-Frame</structure_description>
+    <struct_height units='ft'>56.500</struct_height>
+    <embedded_length units='ft' />
+    <structure_specific_material>0</structure_specific_material>
+    <counter_weights units='lbs' />
+    <automatic_structure_group_membership>&apos;All&apos;, &apos;No DE&apos;, &apos;Not all sets DE&apos;, &apos;Angle&apos;</automatic_structure_group_membership>
+    <manual_structure_group_membership />
+    <structure_comment_1>7/1</structure_comment_1>
+    <structure_comment_2>AA</structure_comment_2>
+    <structure_comment_3>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\WRY-2_44_7_1_073018_v1.JPG</structure_comment_3>
+    <structure_comment_4 />
+    <structure_comment_5 />
+    <structure_comment_6 />
+    <structure_comment_7 />
+    <structure_comment_8 />
+    <structure_comment_9 />
+    <structure_comment_10 />
+    <structure_comment_11 />
+    <structure_comment_12 />
+    <structure_comment_13 />
+    <structure_comment_14 />
+    <structure_comment_15 />
+    <structure_comment_16 />
+    <structure_comment_17 />
+    <structure_comment_18 />
+    <structure_comment_19 />
+    <structure_comment_20 />
+    <structure_comment_21 />
+    <structure_comment_22 />
+    <structure_comment_23 />
+    <structure_comment_24 />
+    <structure_comment_25 />
+    <structure_comment_26 />
+    <structure_comment_27 />
+    <structure_comment_28 />
+    <structure_comment_29 />
+    <structure_comment_30 />
+    <structure_comment_31 />
+    <structure_comment_32 />
+    <structure_comment_33 />
+    <structure_comment_34 />
+    <structure_comment_35 />
+    <structure_comment_36 />
+    <structure_comment_37 />
+    <structure_comment_38 />
+    <structure_comment_39 />
+    <structure_comment_40 />
+    <structure_comment_41 />
+    <structure_comment_42 />
+    <structure_comment_43 />
+    <structure_comment_44 />
+    <structure_comment_45 />
+    <structure_comment_46 />
+    <structure_comment_47 />
+    <structure_comment_48 />
+    <structure_comment_49 />
+    <structure_comment_50 />
+  </staking_table>
+  <staking_table rownum='44'>
+    <rowtext />
+    <structure_number>45</structure_number>
+    <station units='ft'>32693.994</station>
+    <height_adjust units='ft'>14.756</height_adjust>
+    <offset_adjust units='ft' />
+    <orientation_angle units='deg' />
+    <x_easting units='ft'>623627.340</x_easting>
+    <y_northing units='ft'>2207936.100</y_northing>
+    <centerline_z_elevation units='ft'>1340.444</centerline_z_elevation>
+    <tin_z_elevation units='ft'>1340.444</tin_z_elevation>
+    <ahead_span units='ft'>768.745</ahead_span>
+    <line_angle units='deg'>-0.0830</line_angle>
+    <sets_in_xy_structure_line_angle_calculation>1-60</sets_in_xy_structure_line_angle_calculation>
+    <transverse_axis_azimuth units='deg'>182.9122</transverse_axis_azimuth>
+    <structure_name>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\structures\230-aa.#45.065</structure_name>
+    <structure_description>230kV - Type AA - Suspension H-Frame</structure_description>
+    <struct_height units='ft'>56.500</struct_height>
+    <embedded_length units='ft' />
+    <structure_specific_material>0</structure_specific_material>
+    <counter_weights units='lbs' />
+    <automatic_structure_group_membership>&apos;All&apos;, &apos;No DE&apos;, &apos;Not all sets DE&apos;, &apos;Angle&apos;</automatic_structure_group_membership>
+    <manual_structure_group_membership />
+    <structure_comment_1>7/2</structure_comment_1>
+    <structure_comment_2>AA</structure_comment_2>
+    <structure_comment_3>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\WRY-2_45_7_2_073018_v1.JPG</structure_comment_3>
+    <structure_comment_4 />
+    <structure_comment_5 />
+    <structure_comment_6 />
+    <structure_comment_7 />
+    <structure_comment_8 />
+    <structure_comment_9 />
+    <structure_comment_10 />
+    <structure_comment_11 />
+    <structure_comment_12 />
+    <structure_comment_13 />
+    <structure_comment_14 />
+    <structure_comment_15 />
+    <structure_comment_16 />
+    <structure_comment_17 />
+    <structure_comment_18 />
+    <structure_comment_19 />
+    <structure_comment_20 />
+    <structure_comment_21 />
+    <structure_comment_22 />
+    <structure_comment_23 />
+    <structure_comment_24 />
+    <structure_comment_25 />
+    <structure_comment_26 />
+    <structure_comment_27 />
+    <structure_comment_28 />
+    <structure_comment_29 />
+    <structure_comment_30 />
+    <structure_comment_31 />
+    <structure_comment_32 />
+    <structure_comment_33 />
+    <structure_comment_34 />
+    <structure_comment_35 />
+    <structure_comment_36 />
+    <structure_comment_37 />
+    <structure_comment_38 />
+    <structure_comment_39 />
+    <structure_comment_40 />
+    <structure_comment_41 />
+    <structure_comment_42 />
+    <structure_comment_43 />
+    <structure_comment_44 />
+    <structure_comment_45 />
+    <structure_comment_46 />
+    <structure_comment_47 />
+    <structure_comment_48 />
+    <structure_comment_49 />
+    <structure_comment_50 />
+  </staking_table>
+  <staking_table rownum='45'>
+    <rowtext />
+    <structure_number>46</structure_number>
+    <station units='ft'>33462.739</station>
+    <height_adjust units='ft'>14.585</height_adjust>
+    <offset_adjust units='ft' />
+    <orientation_angle units='deg' />
+    <x_easting units='ft'>624395.120</x_easting>
+    <y_northing units='ft'>2207897.600</y_northing>
+    <centerline_z_elevation units='ft'>1352.955</centerline_z_elevation>
+    <tin_z_elevation units='ft'>1352.955</tin_z_elevation>
+    <ahead_span units='ft'>731.286</ahead_span>
+    <line_angle units='deg'>0.0287</line_angle>
+    <sets_in_xy_structure_line_angle_calculation>1-60</sets_in_xy_structure_line_angle_calculation>
+    <transverse_axis_azimuth units='deg'>182.8850</transverse_axis_azimuth>
+    <structure_name>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\structures\230-aa.#46.065</structure_name>
+    <structure_description>230kV - Type AA - Suspension H-Frame</structure_description>
+    <struct_height units='ft'>56.500</struct_height>
+    <embedded_length units='ft' />
+    <structure_specific_material>0</structure_specific_material>
+    <counter_weights units='lbs' />
+    <automatic_structure_group_membership>&apos;All&apos;, &apos;No DE&apos;, &apos;Not all sets DE&apos;, &apos;Angle&apos;</automatic_structure_group_membership>
+    <manual_structure_group_membership />
+    <structure_comment_1>7/3</structure_comment_1>
+    <structure_comment_2>AA</structure_comment_2>
+    <structure_comment_3>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\WRY-2_46_7_3_073018_v1.JPG</structure_comment_3>
+    <structure_comment_4 />
+    <structure_comment_5 />
+    <structure_comment_6 />
+    <structure_comment_7 />
+    <structure_comment_8 />
+    <structure_comment_9 />
+    <structure_comment_10 />
+    <structure_comment_11 />
+    <structure_comment_12 />
+    <structure_comment_13 />
+    <structure_comment_14 />
+    <structure_comment_15 />
+    <structure_comment_16 />
+    <structure_comment_17 />
+    <structure_comment_18 />
+    <structure_comment_19 />
+    <structure_comment_20 />
+    <structure_comment_21 />
+    <structure_comment_22 />
+    <structure_comment_23 />
+    <structure_comment_24 />
+    <structure_comment_25 />
+    <structure_comment_26 />
+    <structure_comment_27 />
+    <structure_comment_28 />
+    <structure_comment_29 />
+    <structure_comment_30 />
+    <structure_comment_31 />
+    <structure_comment_32 />
+    <structure_comment_33 />
+    <structure_comment_34 />
+    <structure_comment_35 />
+    <structure_comment_36 />
+    <structure_comment_37 />
+    <structure_comment_38 />
+    <structure_comment_39 />
+    <structure_comment_40 />
+    <structure_comment_41 />
+    <structure_comment_42 />
+    <structure_comment_43 />
+    <structure_comment_44 />
+    <structure_comment_45 />
+    <structure_comment_46 />
+    <structure_comment_47 />
+    <structure_comment_48 />
+    <structure_comment_49 />
+    <structure_comment_50 />
+  </staking_table>
+  <staking_table rownum='46'>
+    <rowtext />
+    <structure_number>47</structure_number>
+    <station units='ft'>34194.025</station>
+    <height_adjust units='ft'>14.137</height_adjust>
+    <offset_adjust units='ft' />
+    <orientation_angle units='deg'>-1.0000</orientation_angle>
+    <x_easting units='ft'>625125.470</x_easting>
+    <y_northing units='ft'>2207860.610</y_northing>
+    <centerline_z_elevation units='ft'>1361.333</centerline_z_elevation>
+    <tin_z_elevation units='ft'>1361.333</tin_z_elevation>
+    <ahead_span units='ft'>263.938</ahead_span>
+    <line_angle units='deg'>-0.1327</line_angle>
+    <sets_in_xy_structure_line_angle_calculation>1-60</sets_in_xy_structure_line_angle_calculation>
+    <transverse_axis_azimuth units='deg'>181.8330</transverse_axis_azimuth>
+    <structure_name>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\structures\230-aa.#47.065</structure_name>
+    <structure_description>230kV - Type AA - Suspension H-Frame</structure_description>
+    <struct_height units='ft'>56.500</struct_height>
+    <embedded_length units='ft' />
+    <structure_specific_material>0</structure_specific_material>
+    <counter_weights units='lbs' />
+    <automatic_structure_group_membership>&apos;All&apos;, &apos;No DE&apos;, &apos;Not all sets DE&apos;, &apos;Angle&apos;</automatic_structure_group_membership>
+    <manual_structure_group_membership />
+    <structure_comment_1>7/4</structure_comment_1>
+    <structure_comment_2>AA</structure_comment_2>
+    <structure_comment_3>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\WRY-2_47_7_4_073018_v1.JPG</structure_comment_3>
+    <structure_comment_4 />
+    <structure_comment_5 />
+    <structure_comment_6 />
+    <structure_comment_7 />
+    <structure_comment_8 />
+    <structure_comment_9 />
+    <structure_comment_10 />
+    <structure_comment_11 />
+    <structure_comment_12 />
+    <structure_comment_13 />
+    <structure_comment_14 />
+    <structure_comment_15 />
+    <structure_comment_16 />
+    <structure_comment_17 />
+    <structure_comment_18 />
+    <structure_comment_19 />
+    <structure_comment_20 />
+    <structure_comment_21 />
+    <structure_comment_22 />
+    <structure_comment_23 />
+    <structure_comment_24 />
+    <structure_comment_25 />
+    <structure_comment_26 />
+    <structure_comment_27 />
+    <structure_comment_28 />
+    <structure_comment_29 />
+    <structure_comment_30 />
+    <structure_comment_31 />
+    <structure_comment_32 />
+    <structure_comment_33 />
+    <structure_comment_34 />
+    <structure_comment_35 />
+    <structure_comment_36 />
+    <structure_comment_37 />
+    <structure_comment_38 />
+    <structure_comment_39 />
+    <structure_comment_40 />
+    <structure_comment_41 />
+    <structure_comment_42 />
+    <structure_comment_43 />
+    <structure_comment_44 />
+    <structure_comment_45 />
+    <structure_comment_46 />
+    <structure_comment_47 />
+    <structure_comment_48 />
+    <structure_comment_49 />
+    <structure_comment_50 />
+  </staking_table>
+  <staking_table rownum='47'>
+    <rowtext />
+    <structure_number>48</structure_number>
+    <station units='ft'>34457.963</station>
+    <height_adjust units='ft'>13.856</height_adjust>
+    <offset_adjust units='ft' />
+    <orientation_angle units='deg' />
+    <x_easting units='ft'>625389.100</x_easting>
+    <y_northing units='ft'>2207847.870</y_northing>
+    <centerline_z_elevation units='ft'>1363.244</centerline_z_elevation>
+    <tin_z_elevation units='ft'>1363.244</tin_z_elevation>
+    <ahead_span units='ft' />
+    <line_angle units='deg'>-134.1860</line_angle>
+    <sets_in_xy_structure_line_angle_calculation>1-60</sets_in_xy_structure_line_angle_calculation>
+    <transverse_axis_azimuth units='deg'>115.6737</transverse_axis_azimuth>
+    <structure_name>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\structures\rue ryan deadend.#48</structure_name>
+    <structure_description>230kV - Type AA - Suspension H-Frame</structure_description>
+    <struct_height units='ft'>56.500</struct_height>
+    <embedded_length units='ft' />
+    <structure_specific_material>0</structure_specific_material>
+    <counter_weights units='lbs' />
+    <automatic_structure_group_membership>&apos;All&apos;, &apos;Has DE&apos;, &apos;All sets DE&apos;, &apos;Angle&apos;</automatic_structure_group_membership>
+    <manual_structure_group_membership />
+    <structure_comment_1>7/4A</structure_comment_1>
+    <structure_comment_2 />
+    <structure_comment_3>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\WRY-2_48_7_4A_073018_v1.JPG</structure_comment_3>
+    <structure_comment_4 />
+    <structure_comment_5 />
+    <structure_comment_6 />
+    <structure_comment_7 />
+    <structure_comment_8 />
+    <structure_comment_9 />
+    <structure_comment_10 />
+    <structure_comment_11 />
+    <structure_comment_12 />
+    <structure_comment_13 />
+    <structure_comment_14 />
+    <structure_comment_15 />
+    <structure_comment_16 />
+    <structure_comment_17 />
+    <structure_comment_18 />
+    <structure_comment_19 />
+    <structure_comment_20 />
+    <structure_comment_21 />
+    <structure_comment_22 />
+    <structure_comment_23 />
+    <structure_comment_24 />
+    <structure_comment_25 />
+    <structure_comment_26 />
+    <structure_comment_27 />
+    <structure_comment_28 />
+    <structure_comment_29 />
+    <structure_comment_30 />
+    <structure_comment_31 />
+    <structure_comment_32 />
+    <structure_comment_33 />
+    <structure_comment_34 />
+    <structure_comment_35 />
+    <structure_comment_36 />
+    <structure_comment_37 />
+    <structure_comment_38 />
+    <structure_comment_39 />
+    <structure_comment_40 />
+    <structure_comment_41 />
+    <structure_comment_42 />
+    <structure_comment_43 />
+    <structure_comment_44 />
+    <structure_comment_45 />
+    <structure_comment_46 />
+    <structure_comment_47 />
+    <structure_comment_48 />
+    <structure_comment_49 />
+    <structure_comment_50 />
+  </staking_table>
+  <staking_table rownum='48'>
+    <rowtext />
+    <structure_number>49</structure_number>
+    <station units='ft'>34532.800</station>
+    <height_adjust units='ft' />
+    <offset_adjust units='ft' />
+    <orientation_angle units='deg' />
+    <x_easting units='ft'>625339.590</x_easting>
+    <y_northing units='ft'>2207903.990</y_northing>
+    <centerline_z_elevation units='ft'>1360.244</centerline_z_elevation>
+    <tin_z_elevation units='ft'>1360.244</tin_z_elevation>
+    <ahead_span units='ft'>163.499</ahead_span>
+    <line_angle units='deg'>-135.6919</line_angle>
+    <sets_in_xy_structure_line_angle_calculation>1-60</sets_in_xy_structure_line_angle_calculation>
+    <transverse_axis_azimuth units='deg'>340.7348</transverse_axis_azimuth>
+    <structure_name>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\structures\230-w-2_tap.#49.#49.070</structure_name>
+    <structure_description>Ryan Tap Deadend</structure_description>
+    <struct_height units='ft'>38.920</struct_height>
+    <embedded_length units='ft' />
+    <structure_specific_material>0</structure_specific_material>
+    <counter_weights units='lbs' />
+    <automatic_structure_group_membership>&apos;All&apos;, &apos;Has DE&apos;, &apos;All sets DE&apos;, &apos;Angle&apos;</automatic_structure_group_membership>
+    <manual_structure_group_membership />
+    <structure_comment_1>07/04W</structure_comment_1>
+    <structure_comment_2 />
+    <structure_comment_3>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\WRY-2_49_07_04W_073018_v1.JPG</structure_comment_3>
+    <structure_comment_4 />
+    <structure_comment_5 />
+    <structure_comment_6 />
+    <structure_comment_7 />
+    <structure_comment_8 />
+    <structure_comment_9 />
+    <structure_comment_10 />
+    <structure_comment_11 />
+    <structure_comment_12 />
+    <structure_comment_13 />
+    <structure_comment_14 />
+    <structure_comment_15 />
+    <structure_comment_16 />
+    <structure_comment_17 />
+    <structure_comment_18 />
+    <structure_comment_19 />
+    <structure_comment_20 />
+    <structure_comment_21 />
+    <structure_comment_22 />
+    <structure_comment_23 />
+    <structure_comment_24 />
+    <structure_comment_25 />
+    <structure_comment_26 />
+    <structure_comment_27 />
+    <structure_comment_28 />
+    <structure_comment_29 />
+    <structure_comment_30 />
+    <structure_comment_31 />
+    <structure_comment_32 />
+    <structure_comment_33 />
+    <structure_comment_34 />
+    <structure_comment_35 />
+    <structure_comment_36 />
+    <structure_comment_37 />
+    <structure_comment_38 />
+    <structure_comment_39 />
+    <structure_comment_40 />
+    <structure_comment_41 />
+    <structure_comment_42 />
+    <structure_comment_43 />
+    <structure_comment_44 />
+    <structure_comment_45 />
+    <structure_comment_46 />
+    <structure_comment_47 />
+    <structure_comment_48 />
+    <structure_comment_49 />
+    <structure_comment_50 />
+  </staking_table>
+  <staking_table rownum='49'>
+    <rowtext />
+    <structure_number>50</structure_number>
+    <station units='ft'>34696.299</station>
+    <height_adjust units='ft'>3.532</height_adjust>
+    <offset_adjust units='ft' />
+    <orientation_angle units='deg' />
+    <x_easting units='ft'>625331.350</x_easting>
+    <y_northing units='ft'>2207740.699</y_northing>
+    <centerline_z_elevation units='ft'>1373.118</centerline_z_elevation>
+    <tin_z_elevation units='ft'>1373.118</tin_z_elevation>
+    <ahead_span units='ft' />
+    <line_angle units='deg' />
+    <sets_in_xy_structure_line_angle_calculation>1-60</sets_in_xy_structure_line_angle_calculation>
+    <transverse_axis_azimuth units='deg'>272.8888</transverse_axis_azimuth>
+    <structure_name>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\ryan_sub_eol.str</structure_name>
+    <structure_description>230kV - Type EE - Strain Three Pole - 0&#176; Angle - Distance Below Top Varies</structure_description>
+    <struct_height units='ft'>56.500</struct_height>
+    <embedded_length units='ft' />
+    <structure_specific_material>0</structure_specific_material>
+    <counter_weights units='lbs' />
+    <automatic_structure_group_membership>&apos;All&apos;, &apos;Has DE&apos;, &apos;All sets DE&apos;</automatic_structure_group_membership>
+    <manual_structure_group_membership />
+    <structure_comment_1>RYAN_SUB</structure_comment_1>
+    <structure_comment_2 />
+    <structure_comment_3>E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\WRY-2_50_RYAN_SUB_073018_v1.JPG</structure_comment_3>
+    <structure_comment_4 />
+    <structure_comment_5 />
+    <structure_comment_6 />
+    <structure_comment_7 />
+    <structure_comment_8 />
+    <structure_comment_9 />
+    <structure_comment_10 />
+    <structure_comment_11 />
+    <structure_comment_12 />
+    <structure_comment_13 />
+    <structure_comment_14 />
+    <structure_comment_15 />
+    <structure_comment_16 />
+    <structure_comment_17 />
+    <structure_comment_18 />
+    <structure_comment_19 />
+    <structure_comment_20 />
+    <structure_comment_21 />
+    <structure_comment_22 />
+    <structure_comment_23 />
+    <structure_comment_24 />
+    <structure_comment_25 />
+    <structure_comment_26 />
+    <structure_comment_27 />
+    <structure_comment_28 />
+    <structure_comment_29 />
+    <structure_comment_30 />
+    <structure_comment_31 />
+    <structure_comment_32 />
+    <structure_comment_33 />
+    <structure_comment_34 />
+    <structure_comment_35 />
+    <structure_comment_36 />
+    <structure_comment_37 />
+    <structure_comment_38 />
+    <structure_comment_39 />
+    <structure_comment_40 />
+    <structure_comment_41 />
+    <structure_comment_42 />
+    <structure_comment_43 />
+    <structure_comment_44 />
+    <structure_comment_45 />
+    <structure_comment_46 />
+    <structure_comment_47 />
+    <structure_comment_48 />
+    <structure_comment_49 />
+    <structure_comment_50 />
+  </staking_table>
+</table>
+</root>

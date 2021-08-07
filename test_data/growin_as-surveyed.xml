@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='windows-1252' standalone='yes'?>
+<!-- Created by PLS-CADD Version 16.20 on 11:23:09 05/07/2021 by tombe on NMLD000042 -->
+
+<root>
+<creator application='PLS-CADD' version='Version 16.20' registereduser='Network Mapping Inc' date='05/07/2021' time='11:23:09' computer='NMLD000042' user='tombe' project='WRY-2_PLS_052421_v1.xyz' projectpath='E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\WRY-2_PLS_052421_v1.xyz' activeline='Original As-surveyed Conductor' coordinatesystem='nad83' zone='3101' zonedsescription='New York East' gridshift='' surveyfoot='yes' schemafile='e:\tom_bennett\tom b\stuff\pls\schema\pls-cadd_v1_tb.sma' plsxmlver='1.0'/>
+<table plsname='Vegetation Analysis Report' tagname='vegetation_analysis_report' ncols='46' nrows='0' units='0' version='2' titledetail=''>
+</table>
+</root>

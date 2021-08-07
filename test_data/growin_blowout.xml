@@ -1,0 +1,645 @@
+<?xml version='1.0' encoding='windows-1252' standalone='yes'?>
+<!-- Created by PLS-CADD Version 16.20 on 11:26:21 05/07/2021 by tombe on NMLD000042 -->
+
+<root>
+<creator application='PLS-CADD' version='Version 16.20' registereduser='Network Mapping Inc' date='05/07/2021' time='11:26:21' computer='NMLD000042' user='tombe' project='WRY-2_PLS_052421_v1.xyz' projectpath='E:\Tom_Bennett\Projects\NMIP21007 NYPA\Engineering_WRY 2\restore\WRY-2_PLS_052421_v1.xyz' activeline='Original As-surveyed Conductor' coordinatesystem='nad83' zone='3101' zonedsescription='New York East' gridshift='' surveyfoot='yes' schemafile='e:\tom_bennett\tom b\stuff\pls\schema\pls-cadd_v1_tb.sma' plsxmlver='1.0'/>
+<table plsname='Vegetation Analysis Report' tagname='vegetation_analysis_report' ncols='46' nrows='13' units='0' version='2' titledetail=''>
+  <vegetation_analysis_report rownum='0'>
+    <rowtext />
+    <survey_point_xyz_index>720351</survey_point_xyz_index>
+    <survey_point_id />
+    <survey_point_feature_code>131</survey_point_feature_code>
+    <survey_point_x units='ft'>600141.34</survey_point_x>
+    <survey_point_y units='ft'>2208167.72</survey_point_y>
+    <survey_point_z_h units='ft'>1181.88</survey_point_z_h>
+    <survey_point_station units='ft'>9127.06</survey_point_station>
+    <survey_point_offset units='ft'>54.03</survey_point_offset>
+    <survey_point_height_above_ground units='ft'>52.85</survey_point_height_above_ground>
+    <survey_point_height_above_ground_ok> OK </survey_point_height_above_ground_ok>
+    <grow_in_closest_wire_back_str>13</grow_in_closest_wire_back_str>
+    <grow_in_closest_wire_back_set>17</grow_in_closest_wire_back_set>
+    <grow_in_closest_wire_back_phase>1</grow_in_closest_wire_back_phase>
+    <grow_in_closest_wire_circuit_label />
+    <grow_in_closest_wire_phase_label />
+    <grow_in_closest_wire_ahead_str>14</grow_in_closest_wire_ahead_str>
+    <grow_in_closest_wire_horiz_dist_to_back_struct units='ft'>459.36</grow_in_closest_wire_horiz_dist_to_back_struct>
+    <grow_in_closest_wire_wc>19</grow_in_closest_wire_wc>
+    <grow_in_closest_wire_weather_case>NESC Blowout (RUE 2011)</grow_in_closest_wire_weather_case>
+    <grow_in_closest_wire_condition>Max Sag FE</grow_in_closest_wire_condition>
+    <grow_in_closest_wire_x units='ft'>600139.96</grow_in_closest_wire_x>
+    <grow_in_closest_wire_y units='ft'>2208177.41</grow_in_closest_wire_y>
+    <grow_in_closest_wire_z units='ft'>1181.23</grow_in_closest_wire_z>
+    <grow_in_closest_wire_vert_or_radial_margin units='ft'>-0.20</grow_in_closest_wire_vert_or_radial_margin>
+    <grow_in_closest_wire_horz_margin units='ft'>0.00</grow_in_closest_wire_horz_margin>
+    <grow_in_closest_wire_min_dist_to_wire units='ft'>9.80</grow_in_closest_wire_min_dist_to_wire>
+    <grow_in_closest_wire_ok> NG </grow_in_closest_wire_ok>
+    <falling_tree_closest_wire_back_str />
+    <falling_tree_closest_wire_back_set>0</falling_tree_closest_wire_back_set>
+    <falling_tree_closest_wire_back_phase>0</falling_tree_closest_wire_back_phase>
+    <falling_tree_closest_wire_circuit_label />
+    <falling_tree_closest_wire_phase_label />
+    <falling_tree_closest_wire_ahead_str />
+    <falling_tree_closest_wire_horiz_dist_to_back_struct units='ft'>0.00</falling_tree_closest_wire_horiz_dist_to_back_struct>
+    <falling_tree_closest_wire_wc>0</falling_tree_closest_wire_wc>
+    <falling_tree_closest_wire_weather_case />
+    <falling_tree_closest_wire_condition />
+    <falling_tree_closest_wire_x units='ft'>0.00</falling_tree_closest_wire_x>
+    <falling_tree_closest_wire_y units='ft'>0.00</falling_tree_closest_wire_y>
+    <falling_tree_closest_wire_z units='ft'>0.00</falling_tree_closest_wire_z>
+    <falling_tree_closest_wire_radial_margin units='ft'>0.00</falling_tree_closest_wire_radial_margin>
+    <falling_tree_closest_wire_min_dist_to_wire units='ft'>0.00</falling_tree_closest_wire_min_dist_to_wire>
+    <falling_tree_closest_wire_ok />
+    <overall_closest_wire_min_dist_to_wire units='ft'>9.80</overall_closest_wire_min_dist_to_wire>
+    <ok> NG </ok>
+    <site_number>0</site_number>
+  </vegetation_analysis_report>
+  <vegetation_analysis_report rownum='1'>
+    <rowtext />
+    <survey_point_xyz_index>715756</survey_point_xyz_index>
+    <survey_point_id />
+    <survey_point_feature_code>131</survey_point_feature_code>
+    <survey_point_x units='ft'>600145.18</survey_point_x>
+    <survey_point_y units='ft'>2208173.93</survey_point_y>
+    <survey_point_z_h units='ft'>1179.15</survey_point_z_h>
+    <survey_point_station units='ft'>9131.73</survey_point_station>
+    <survey_point_offset units='ft'>48.42</survey_point_offset>
+    <survey_point_height_above_ground units='ft'>50.71</survey_point_height_above_ground>
+    <survey_point_height_above_ground_ok> OK </survey_point_height_above_ground_ok>
+    <grow_in_closest_wire_back_str>13</grow_in_closest_wire_back_str>
+    <grow_in_closest_wire_back_set>17</grow_in_closest_wire_back_set>
+    <grow_in_closest_wire_back_phase>1</grow_in_closest_wire_back_phase>
+    <grow_in_closest_wire_circuit_label />
+    <grow_in_closest_wire_phase_label />
+    <grow_in_closest_wire_ahead_str>14</grow_in_closest_wire_ahead_str>
+    <grow_in_closest_wire_horiz_dist_to_back_struct units='ft'>463.38</grow_in_closest_wire_horiz_dist_to_back_struct>
+    <grow_in_closest_wire_wc>19</grow_in_closest_wire_wc>
+    <grow_in_closest_wire_weather_case>NESC Blowout (RUE 2011)</grow_in_closest_wire_weather_case>
+    <grow_in_closest_wire_condition>Max Sag FE</grow_in_closest_wire_condition>
+    <grow_in_closest_wire_x units='ft'>600144.61</grow_in_closest_wire_x>
+    <grow_in_closest_wire_y units='ft'>2208177.93</grow_in_closest_wire_y>
+    <grow_in_closest_wire_z units='ft'>1180.96</grow_in_closest_wire_z>
+    <grow_in_closest_wire_vert_or_radial_margin units='ft'>-5.58</grow_in_closest_wire_vert_or_radial_margin>
+    <grow_in_closest_wire_horz_margin units='ft'>0.00</grow_in_closest_wire_horz_margin>
+    <grow_in_closest_wire_min_dist_to_wire units='ft'>4.42</grow_in_closest_wire_min_dist_to_wire>
+    <grow_in_closest_wire_ok> NG </grow_in_closest_wire_ok>
+    <falling_tree_closest_wire_back_str />
+    <falling_tree_closest_wire_back_set>0</falling_tree_closest_wire_back_set>
+    <falling_tree_closest_wire_back_phase>0</falling_tree_closest_wire_back_phase>
+    <falling_tree_closest_wire_circuit_label />
+    <falling_tree_closest_wire_phase_label />
+    <falling_tree_closest_wire_ahead_str />
+    <falling_tree_closest_wire_horiz_dist_to_back_struct units='ft'>0.00</falling_tree_closest_wire_horiz_dist_to_back_struct>
+    <falling_tree_closest_wire_wc>0</falling_tree_closest_wire_wc>
+    <falling_tree_closest_wire_weather_case />
+    <falling_tree_closest_wire_condition />
+    <falling_tree_closest_wire_x units='ft'>0.00</falling_tree_closest_wire_x>
+    <falling_tree_closest_wire_y units='ft'>0.00</falling_tree_closest_wire_y>
+    <falling_tree_closest_wire_z units='ft'>0.00</falling_tree_closest_wire_z>
+    <falling_tree_closest_wire_radial_margin units='ft'>0.00</falling_tree_closest_wire_radial_margin>
+    <falling_tree_closest_wire_min_dist_to_wire units='ft'>0.00</falling_tree_closest_wire_min_dist_to_wire>
+    <falling_tree_closest_wire_ok />
+    <overall_closest_wire_min_dist_to_wire units='ft'>4.42</overall_closest_wire_min_dist_to_wire>
+    <ok> NG </ok>
+    <site_number>0</site_number>
+  </vegetation_analysis_report>
+  <vegetation_analysis_report rownum='2'>
+    <rowtext />
+    <survey_point_xyz_index>716667</survey_point_xyz_index>
+    <survey_point_id />
+    <survey_point_feature_code>131</survey_point_feature_code>
+    <survey_point_x units='ft'>600181.91</survey_point_x>
+    <survey_point_y units='ft'>2208174.89</survey_point_y>
+    <survey_point_z_h units='ft'>1176.07</survey_point_z_h>
+    <survey_point_station units='ft'>9168.23</survey_point_station>
+    <survey_point_offset units='ft'>52.64</survey_point_offset>
+    <survey_point_height_above_ground units='ft'>48.76</survey_point_height_above_ground>
+    <survey_point_height_above_ground_ok> OK </survey_point_height_above_ground_ok>
+    <grow_in_closest_wire_back_str>13</grow_in_closest_wire_back_str>
+    <grow_in_closest_wire_back_set>17</grow_in_closest_wire_back_set>
+    <grow_in_closest_wire_back_phase>1</grow_in_closest_wire_back_phase>
+    <grow_in_closest_wire_circuit_label />
+    <grow_in_closest_wire_phase_label />
+    <grow_in_closest_wire_ahead_str>14</grow_in_closest_wire_ahead_str>
+    <grow_in_closest_wire_horiz_dist_to_back_struct units='ft'>500.12</grow_in_closest_wire_horiz_dist_to_back_struct>
+    <grow_in_closest_wire_wc>19</grow_in_closest_wire_wc>
+    <grow_in_closest_wire_weather_case>NESC Blowout (RUE 2011)</grow_in_closest_wire_weather_case>
+    <grow_in_closest_wire_condition>Max Sag FE</grow_in_closest_wire_condition>
+    <grow_in_closest_wire_x units='ft'>600180.89</grow_in_closest_wire_x>
+    <grow_in_closest_wire_y units='ft'>2208182.06</grow_in_closest_wire_y>
+    <grow_in_closest_wire_z units='ft'>1179.04</grow_in_closest_wire_z>
+    <grow_in_closest_wire_vert_or_radial_margin units='ft'>-2.17</grow_in_closest_wire_vert_or_radial_margin>
+    <grow_in_closest_wire_horz_margin units='ft'>0.00</grow_in_closest_wire_horz_margin>
+    <grow_in_closest_wire_min_dist_to_wire units='ft'>7.83</grow_in_closest_wire_min_dist_to_wire>
+    <grow_in_closest_wire_ok> NG </grow_in_closest_wire_ok>
+    <falling_tree_closest_wire_back_str />
+    <falling_tree_closest_wire_back_set>0</falling_tree_closest_wire_back_set>
+    <falling_tree_closest_wire_back_phase>0</falling_tree_closest_wire_back_phase>
+    <falling_tree_closest_wire_circuit_label />
+    <falling_tree_closest_wire_phase_label />
+    <falling_tree_closest_wire_ahead_str />
+    <falling_tree_closest_wire_horiz_dist_to_back_struct units='ft'>0.00</falling_tree_closest_wire_horiz_dist_to_back_struct>
+    <falling_tree_closest_wire_wc>0</falling_tree_closest_wire_wc>
+    <falling_tree_closest_wire_weather_case />
+    <falling_tree_closest_wire_condition />
+    <falling_tree_closest_wire_x units='ft'>0.00</falling_tree_closest_wire_x>
+    <falling_tree_closest_wire_y units='ft'>0.00</falling_tree_closest_wire_y>
+    <falling_tree_closest_wire_z units='ft'>0.00</falling_tree_closest_wire_z>
+    <falling_tree_closest_wire_radial_margin units='ft'>0.00</falling_tree_closest_wire_radial_margin>
+    <falling_tree_closest_wire_min_dist_to_wire units='ft'>0.00</falling_tree_closest_wire_min_dist_to_wire>
+    <falling_tree_closest_wire_ok />
+    <overall_closest_wire_min_dist_to_wire units='ft'>7.83</overall_closest_wire_min_dist_to_wire>
+    <ok> NG </ok>
+    <site_number>0</site_number>
+  </vegetation_analysis_report>
+  <vegetation_analysis_report rownum='3'>
+    <rowtext />
+    <survey_point_xyz_index>716671</survey_point_xyz_index>
+    <survey_point_id />
+    <survey_point_feature_code>131</survey_point_feature_code>
+    <survey_point_x units='ft'>600185.74</survey_point_x>
+    <survey_point_y units='ft'>2208178.67</survey_point_y>
+    <survey_point_z_h units='ft'>1179.48</survey_point_z_h>
+    <survey_point_station units='ft'>9172.56</survey_point_station>
+    <survey_point_offset units='ft'>49.43</survey_point_offset>
+    <survey_point_height_above_ground units='ft'>52.49</survey_point_height_above_ground>
+    <survey_point_height_above_ground_ok> OK </survey_point_height_above_ground_ok>
+    <grow_in_closest_wire_back_str>13</grow_in_closest_wire_back_str>
+    <grow_in_closest_wire_back_set>17</grow_in_closest_wire_back_set>
+    <grow_in_closest_wire_back_phase>1</grow_in_closest_wire_back_phase>
+    <grow_in_closest_wire_circuit_label />
+    <grow_in_closest_wire_phase_label />
+    <grow_in_closest_wire_ahead_str>14</grow_in_closest_wire_ahead_str>
+    <grow_in_closest_wire_horiz_dist_to_back_struct units='ft'>504.09</grow_in_closest_wire_horiz_dist_to_back_struct>
+    <grow_in_closest_wire_wc>19</grow_in_closest_wire_wc>
+    <grow_in_closest_wire_weather_case>NESC Blowout (RUE 2011)</grow_in_closest_wire_weather_case>
+    <grow_in_closest_wire_condition>Max Sag FE</grow_in_closest_wire_condition>
+    <grow_in_closest_wire_x units='ft'>600185.19</grow_in_closest_wire_x>
+    <grow_in_closest_wire_y units='ft'>2208182.56</grow_in_closest_wire_y>
+    <grow_in_closest_wire_z units='ft'>1178.84</grow_in_closest_wire_z>
+    <grow_in_closest_wire_vert_or_radial_margin units='ft'>-6.01</grow_in_closest_wire_vert_or_radial_margin>
+    <grow_in_closest_wire_horz_margin units='ft'>0.00</grow_in_closest_wire_horz_margin>
+    <grow_in_closest_wire_min_dist_to_wire units='ft'>3.99</grow_in_closest_wire_min_dist_to_wire>
+    <grow_in_closest_wire_ok> NG </grow_in_closest_wire_ok>
+    <falling_tree_closest_wire_back_str />
+    <falling_tree_closest_wire_back_set>0</falling_tree_closest_wire_back_set>
+    <falling_tree_closest_wire_back_phase>0</falling_tree_closest_wire_back_phase>
+    <falling_tree_closest_wire_circuit_label />
+    <falling_tree_closest_wire_phase_label />
+    <falling_tree_closest_wire_ahead_str />
+    <falling_tree_closest_wire_horiz_dist_to_back_struct units='ft'>0.00</falling_tree_closest_wire_horiz_dist_to_back_struct>
+    <falling_tree_closest_wire_wc>0</falling_tree_closest_wire_wc>
+    <falling_tree_closest_wire_weather_case />
+    <falling_tree_closest_wire_condition />
+    <falling_tree_closest_wire_x units='ft'>0.00</falling_tree_closest_wire_x>
+    <falling_tree_closest_wire_y units='ft'>0.00</falling_tree_closest_wire_y>
+    <falling_tree_closest_wire_z units='ft'>0.00</falling_tree_closest_wire_z>
+    <falling_tree_closest_wire_radial_margin units='ft'>0.00</falling_tree_closest_wire_radial_margin>
+    <falling_tree_closest_wire_min_dist_to_wire units='ft'>0.00</falling_tree_closest_wire_min_dist_to_wire>
+    <falling_tree_closest_wire_ok />
+    <overall_closest_wire_min_dist_to_wire units='ft'>3.99</overall_closest_wire_min_dist_to_wire>
+    <ok> NG </ok>
+    <site_number>0</site_number>
+  </vegetation_analysis_report>
+  <vegetation_analysis_report rownum='4'>
+    <rowtext />
+    <survey_point_xyz_index>716672</survey_point_xyz_index>
+    <survey_point_id />
+    <survey_point_feature_code>131</survey_point_feature_code>
+    <survey_point_x units='ft'>600185.96</survey_point_x>
+    <survey_point_y units='ft'>2208177.42</survey_point_y>
+    <survey_point_z_h units='ft'>1177.91</survey_point_z_h>
+    <survey_point_station units='ft'>9172.60</survey_point_station>
+    <survey_point_offset units='ft'>50.70</survey_point_offset>
+    <survey_point_height_above_ground units='ft'>50.76</survey_point_height_above_ground>
+    <survey_point_height_above_ground_ok> OK </survey_point_height_above_ground_ok>
+    <grow_in_closest_wire_back_str>13</grow_in_closest_wire_back_str>
+    <grow_in_closest_wire_back_set>17</grow_in_closest_wire_back_set>
+    <grow_in_closest_wire_back_phase>1</grow_in_closest_wire_back_phase>
+    <grow_in_closest_wire_circuit_label />
+    <grow_in_closest_wire_phase_label />
+    <grow_in_closest_wire_ahead_str>14</grow_in_closest_wire_ahead_str>
+    <grow_in_closest_wire_horiz_dist_to_back_struct units='ft'>504.26</grow_in_closest_wire_horiz_dist_to_back_struct>
+    <grow_in_closest_wire_wc>19</grow_in_closest_wire_wc>
+    <grow_in_closest_wire_weather_case>NESC Blowout (RUE 2011)</grow_in_closest_wire_weather_case>
+    <grow_in_closest_wire_condition>Max Sag FE</grow_in_closest_wire_condition>
+    <grow_in_closest_wire_x units='ft'>600185.23</grow_in_closest_wire_x>
+    <grow_in_closest_wire_y units='ft'>2208182.57</grow_in_closest_wire_y>
+    <grow_in_closest_wire_z units='ft'>1178.84</grow_in_closest_wire_z>
+    <grow_in_closest_wire_vert_or_radial_margin units='ft'>-4.72</grow_in_closest_wire_vert_or_radial_margin>
+    <grow_in_closest_wire_horz_margin units='ft'>0.00</grow_in_closest_wire_horz_margin>
+    <grow_in_closest_wire_min_dist_to_wire units='ft'>5.28</grow_in_closest_wire_min_dist_to_wire>
+    <grow_in_closest_wire_ok> NG </grow_in_closest_wire_ok>
+    <falling_tree_closest_wire_back_str />
+    <falling_tree_closest_wire_back_set>0</falling_tree_closest_wire_back_set>
+    <falling_tree_closest_wire_back_phase>0</falling_tree_closest_wire_back_phase>
+    <falling_tree_closest_wire_circuit_label />
+    <falling_tree_closest_wire_phase_label />
+    <falling_tree_closest_wire_ahead_str />
+    <falling_tree_closest_wire_horiz_dist_to_back_struct units='ft'>0.00</falling_tree_closest_wire_horiz_dist_to_back_struct>
+    <falling_tree_closest_wire_wc>0</falling_tree_closest_wire_wc>
+    <falling_tree_closest_wire_weather_case />
+    <falling_tree_closest_wire_condition />
+    <falling_tree_closest_wire_x units='ft'>0.00</falling_tree_closest_wire_x>
+    <falling_tree_closest_wire_y units='ft'>0.00</falling_tree_closest_wire_y>
+    <falling_tree_closest_wire_z units='ft'>0.00</falling_tree_closest_wire_z>
+    <falling_tree_closest_wire_radial_margin units='ft'>0.00</falling_tree_closest_wire_radial_margin>
+    <falling_tree_closest_wire_min_dist_to_wire units='ft'>0.00</falling_tree_closest_wire_min_dist_to_wire>
+    <falling_tree_closest_wire_ok />
+    <overall_closest_wire_min_dist_to_wire units='ft'>5.28</overall_closest_wire_min_dist_to_wire>
+    <ok> NG </ok>
+    <site_number>0</site_number>
+  </vegetation_analysis_report>
+  <vegetation_analysis_report rownum='5'>
+    <rowtext />
+    <survey_point_xyz_index>716677</survey_point_xyz_index>
+    <survey_point_id />
+    <survey_point_feature_code>131</survey_point_feature_code>
+    <survey_point_x units='ft'>600188.77</survey_point_x>
+    <survey_point_y units='ft'>2208174.38</survey_point_y>
+    <survey_point_z_h units='ft'>1174.39</survey_point_z_h>
+    <survey_point_station units='ft'>9174.95</survey_point_station>
+    <survey_point_offset units='ft'>54.10</survey_point_offset>
+    <survey_point_height_above_ground units='ft'>47.25</survey_point_height_above_ground>
+    <survey_point_height_above_ground_ok> OK </survey_point_height_above_ground_ok>
+    <grow_in_closest_wire_back_str>13</grow_in_closest_wire_back_str>
+    <grow_in_closest_wire_back_set>17</grow_in_closest_wire_back_set>
+    <grow_in_closest_wire_back_phase>1</grow_in_closest_wire_back_phase>
+    <grow_in_closest_wire_circuit_label />
+    <grow_in_closest_wire_phase_label />
+    <grow_in_closest_wire_ahead_str>14</grow_in_closest_wire_ahead_str>
+    <grow_in_closest_wire_horiz_dist_to_back_struct units='ft'>506.96</grow_in_closest_wire_horiz_dist_to_back_struct>
+    <grow_in_closest_wire_wc>19</grow_in_closest_wire_wc>
+    <grow_in_closest_wire_weather_case>NESC Blowout (RUE 2011)</grow_in_closest_wire_weather_case>
+    <grow_in_closest_wire_condition>Max Sag FE</grow_in_closest_wire_condition>
+    <grow_in_closest_wire_x units='ft'>600187.57</grow_in_closest_wire_x>
+    <grow_in_closest_wire_y units='ft'>2208182.84</grow_in_closest_wire_y>
+    <grow_in_closest_wire_z units='ft'>1178.73</grow_in_closest_wire_z>
+    <grow_in_closest_wire_vert_or_radial_margin units='ft'>-0.41</grow_in_closest_wire_vert_or_radial_margin>
+    <grow_in_closest_wire_horz_margin units='ft'>0.00</grow_in_closest_wire_horz_margin>
+    <grow_in_closest_wire_min_dist_to_wire units='ft'>9.59</grow_in_closest_wire_min_dist_to_wire>
+    <grow_in_closest_wire_ok> NG </grow_in_closest_wire_ok>
+    <falling_tree_closest_wire_back_str />
+    <falling_tree_closest_wire_back_set>0</falling_tree_closest_wire_back_set>
+    <falling_tree_closest_wire_back_phase>0</falling_tree_closest_wire_back_phase>
+    <falling_tree_closest_wire_circuit_label />
+    <falling_tree_closest_wire_phase_label />
+    <falling_tree_closest_wire_ahead_str />
+    <falling_tree_closest_wire_horiz_dist_to_back_struct units='ft'>0.00</falling_tree_closest_wire_horiz_dist_to_back_struct>
+    <falling_tree_closest_wire_wc>0</falling_tree_closest_wire_wc>
+    <falling_tree_closest_wire_weather_case />
+    <falling_tree_closest_wire_condition />
+    <falling_tree_closest_wire_x units='ft'>0.00</falling_tree_closest_wire_x>
+    <falling_tree_closest_wire_y units='ft'>0.00</falling_tree_closest_wire_y>
+    <falling_tree_closest_wire_z units='ft'>0.00</falling_tree_closest_wire_z>
+    <falling_tree_closest_wire_radial_margin units='ft'>0.00</falling_tree_closest_wire_radial_margin>
+    <falling_tree_closest_wire_min_dist_to_wire units='ft'>0.00</falling_tree_closest_wire_min_dist_to_wire>
+    <falling_tree_closest_wire_ok />
+    <overall_closest_wire_min_dist_to_wire units='ft'>9.59</overall_closest_wire_min_dist_to_wire>
+    <ok> NG </ok>
+    <site_number>0</site_number>
+  </vegetation_analysis_report>
+  <vegetation_analysis_report rownum='6'>
+    <rowtext />
+    <survey_point_xyz_index>716689</survey_point_xyz_index>
+    <survey_point_id />
+    <survey_point_feature_code>131</survey_point_feature_code>
+    <survey_point_x units='ft'>600199.06</survey_point_x>
+    <survey_point_y units='ft'>2208177.87</survey_point_y>
+    <survey_point_z_h units='ft'>1177.97</survey_point_z_h>
+    <survey_point_station units='ft'>9185.63</survey_point_station>
+    <survey_point_offset units='ft'>52.09</survey_point_offset>
+    <survey_point_height_above_ground units='ft'>51.22</survey_point_height_above_ground>
+    <survey_point_height_above_ground_ok> OK </survey_point_height_above_ground_ok>
+    <grow_in_closest_wire_back_str>13</grow_in_closest_wire_back_str>
+    <grow_in_closest_wire_back_set>17</grow_in_closest_wire_back_set>
+    <grow_in_closest_wire_back_phase>1</grow_in_closest_wire_back_phase>
+    <grow_in_closest_wire_circuit_label />
+    <grow_in_closest_wire_phase_label />
+    <grow_in_closest_wire_ahead_str>14</grow_in_closest_wire_ahead_str>
+    <grow_in_closest_wire_horiz_dist_to_back_struct units='ft'>517.37</grow_in_closest_wire_horiz_dist_to_back_struct>
+    <grow_in_closest_wire_wc>19</grow_in_closest_wire_wc>
+    <grow_in_closest_wire_weather_case>NESC Blowout (RUE 2011)</grow_in_closest_wire_weather_case>
+    <grow_in_closest_wire_condition>Max Sag FE</grow_in_closest_wire_condition>
+    <grow_in_closest_wire_x units='ft'>600198.18</grow_in_closest_wire_x>
+    <grow_in_closest_wire_y units='ft'>2208184.09</grow_in_closest_wire_y>
+    <grow_in_closest_wire_z units='ft'>1178.24</grow_in_closest_wire_z>
+    <grow_in_closest_wire_vert_or_radial_margin units='ft'>-3.71</grow_in_closest_wire_vert_or_radial_margin>
+    <grow_in_closest_wire_horz_margin units='ft'>0.00</grow_in_closest_wire_horz_margin>
+    <grow_in_closest_wire_min_dist_to_wire units='ft'>6.29</grow_in_closest_wire_min_dist_to_wire>
+    <grow_in_closest_wire_ok> NG </grow_in_closest_wire_ok>
+    <falling_tree_closest_wire_back_str />
+    <falling_tree_closest_wire_back_set>0</falling_tree_closest_wire_back_set>
+    <falling_tree_closest_wire_back_phase>0</falling_tree_closest_wire_back_phase>
+    <falling_tree_closest_wire_circuit_label />
+    <falling_tree_closest_wire_phase_label />
+    <falling_tree_closest_wire_ahead_str />
+    <falling_tree_closest_wire_horiz_dist_to_back_struct units='ft'>0.00</falling_tree_closest_wire_horiz_dist_to_back_struct>
+    <falling_tree_closest_wire_wc>0</falling_tree_closest_wire_wc>
+    <falling_tree_closest_wire_weather_case />
+    <falling_tree_closest_wire_condition />
+    <falling_tree_closest_wire_x units='ft'>0.00</falling_tree_closest_wire_x>
+    <falling_tree_closest_wire_y units='ft'>0.00</falling_tree_closest_wire_y>
+    <falling_tree_closest_wire_z units='ft'>0.00</falling_tree_closest_wire_z>
+    <falling_tree_closest_wire_radial_margin units='ft'>0.00</falling_tree_closest_wire_radial_margin>
+    <falling_tree_closest_wire_min_dist_to_wire units='ft'>0.00</falling_tree_closest_wire_min_dist_to_wire>
+    <falling_tree_closest_wire_ok />
+    <overall_closest_wire_min_dist_to_wire units='ft'>6.29</overall_closest_wire_min_dist_to_wire>
+    <ok> NG </ok>
+    <site_number>0</site_number>
+  </vegetation_analysis_report>
+  <vegetation_analysis_report rownum='7'>
+    <rowtext />
+    <survey_point_xyz_index>716691</survey_point_xyz_index>
+    <survey_point_id />
+    <survey_point_feature_code>131</survey_point_feature_code>
+    <survey_point_x units='ft'>600203.80</survey_point_x>
+    <survey_point_y units='ft'>2208175.08</survey_point_y>
+    <survey_point_z_h units='ft'>1176.72</survey_point_z_h>
+    <survey_point_station units='ft'>9189.93</survey_point_station>
+    <survey_point_offset units='ft'>55.52</survey_point_offset>
+    <survey_point_height_above_ground units='ft'>49.68</survey_point_height_above_ground>
+    <survey_point_height_above_ground_ok> OK </survey_point_height_above_ground_ok>
+    <grow_in_closest_wire_back_str>13</grow_in_closest_wire_back_str>
+    <grow_in_closest_wire_back_set>17</grow_in_closest_wire_back_set>
+    <grow_in_closest_wire_back_phase>1</grow_in_closest_wire_back_phase>
+    <grow_in_closest_wire_circuit_label />
+    <grow_in_closest_wire_phase_label />
+    <grow_in_closest_wire_ahead_str>14</grow_in_closest_wire_ahead_str>
+    <grow_in_closest_wire_horiz_dist_to_back_struct units='ft'>522.00</grow_in_closest_wire_horiz_dist_to_back_struct>
+    <grow_in_closest_wire_wc>19</grow_in_closest_wire_wc>
+    <grow_in_closest_wire_weather_case>NESC Blowout (RUE 2011)</grow_in_closest_wire_weather_case>
+    <grow_in_closest_wire_condition>Max Sag FE</grow_in_closest_wire_condition>
+    <grow_in_closest_wire_x units='ft'>600202.45</grow_in_closest_wire_x>
+    <grow_in_closest_wire_y units='ft'>2208184.59</grow_in_closest_wire_y>
+    <grow_in_closest_wire_z units='ft'>1178.04</grow_in_closest_wire_z>
+    <grow_in_closest_wire_vert_or_radial_margin units='ft'>-0.30</grow_in_closest_wire_vert_or_radial_margin>
+    <grow_in_closest_wire_horz_margin units='ft'>0.00</grow_in_closest_wire_horz_margin>
+    <grow_in_closest_wire_min_dist_to_wire units='ft'>9.70</grow_in_closest_wire_min_dist_to_wire>
+    <grow_in_closest_wire_ok> NG </grow_in_closest_wire_ok>
+    <falling_tree_closest_wire_back_str />
+    <falling_tree_closest_wire_back_set>0</falling_tree_closest_wire_back_set>
+    <falling_tree_closest_wire_back_phase>0</falling_tree_closest_wire_back_phase>
+    <falling_tree_closest_wire_circuit_label />
+    <falling_tree_closest_wire_phase_label />
+    <falling_tree_closest_wire_ahead_str />
+    <falling_tree_closest_wire_horiz_dist_to_back_struct units='ft'>0.00</falling_tree_closest_wire_horiz_dist_to_back_struct>
+    <falling_tree_closest_wire_wc>0</falling_tree_closest_wire_wc>
+    <falling_tree_closest_wire_weather_case />
+    <falling_tree_closest_wire_condition />
+    <falling_tree_closest_wire_x units='ft'>0.00</falling_tree_closest_wire_x>
+    <falling_tree_closest_wire_y units='ft'>0.00</falling_tree_closest_wire_y>
+    <falling_tree_closest_wire_z units='ft'>0.00</falling_tree_closest_wire_z>
+    <falling_tree_closest_wire_radial_margin units='ft'>0.00</falling_tree_closest_wire_radial_margin>
+    <falling_tree_closest_wire_min_dist_to_wire units='ft'>0.00</falling_tree_closest_wire_min_dist_to_wire>
+    <falling_tree_closest_wire_ok />
+    <overall_closest_wire_min_dist_to_wire units='ft'>9.70</overall_closest_wire_min_dist_to_wire>
+    <ok> NG </ok>
+    <site_number>0</site_number>
+  </vegetation_analysis_report>
+  <vegetation_analysis_report rownum='8'>
+    <rowtext />
+    <survey_point_xyz_index>716690</survey_point_xyz_index>
+    <survey_point_id />
+    <survey_point_feature_code>131</survey_point_feature_code>
+    <survey_point_x units='ft'>600203.72</survey_point_x>
+    <survey_point_y units='ft'>2208178.36</survey_point_y>
+    <survey_point_z_h units='ft'>1172.30</survey_point_z_h>
+    <survey_point_station units='ft'>9190.32</survey_point_station>
+    <survey_point_offset units='ft'>52.26</survey_point_offset>
+    <survey_point_height_above_ground units='ft'>45.29</survey_point_height_above_ground>
+    <survey_point_height_above_ground_ok> OK </survey_point_height_above_ground_ok>
+    <grow_in_closest_wire_back_str>13</grow_in_closest_wire_back_str>
+    <grow_in_closest_wire_back_set>17</grow_in_closest_wire_back_set>
+    <grow_in_closest_wire_back_phase>1</grow_in_closest_wire_back_phase>
+    <grow_in_closest_wire_circuit_label />
+    <grow_in_closest_wire_phase_label />
+    <grow_in_closest_wire_ahead_str>14</grow_in_closest_wire_ahead_str>
+    <grow_in_closest_wire_horiz_dist_to_back_struct units='ft'>522.05</grow_in_closest_wire_horiz_dist_to_back_struct>
+    <grow_in_closest_wire_wc>19</grow_in_closest_wire_wc>
+    <grow_in_closest_wire_weather_case>NESC Blowout (RUE 2011)</grow_in_closest_wire_weather_case>
+    <grow_in_closest_wire_condition>Max Sag FE</grow_in_closest_wire_condition>
+    <grow_in_closest_wire_x units='ft'>600202.83</grow_in_closest_wire_x>
+    <grow_in_closest_wire_y units='ft'>2208184.64</grow_in_closest_wire_y>
+    <grow_in_closest_wire_z units='ft'>1178.02</grow_in_closest_wire_z>
+    <grow_in_closest_wire_vert_or_radial_margin units='ft'>-1.46</grow_in_closest_wire_vert_or_radial_margin>
+    <grow_in_closest_wire_horz_margin units='ft'>0.00</grow_in_closest_wire_horz_margin>
+    <grow_in_closest_wire_min_dist_to_wire units='ft'>8.54</grow_in_closest_wire_min_dist_to_wire>
+    <grow_in_closest_wire_ok> NG </grow_in_closest_wire_ok>
+    <falling_tree_closest_wire_back_str />
+    <falling_tree_closest_wire_back_set>0</falling_tree_closest_wire_back_set>
+    <falling_tree_closest_wire_back_phase>0</falling_tree_closest_wire_back_phase>
+    <falling_tree_closest_wire_circuit_label />
+    <falling_tree_closest_wire_phase_label />
+    <falling_tree_closest_wire_ahead_str />
+    <falling_tree_closest_wire_horiz_dist_to_back_struct units='ft'>0.00</falling_tree_closest_wire_horiz_dist_to_back_struct>
+    <falling_tree_closest_wire_wc>0</falling_tree_closest_wire_wc>
+    <falling_tree_closest_wire_weather_case />
+    <falling_tree_closest_wire_condition />
+    <falling_tree_closest_wire_x units='ft'>0.00</falling_tree_closest_wire_x>
+    <falling_tree_closest_wire_y units='ft'>0.00</falling_tree_closest_wire_y>
+    <falling_tree_closest_wire_z units='ft'>0.00</falling_tree_closest_wire_z>
+    <falling_tree_closest_wire_radial_margin units='ft'>0.00</falling_tree_closest_wire_radial_margin>
+    <falling_tree_closest_wire_min_dist_to_wire units='ft'>0.00</falling_tree_closest_wire_min_dist_to_wire>
+    <falling_tree_closest_wire_ok />
+    <overall_closest_wire_min_dist_to_wire units='ft'>8.54</overall_closest_wire_min_dist_to_wire>
+    <ok> NG </ok>
+    <site_number>0</site_number>
+  </vegetation_analysis_report>
+  <vegetation_analysis_report rownum='9'>
+    <rowtext />
+    <survey_point_xyz_index>716695</survey_point_xyz_index>
+    <survey_point_id />
+    <survey_point_feature_code>131</survey_point_feature_code>
+    <survey_point_x units='ft'>600206.87</survey_point_x>
+    <survey_point_y units='ft'>2208177.33</survey_point_y>
+    <survey_point_z_h units='ft'>1179.64</survey_point_z_h>
+    <survey_point_station units='ft'>9193.29</survey_point_station>
+    <survey_point_offset units='ft'>53.73</survey_point_offset>
+    <survey_point_height_above_ground units='ft'>52.73</survey_point_height_above_ground>
+    <survey_point_height_above_ground_ok> OK </survey_point_height_above_ground_ok>
+    <grow_in_closest_wire_back_str>13</grow_in_closest_wire_back_str>
+    <grow_in_closest_wire_back_set>17</grow_in_closest_wire_back_set>
+    <grow_in_closest_wire_back_phase>1</grow_in_closest_wire_back_phase>
+    <grow_in_closest_wire_circuit_label />
+    <grow_in_closest_wire_phase_label />
+    <grow_in_closest_wire_ahead_str>14</grow_in_closest_wire_ahead_str>
+    <grow_in_closest_wire_horiz_dist_to_back_struct units='ft'>525.15</grow_in_closest_wire_horiz_dist_to_back_struct>
+    <grow_in_closest_wire_wc>19</grow_in_closest_wire_wc>
+    <grow_in_closest_wire_weather_case>NESC Blowout (RUE 2011)</grow_in_closest_wire_weather_case>
+    <grow_in_closest_wire_condition>Max Sag FE</grow_in_closest_wire_condition>
+    <grow_in_closest_wire_x units='ft'>600205.78</grow_in_closest_wire_x>
+    <grow_in_closest_wire_y units='ft'>2208184.99</grow_in_closest_wire_y>
+    <grow_in_closest_wire_z units='ft'>1177.90</grow_in_closest_wire_z>
+    <grow_in_closest_wire_vert_or_radial_margin units='ft'>-2.07</grow_in_closest_wire_vert_or_radial_margin>
+    <grow_in_closest_wire_horz_margin units='ft'>0.00</grow_in_closest_wire_horz_margin>
+    <grow_in_closest_wire_min_dist_to_wire units='ft'>7.93</grow_in_closest_wire_min_dist_to_wire>
+    <grow_in_closest_wire_ok> NG </grow_in_closest_wire_ok>
+    <falling_tree_closest_wire_back_str />
+    <falling_tree_closest_wire_back_set>0</falling_tree_closest_wire_back_set>
+    <falling_tree_closest_wire_back_phase>0</falling_tree_closest_wire_back_phase>
+    <falling_tree_closest_wire_circuit_label />
+    <falling_tree_closest_wire_phase_label />
+    <falling_tree_closest_wire_ahead_str />
+    <falling_tree_closest_wire_horiz_dist_to_back_struct units='ft'>0.00</falling_tree_closest_wire_horiz_dist_to_back_struct>
+    <falling_tree_closest_wire_wc>0</falling_tree_closest_wire_wc>
+    <falling_tree_closest_wire_weather_case />
+    <falling_tree_closest_wire_condition />
+    <falling_tree_closest_wire_x units='ft'>0.00</falling_tree_closest_wire_x>
+    <falling_tree_closest_wire_y units='ft'>0.00</falling_tree_closest_wire_y>
+    <falling_tree_closest_wire_z units='ft'>0.00</falling_tree_closest_wire_z>
+    <falling_tree_closest_wire_radial_margin units='ft'>0.00</falling_tree_closest_wire_radial_margin>
+    <falling_tree_closest_wire_min_dist_to_wire units='ft'>0.00</falling_tree_closest_wire_min_dist_to_wire>
+    <falling_tree_closest_wire_ok />
+    <overall_closest_wire_min_dist_to_wire units='ft'>7.93</overall_closest_wire_min_dist_to_wire>
+    <ok> NG </ok>
+    <site_number>0</site_number>
+  </vegetation_analysis_report>
+  <vegetation_analysis_report rownum='10'>
+    <rowtext />
+    <survey_point_xyz_index>716715</survey_point_xyz_index>
+    <survey_point_id />
+    <survey_point_feature_code>131</survey_point_feature_code>
+    <survey_point_x units='ft'>600233.66</survey_point_x>
+    <survey_point_y units='ft'>2208179.49</survey_point_y>
+    <survey_point_z_h units='ft'>1176.86</survey_point_z_h>
+    <survey_point_station units='ft'>9220.12</survey_point_station>
+    <survey_point_offset units='ft'>55.35</survey_point_offset>
+    <survey_point_height_above_ground units='ft'>52.01</survey_point_height_above_ground>
+    <survey_point_height_above_ground_ok> OK </survey_point_height_above_ground_ok>
+    <grow_in_closest_wire_back_str>13</grow_in_closest_wire_back_str>
+    <grow_in_closest_wire_back_set>17</grow_in_closest_wire_back_set>
+    <grow_in_closest_wire_back_phase>1</grow_in_closest_wire_back_phase>
+    <grow_in_closest_wire_circuit_label />
+    <grow_in_closest_wire_phase_label />
+    <grow_in_closest_wire_ahead_str>14</grow_in_closest_wire_ahead_str>
+    <grow_in_closest_wire_horiz_dist_to_back_struct units='ft'>552.01</grow_in_closest_wire_horiz_dist_to_back_struct>
+    <grow_in_closest_wire_wc>19</grow_in_closest_wire_wc>
+    <grow_in_closest_wire_weather_case>NESC Blowout (RUE 2011)</grow_in_closest_wire_weather_case>
+    <grow_in_closest_wire_condition>Max Sag FE</grow_in_closest_wire_condition>
+    <grow_in_closest_wire_x units='ft'>600232.42</grow_in_closest_wire_x>
+    <grow_in_closest_wire_y units='ft'>2208188.20</grow_in_closest_wire_y>
+    <grow_in_closest_wire_z units='ft'>1176.83</grow_in_closest_wire_z>
+    <grow_in_closest_wire_vert_or_radial_margin units='ft'>-1.20</grow_in_closest_wire_vert_or_radial_margin>
+    <grow_in_closest_wire_horz_margin units='ft'>0.00</grow_in_closest_wire_horz_margin>
+    <grow_in_closest_wire_min_dist_to_wire units='ft'>8.80</grow_in_closest_wire_min_dist_to_wire>
+    <grow_in_closest_wire_ok> NG </grow_in_closest_wire_ok>
+    <falling_tree_closest_wire_back_str />
+    <falling_tree_closest_wire_back_set>0</falling_tree_closest_wire_back_set>
+    <falling_tree_closest_wire_back_phase>0</falling_tree_closest_wire_back_phase>
+    <falling_tree_closest_wire_circuit_label />
+    <falling_tree_closest_wire_phase_label />
+    <falling_tree_closest_wire_ahead_str />
+    <falling_tree_closest_wire_horiz_dist_to_back_struct units='ft'>0.00</falling_tree_closest_wire_horiz_dist_to_back_struct>
+    <falling_tree_closest_wire_wc>0</falling_tree_closest_wire_wc>
+    <falling_tree_closest_wire_weather_case />
+    <falling_tree_closest_wire_condition />
+    <falling_tree_closest_wire_x units='ft'>0.00</falling_tree_closest_wire_x>
+    <falling_tree_closest_wire_y units='ft'>0.00</falling_tree_closest_wire_y>
+    <falling_tree_closest_wire_z units='ft'>0.00</falling_tree_closest_wire_z>
+    <falling_tree_closest_wire_radial_margin units='ft'>0.00</falling_tree_closest_wire_radial_margin>
+    <falling_tree_closest_wire_min_dist_to_wire units='ft'>0.00</falling_tree_closest_wire_min_dist_to_wire>
+    <falling_tree_closest_wire_ok />
+    <overall_closest_wire_min_dist_to_wire units='ft'>8.80</overall_closest_wire_min_dist_to_wire>
+    <ok> NG </ok>
+    <site_number>0</site_number>
+  </vegetation_analysis_report>
+  <vegetation_analysis_report rownum='11'>
+    <rowtext />
+    <survey_point_xyz_index>716717</survey_point_xyz_index>
+    <survey_point_id />
+    <survey_point_feature_code>131</survey_point_feature_code>
+    <survey_point_x units='ft'>600239.37</survey_point_x>
+    <survey_point_y units='ft'>2208179.19</survey_point_y>
+    <survey_point_z_h units='ft'>1174.99</survey_point_z_h>
+    <survey_point_station units='ft'>9225.73</survey_point_station>
+    <survey_point_offset units='ft'>56.45</survey_point_offset>
+    <survey_point_height_above_ground units='ft'>50.35</survey_point_height_above_ground>
+    <survey_point_height_above_ground_ok> OK </survey_point_height_above_ground_ok>
+    <grow_in_closest_wire_back_str>13</grow_in_closest_wire_back_str>
+    <grow_in_closest_wire_back_set>17</grow_in_closest_wire_back_set>
+    <grow_in_closest_wire_back_phase>1</grow_in_closest_wire_back_phase>
+    <grow_in_closest_wire_circuit_label />
+    <grow_in_closest_wire_phase_label />
+    <grow_in_closest_wire_ahead_str>14</grow_in_closest_wire_ahead_str>
+    <grow_in_closest_wire_horiz_dist_to_back_struct units='ft'>557.70</grow_in_closest_wire_horiz_dist_to_back_struct>
+    <grow_in_closest_wire_wc>19</grow_in_closest_wire_wc>
+    <grow_in_closest_wire_weather_case>NESC Blowout (RUE 2011)</grow_in_closest_wire_weather_case>
+    <grow_in_closest_wire_condition>Max Sag FE</grow_in_closest_wire_condition>
+    <grow_in_closest_wire_x units='ft'>600237.99</grow_in_closest_wire_x>
+    <grow_in_closest_wire_y units='ft'>2208188.88</grow_in_closest_wire_y>
+    <grow_in_closest_wire_z units='ft'>1176.63</grow_in_closest_wire_z>
+    <grow_in_closest_wire_vert_or_radial_margin units='ft'>-0.07</grow_in_closest_wire_vert_or_radial_margin>
+    <grow_in_closest_wire_horz_margin units='ft'>0.00</grow_in_closest_wire_horz_margin>
+    <grow_in_closest_wire_min_dist_to_wire units='ft'>9.93</grow_in_closest_wire_min_dist_to_wire>
+    <grow_in_closest_wire_ok> NG </grow_in_closest_wire_ok>
+    <falling_tree_closest_wire_back_str />
+    <falling_tree_closest_wire_back_set>0</falling_tree_closest_wire_back_set>
+    <falling_tree_closest_wire_back_phase>0</falling_tree_closest_wire_back_phase>
+    <falling_tree_closest_wire_circuit_label />
+    <falling_tree_closest_wire_phase_label />
+    <falling_tree_closest_wire_ahead_str />
+    <falling_tree_closest_wire_horiz_dist_to_back_struct units='ft'>0.00</falling_tree_closest_wire_horiz_dist_to_back_struct>
+    <falling_tree_closest_wire_wc>0</falling_tree_closest_wire_wc>
+    <falling_tree_closest_wire_weather_case />
+    <falling_tree_closest_wire_condition />
+    <falling_tree_closest_wire_x units='ft'>0.00</falling_tree_closest_wire_x>
+    <falling_tree_closest_wire_y units='ft'>0.00</falling_tree_closest_wire_y>
+    <falling_tree_closest_wire_z units='ft'>0.00</falling_tree_closest_wire_z>
+    <falling_tree_closest_wire_radial_margin units='ft'>0.00</falling_tree_closest_wire_radial_margin>
+    <falling_tree_closest_wire_min_dist_to_wire units='ft'>0.00</falling_tree_closest_wire_min_dist_to_wire>
+    <falling_tree_closest_wire_ok />
+    <overall_closest_wire_min_dist_to_wire units='ft'>9.93</overall_closest_wire_min_dist_to_wire>
+    <ok> NG </ok>
+    <site_number>0</site_number>
+  </vegetation_analysis_report>
+  <vegetation_analysis_report rownum='12'>
+    <rowtext />
+    <survey_point_xyz_index>716629</survey_point_xyz_index>
+    <survey_point_id />
+    <survey_point_feature_code>131</survey_point_feature_code>
+    <survey_point_x units='ft'>600238.24</survey_point_x>
+    <survey_point_y units='ft'>2208187.76</survey_point_y>
+    <survey_point_z_h units='ft'>1166.42</survey_point_z_h>
+    <survey_point_station units='ft'>9225.81</survey_point_station>
+    <survey_point_offset units='ft'>47.81</survey_point_offset>
+    <survey_point_height_above_ground units='ft'>42.08</survey_point_height_above_ground>
+    <survey_point_height_above_ground_ok> OK </survey_point_height_above_ground_ok>
+    <grow_in_closest_wire_back_str>13</grow_in_closest_wire_back_str>
+    <grow_in_closest_wire_back_set>17</grow_in_closest_wire_back_set>
+    <grow_in_closest_wire_back_phase>1</grow_in_closest_wire_back_phase>
+    <grow_in_closest_wire_circuit_label />
+    <grow_in_closest_wire_phase_label />
+    <grow_in_closest_wire_ahead_str>14</grow_in_closest_wire_ahead_str>
+    <grow_in_closest_wire_horiz_dist_to_back_struct units='ft'>556.98</grow_in_closest_wire_horiz_dist_to_back_struct>
+    <grow_in_closest_wire_wc>19</grow_in_closest_wire_wc>
+    <grow_in_closest_wire_weather_case>NESC Blowout (RUE 2011)(adj 45.8mph)</grow_in_closest_wire_weather_case>
+    <grow_in_closest_wire_condition>Max Sag FE</grow_in_closest_wire_condition>
+    <grow_in_closest_wire_x units='ft'>600237.74</grow_in_closest_wire_x>
+    <grow_in_closest_wire_y units='ft'>2208191.28</grow_in_closest_wire_y>
+    <grow_in_closest_wire_z units='ft'>1175.69</grow_in_closest_wire_z>
+    <grow_in_closest_wire_vert_or_radial_margin units='ft'>-0.07</grow_in_closest_wire_vert_or_radial_margin>
+    <grow_in_closest_wire_horz_margin units='ft'>0.00</grow_in_closest_wire_horz_margin>
+    <grow_in_closest_wire_min_dist_to_wire units='ft'>9.93</grow_in_closest_wire_min_dist_to_wire>
+    <grow_in_closest_wire_ok> NG </grow_in_closest_wire_ok>
+    <falling_tree_closest_wire_back_str />
+    <falling_tree_closest_wire_back_set>0</falling_tree_closest_wire_back_set>
+    <falling_tree_closest_wire_back_phase>0</falling_tree_closest_wire_back_phase>
+    <falling_tree_closest_wire_circuit_label />
+    <falling_tree_closest_wire_phase_label />
+    <falling_tree_closest_wire_ahead_str />
+    <falling_tree_closest_wire_horiz_dist_to_back_struct units='ft'>0.00</falling_tree_closest_wire_horiz_dist_to_back_struct>
+    <falling_tree_closest_wire_wc>0</falling_tree_closest_wire_wc>
+    <falling_tree_closest_wire_weather_case />
+    <falling_tree_closest_wire_condition />
+    <falling_tree_closest_wire_x units='ft'>0.00</falling_tree_closest_wire_x>
+    <falling_tree_closest_wire_y units='ft'>0.00</falling_tree_closest_wire_y>
+    <falling_tree_closest_wire_z units='ft'>0.00</falling_tree_closest_wire_z>
+    <falling_tree_closest_wire_radial_margin units='ft'>0.00</falling_tree_closest_wire_radial_margin>
+    <falling_tree_closest_wire_min_dist_to_wire units='ft'>0.00</falling_tree_closest_wire_min_dist_to_wire>
+    <falling_tree_closest_wire_ok />
+    <overall_closest_wire_min_dist_to_wire units='ft'>9.93</overall_closest_wire_min_dist_to_wire>
+    <ok> NG </ok>
+    <site_number>0</site_number>
+  </vegetation_analysis_report>
+</table>
+</root>
