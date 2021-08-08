@@ -8,5 +8,3 @@ if user_input == "fall in" or user_input == "fallin" or user_input == "fall":
 	fall_in_script()
 else:
 	exit("Error: Please enter either 'grow in' or 'fall in'")
-
-

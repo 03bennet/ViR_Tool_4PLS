@@ -3,6 +3,7 @@
 import xml.etree.ElementTree as ET
 import os
 import sys
+import pandas as pd
 #fall in/ grow in lists
 survey_point_x = []
 
@@ -55,7 +56,10 @@ def fall_in_script():
 			item = x.find('falling_tree_closest_wire_min_dist_to_wire')
 			radial_distance.append(item.text)
 
-			
+			df = pd.DataFrame.from_dict({'survey_point_x': survey_point_x,'survey_point_y': survey_point_y, 
+			"survey_point_z": survey_point_z, "back_structure": back_structure, "ahead_structure": ahead_structure,
+			"weather": weather_case, "height_above_ground": height_above_ground, "radial_distance": radial_distance})
+			df.to_excel('fall_in.xlsx', header=True, index=False)
 		
 		
 
@@ -95,3 +99,8 @@ def grow_in_script():
 		
 			item = x.find('grow_in_closest_wire_min_dist_to_wire')
 			radial_distance.append(item.text)
+
+			df = pd.DataFrame.from_dict({'survey_point_x': survey_point_x,'survey_point_y': survey_point_y, 
+			"survey_point_z": survey_point_z, "back_structure": back_structure, "ahead_structure": ahead_structure,
+			"weather": weather_case, "height_above_ground": height_above_ground, "radial_distance": radial_distance})
+			df.to_excel('grow_in.xlsx', header=True, index=False)
