@@ -1,118 +1,117 @@
 #imports
 
 import xml.etree.ElementTree as ET
-import os
-import sys
+#import os
+#import sys
 import pandas as pd
+import time
+
 
 #fall in/ grow in lists
 
-survey_point_x = []
-
-survey_point_y = []
-
-survey_point_z = []
-
-back_structure = []
-
-ahead_structure = []
-
-weather_case = []
-
-height_above_ground = []
-
-radial_distance = []
+s_p_x, s_p_y, s_p_z, back_str, ahead_st, w_case, h_a_grd, radial_dist  = [], [], [], [], [], [], [], []
 
 
 #function to pull relevant attributes from fall in XML and assign them to above lists
 
 def fall_in_script():
 
-	with open(input("Enter Filepath: "), "r") as xml:
+	with open(input("Enter Filepath (no quotation marks): "), "r") as xml:
 		
 		mytree = ET.parse(xml)
 		myroot = mytree.getroot()	
 
 		if myroot.find('table'):
 
-			print("Processing....")
+			print("Processing. Please Wait...")
 
 			for x in myroot.find('table'):
 				item = x.find('survey_point_x')
-				survey_point_x.append(item.text)
+				s_p_x.append(item.text)
 				
 				item = x.find('survey_point_y')
-				survey_point_y.append(item.text)
+				s_p_y.append(item.text)
 				
 				item = x.find('survey_point_z_h')
-				survey_point_z.append(item.text)
+				s_p_z.append(item.text)
 
 				item = x.find('falling_tree_closest_wire_back_str')
-				back_structure.append(item.text)
+				back_str.append(item.text)
 				
 				item = x.find('falling_tree_closest_wire_ahead_str')
-				ahead_structure.append(item.text)
+				ahead_st.append(item.text)
 				
 				item = x.find('falling_tree_closest_wire_weather_case')
-				weather_case.append(item.text)
+				w_case.append(item.text)
 				
 				item = x.find('survey_point_height_above_ground')
-				height_above_ground.append(item.text)
+				h_a_grd.append(item.text)
 				
-				item = x.find('falling_tree_closest_wire_min_dist_to_wire')
-				radial_distance.append(item.text)
+				item = x.find('falling_tree_closest_wire_radial_margin')
+				radial_dist.append(item.text)
 
-				df = pd.DataFrame.from_dict({'survey_point_x': survey_point_x,'survey_point_y': survey_point_y, 
-				"survey_point_z": survey_point_z, "back_structure": back_structure, "ahead_structure": ahead_structure,
-				"weather": weather_case, "height_above_ground": height_above_ground, "radial_distance": radial_distance})
+				#values from lists are then assigned to a heading from the dataframe dictionary and output as xlsx
+				
+				df = pd.DataFrame.from_dict({'survey_point_x': s_p_x,'survey_point_y': s_p_y, 
+				"survey_point_z": s_p_z, "back_structure": back_str, "ahead_structure": ahead_st,
+				"weather": w_case, "height_above_ground": h_a_grd, "radial_distance": radial_dist})
 				df.to_excel('fall_in.xlsx', header=True, index=False)
+
+			print("Done!")
 			
 		else:
 			exit("There is no data in this xml.")
+			time.sleep(6)
 
 
 #function to pull relevant attributes from grow in XML and assign them to above lists
 
 def grow_in_script():
 
-	with open(input("Enter Filepath: "), "r") as xml:
+	with open(input("Enter Filepath (no quotation marks): "), "r") as xml:
 
 		mytree = ET.parse(xml)
 		myroot = mytree.getroot()
 			
 		if myroot.find('table'):
 
-			print("Processing...")
+			print("Processing. Please wait....")
 
 			for x in myroot.find('table'):
+
 				item = x.find('survey_point_x')
-				survey_point_x.append(item.text)
+				s_p_x.append(item.text)
 				
 				item = x.find('survey_point_y')
-				survey_point_y.append(item.text)
-			
+				s_p_y.append(item.text)
+				
 				item = x.find('survey_point_z_h')
-				survey_point_z.append(item.text)
+				s_p_z.append(item.text)
 
 				item = x.find('grow_in_closest_wire_back_str')
-				back_structure.append(item.text)
+				back_str.append(item.text)
 			
 				item = x.find('grow_in_closest_wire_ahead_str')
-				ahead_structure.append(item.text)
-			
+				ahead_st.append(item.text)
+				
 				item = x.find('grow_in_closest_wire_weather_case')
-				weather_case.append(item.text)
+				w_case.append(item.text)
 			
 				item = x.find('survey_point_height_above_ground')
-				height_above_ground.append(item.text)
+				h_a_grd.append(item.text)
 			
-				item = x.find('grow_in_closest_wire_min_dist_to_wire')
-				radial_distance.append(item.text)
+				item = x.find('grow_in_closest_wire_vert_or_radial_margin')
+				radial_dist.append(item.text)
 
-				df = pd.DataFrame.from_dict({'survey_point_x': survey_point_x,'survey_point_y': survey_point_y, 
-				"survey_point_z": survey_point_z, "back_structure": back_structure, "ahead_structure": ahead_structure,
-				"weather": weather_case, "height_above_ground": height_above_ground, "radial_distance": radial_distance})
-				df.to_excel(input('grow_in.xlsx'), header=True, index=False)
+
+				#values from lists are then assigned to a heading from the dataframe dictionary and output as xlsx
+				df = pd.DataFrame.from_dict({'survey_point_x': s_p_x,'survey_point_y': s_p_y, 
+				"survey_point_z": s_p_z, "back_structure": back_str, "ahead_structure": ahead_st,
+				"weather": w_case, "height_above_ground": h_a_grd, "radial_distance": radial_dist})
+				df.to_excel('grow_in.xlsx', header=True, index=False)
+			
+			print("Done!")
 
 		else:
 			exit("There is no data in this xml.")	
+			time.sleep(6)
