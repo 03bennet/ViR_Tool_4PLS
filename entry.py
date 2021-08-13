@@ -1,20 +1,27 @@
-from functions import grow_in_script, fall_in_script 
+from fall_in_function import fall_in_script 
+from grow_in_function import grow_in_script
 import time
+import os
 
-user_input = input("grow in or fall in?: ")
 
-if user_input == "grow in" or user_input == "grow":
-	grow_in_script()
-	time.sleep(6)
-if user_input == "fall in" or user_input == "fall":
-	fall_in_script()
-	time.sleep(6)
-if user_input != "fall in" or user_input != "fall":
-	print("Error: Please enter either 'grow in' or 'fall in'")
-	time.sleep(6)
-	exit()
-if user_input != "grow in" or user_input != "grow":
-	print("Error: Please enter either 'grow in' or 'fall in'")
-	time.sleep(6)
-	exit()
+while True:
 
+	user_input = input("Enter either 1 for grow in or 2 for fall in: ")
+
+	if user_input == "1":
+		False
+		grow_in_script()
+		os.remove("dataframe.xlsx")
+		print("All Done!")
+		time.sleep(200)
+
+	
+	if user_input == "2":
+		False
+		fall_in_script()
+		os.remove("dataframe.xlsx")
+		print("All Done!")
+		time.sleep(200)
+	
+	if user_input != "1" or user_input != "2":
+		True
