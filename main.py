@@ -14,7 +14,7 @@ def xml_conversion_script():
 	
 	# user prompted for filepath input
 	
-	xml_path = input("\nEnter filepath for xml report: ")
+	xml_path = input("\n: ")
 
 
 	# removal of quotation marks if filepath contains them
@@ -23,32 +23,32 @@ def xml_conversion_script():
 		xml_path = xml_path.replace('"','')
 
 	# determines whether xml has infringements
-	with open(xml_path, "r") as xml:	
+	with open(xml_path, "r") as xml:
+	    mytree = ET.parse(xml) 
+	    myroot = mytree.getroot()
+	        
+	    if myroot.find('table'):
+	        has_data = True
 
-		mytree = ET.parse(xml)
-		myroot = mytree.getroot()
-			
-		if myroot.find('table'):
-			has_data = True
-
-		else:
-			has_data = False
-	
+	    else:
+	        has_data = False
 
 	# if the xml does have infringement data, the script is run
-
-	if has_data is True:
+	# xml table is found and output as an xlsx for easy parsing
+	if has_data == True:
 
 		print("\nProcessing...")
+		try:
+			xml = pd.read_xml(xml_path, "/root/table/vegetation_analysis_report","", True, False ) 
+			xml.to_excel("dataframe.xlsx", index = False)
+			workbook = pd.read_excel("dataframe.xlsx")
+		except:
+			print("Error reading or writing files. Check your workspace permissions.")
+			time.sleep(20)
+			exit()
 
-		xml = pd.read_xml(xml_path, "/root/table/vegetation_analysis_report","", True, False ) 
-		
-		xml.to_excel("dataframe.xlsx", index = False)
-		
-		workbook = pd.read_excel("dataframe.xlsx")
-
-
-		# columns from workbook are assigned to the list.
+		# xlsx columns from workbook are assigned to the list of table headers
+		# if statments are to determine whether report is grow in or fall in
 		s_p_x = (workbook['survey_point_x'])
 		s_p_y = (workbook['survey_point_y'])
 		s_p_z = (workbook['survey_point_z_h'])
@@ -76,7 +76,7 @@ def xml_conversion_script():
 		"survey_point_z": s_p_z, "back_structure": back_str, "ahead_structure": ahead_st,
 		"weather": w_case, "height_above_ground": h_a_grd, "radial_distance": radial_dist})
 
-		# df is output as an xlsx
+		# df is output as an xlsx, basename of filepath is used for naming convention
 		file_name = ntpath.basename(xml_path)
 		if ".xml" in xml_path:
 			file_name = file_name.replace(".xml","")
@@ -85,31 +85,39 @@ def xml_conversion_script():
 
 	#if there is no data in the xml, error message is printed.
 	else:
-		print("\nThere is no data in this xml.")
+		print("\nThere is no data in this xml. No infringements = Happy engineer :)")
 		time.sleep(200)
-
 
 
 # initial prompt and user entry. determines whether report is grow in or fall in
 
+
 while True:
 
-	user_input = input("1 - Grow In \nor  \n2 - Fall In \n\nEnter number:")
+	user_input = input("\n1 - Grow In \nor  \n2 - Fall In \n\nEnter number:")
 
 	if user_input == "1":
-		False
-		xml_conversion_script()
-		os.remove("dataframe.xlsx")
-		print("All Done!")
-		time.sleep(200)
-
+		try:
+			False
+			print("\nEnter file path for grow in report:")
+			xml_conversion_script()
+			os.remove("dataframe.xlsx")
+			print("\nAll Done!")
+			time.sleep(200)
+		except:
+			print("\nNot a filepath, or no xml file exists.")
 	
-	if user_input == "2":
-		False
-		xml_conversion_script()
-		os.remove("dataframe.xlsx")
-		print("All Done!")
-		time.sleep(200)
+	elif user_input == "2":
+		try:
+			False
+			print("\nEnter file path for Fall In report:")
+			xml_conversion_script()
+			os.remove("dataframe.xlsx")
+			print("\nAll Done! You can close the program.")
+			time.sleep(200)
+		except:
+			print("\nNot a filepath, or no xml file exists.")
 	
-	if user_input != "1" or user_input != "2":
+	else:
 		True
+		print("\nPlease enter either 1 or 2...")
