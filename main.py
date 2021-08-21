@@ -14,8 +14,7 @@ def xml_conversion_script():
 	
 	# user prompted for filepath input
 	
-	xml_path = input("\n: ")
-
+	xml_path = input("\n")
 
 	# removal of quotation marks if filepath contains them
 	
@@ -86,38 +85,52 @@ def xml_conversion_script():
 	#if there is no data in the xml, error message is printed.
 	else:
 		print("\nThere is no data in this xml. No infringements = Happy engineer :)")
-		time.sleep(200)
+		time.sleep(3)
+
+# function determines whether report is grow in or fall in
+
+def main():
+	while True:
+		if user_input == "1":
+			try:
+				False
+				print("\nEnter file path for Grow In report:")
+				xml_conversion_script()
+				# checks to see if dataframe has been created. If it has, it's deleted.
+				if os.path.isfile('dataframe.xlsx'):					
+					os.remove("dataframe.xlsx")
+					print("\nAll Done!")
+					time.sleep(3)
+					break
+				else:
+					break
+			except:
+				print("\nNot a filepath, or no xml file exists.")
+		
+		elif user_input == "2":
+			try:
+				False
+				print("\nEnter file path for Fall In report:")
+				xml_conversion_script()
+				# checks to see if dataframe has been created. If it has, it's deleted.
+				if os.path.isfile('dataframe.xlsx'):		
+					os.remove("dataframe.xlsx")
+					print("\nAll Done!")
+					time.sleep(3)
+					break
+				else:
+					break
+			except:
+				print("\nNot a filepath, or no xml file exists.")
+		
+		else:
+			True
+			print("\nPlease enter either 1 or 2...")
+			break
 
 
-# initial prompt and user entry. determines whether report is grow in or fall in
-
-
-while True:
-
-	user_input = input("\n1 - Grow In \nor  \n2 - Fall In \n\nEnter number:")
-
-	if user_input == "1":
-		try:
-			False
-			print("\nEnter file path for grow in report:")
-			xml_conversion_script()
-			os.remove("dataframe.xlsx")
-			print("\nAll Done!")
-			time.sleep(200)
-		except:
-			print("\nNot a filepath, or no xml file exists.")
-	
-	elif user_input == "2":
-		try:
-			False
-			print("\nEnter file path for Fall In report:")
-			xml_conversion_script()
-			os.remove("dataframe.xlsx")
-			print("\nAll Done! You can close the program.")
-			time.sleep(200)
-		except:
-			print("\nNot a filepath, or no xml file exists.")
-	
-	else:
-		True
-		print("\nPlease enter either 1 or 2...")
+# initial user input to determine whether report is grow in or fall in
+if __name__ == '__main__':
+	while True:
+		user_input = input("\n1 - Grow In \nor \n2 - Fall In \n\nEnter number:")
+		main()
