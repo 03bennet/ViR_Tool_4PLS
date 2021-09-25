@@ -1,2 +1,0 @@
-xml - use folder instead of directing to specific path
-output to template?
