@@ -3,12 +3,13 @@ import os
 import ntpath
 import xml.etree.ElementTree as ET
 from openpyxl import load_workbook
-from openpyxl.styles import Border, Alignment
+from openpyxl.styles import Border, Alignment, Side
 import pandas as pd
 import tkinter as tk
 from tkinter import ttk
 from tkinter import *
 from tkinter import filedialog
+import PySimpleGUI as sg
 
 
 # list of table headers in which data from xml is pulled into
@@ -23,14 +24,6 @@ GIAS_path, GIBO_path, GIMO_path, FIMO_path = [], [], [], []
 
 report_naming = []
 
-# opens the relevant sheets from the master template
-
-template = load_workbook(filename = 'ViR-template.xlsx')
-
-GIAS_sheet = template['Grow-In (As-Surveyed MVCD)']
-GIBO_sheet = template['Blow-Out (NESC Blowout WSZ)']
-GIMO_sheet = template['Grow-In(CircuitThermal STE WSZ)']
-FIMO_sheet = template['Fall-In(CircuitThermal STE WSZ)']
 
 # workbook and sheet variables ready for copying to master template
 
@@ -151,7 +144,6 @@ def xml_conversion_script(xml_path):
 
 # function that copies the cell range of each report and copies it to the relevant sheet
 # on the the master template. Outputs a new file.
-
 def xlsx_copy(reportsheet, destsheet):
 
 	reportsheet.delete_rows(1)
@@ -182,7 +174,53 @@ def xlsx_collate():
 		xlsx_copy(GIMO_report_sheet, GIMO_sheet)
 	if os.path.isfile('Fall-In-Max-Op.xlsx'):
 		xlsx_copy(FIMO_report_sheet, FIMO_sheet)
+	
+	#formatting function is called here if there is a final report xlsx
+	if os.path.isfile('Final_Report.xlsx'):
+		xlsx_format('Grow-In (As-Surveyed MVCD)')
+		xlsx_format('Blow-Out (NESC Blowout WSZ)')
+		xlsx_format('Grow-In(CircuitThermal STE WSZ)')
+		xlsx_format('Fall-In(CircuitThermal STE WSZ)')
+	else:
+		errormsg(msg = "\nError! Could not find 'Final_Report.xlsx")
 
+#function centers text and creates borders
+
+def xlsx_format(worksheet):
+
+    #defines the border style and then asigns it to each border variable
+    all_sides = Side(border_style='thin')
+    border = Border(left=all_sides, right=all_sides)
+    b_border = Border(left=all_sides, right=all_sides, bottom=all_sides)
+
+    #loads relevant page on spreadsheet
+    xlsx_file = 'Final_Report.xlsx'
+
+    wb = load_workbook(filename = xlsx_file)
+
+    ws = wb[worksheet]
+
+    #iterates through rows and adds borders
+    for row in ws[10:ws.max_row]:
+        for i in row:
+            i.alignment = Alignment(horizontal="center")
+            i.border = border
+    #finds max row of spreadsheet and concatonates number to column number range
+    max_row =(len(ws['A']))
+
+    row_range = 'A'+str(max_row), 'B'+str(max_row), 'C'+str(max_row), 'D'+str(max_row), 'E'+str(max_row), 'F'+str(max_row), 'G'+str(max_row), 'H'+str(max_row)
+
+    #applies bottom border
+    ws[row_range[0]].border = b_border
+    ws[row_range[1]].border = b_border
+    ws[row_range[2]].border = b_border
+    ws[row_range[3]].border = b_border
+    ws[row_range[4]].border = b_border
+    ws[row_range[5]].border = b_border
+    ws[row_range[6]].border = b_border
+    ws[row_range[7]].border = b_border
+
+    wb.save('Final_Report.xlsx') #saves formatting
 
 
 # function determines whether report is grow in or fall in
@@ -329,7 +367,17 @@ feedback_text_4.grid(column = 1, row = 6, padx=(10, 10))
 feedback_text_5 = Label(window, width = 20, bg = "grey25", fg = "White")
 feedback_text_5.grid(column = 0, row = 8, padx=(5, 5))
 
-
+# opens the relevant sheets from the master template
+try:
+	template = load_workbook(filename = 'ViR-template.xlsx')
+	GIAS_sheet = template['Grow-In (As-Surveyed MVCD)']
+	GIBO_sheet = template['Blow-Out (NESC Blowout WSZ)']
+	GIMO_sheet = template['Grow-In(CircuitThermal STE WSZ)']
+	FIMO_sheet = template['Fall-In(CircuitThermal STE WSZ)']
+except:
+	errormsg( msg = "\nError! Could not find 'ViR-Template.xlsx. \nPlease include this in workspace and rerun the exe.")
+	
 window.mainloop()
+
 
 
