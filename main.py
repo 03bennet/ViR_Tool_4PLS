@@ -24,7 +24,6 @@ GIAS_path, GIBO_path, GIMO_path, FIMO_path = [], [], [], []
 
 report_naming = []
 
-
 # workbook and sheet variables ready for copying to master template
 
 GIAS_report = []
@@ -182,7 +181,7 @@ def xlsx_collate():
 		xlsx_format('Grow-In(CircuitThermal STE WSZ)')
 		xlsx_format('Fall-In(CircuitThermal STE WSZ)')
 	else:
-		errormsg(msg = "\nError! Could not find 'Final_Report.xlsx")
+		errormsg(msg = "\nError! Could not find 'Final_Report.xlsx'")
 
 #function centers text and creates borders
 
@@ -300,8 +299,6 @@ def errormsg(msg):
 
 
 
-
-
 # -----------------------------------------GUI Tkinter App---------------------------------------------
 
 # window creation
@@ -375,7 +372,7 @@ try:
 	GIMO_sheet = template['Grow-In(CircuitThermal STE WSZ)']
 	FIMO_sheet = template['Fall-In(CircuitThermal STE WSZ)']
 except:
-	errormsg( msg = "\nError! Could not find 'ViR-Template.xlsx. \nPlease include this in workspace and rerun the exe.")
+	errormsg( msg = "\nError! Could not find 'ViR-Template.xlsx'. \nPlease include this in the workspace and rerun the exe.")
 	
 window.mainloop()
 

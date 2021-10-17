@@ -1,0 +1,7 @@
+--Please ensure 'ViR-Template.xlsx' is included in the same workspace as the exe. Otherwise you'll get an error--
+
+How To:
+
+	1. Open exe. file and browse to the relevant xml reports
+	2. Hit 'Process'
+	3.'Final_Report.xlsx' will be output in the same workspace
