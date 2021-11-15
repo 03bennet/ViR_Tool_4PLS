@@ -43,7 +43,7 @@ FIMO_report_sheet = []
 
 def GIAS_import():
     global GIAS_path
-    GIAS_path = filedialog.askopenfilename()
+    GIAS_path = filedialog.askopenfilename(filetypes=[("XML", ".xml")])
     if ".xml" in GIAS_path:
         feedback_text_1.configure(text = ntpath.basename(GIAS_path), bg = "OliveDrab4")
     else:
@@ -52,7 +52,7 @@ def GIAS_import():
 
 def GIBO_import():
     global GIBO_path
-    GIBO_path = filedialog.askopenfilename()
+    GIBO_path = filedialog.askopenfilename(filetypes=[("XML", ".xml")])
     if ".xml" in GIBO_path:
         feedback_text_2.configure(text = ntpath.basename(GIBO_path), bg = "OliveDrab4")
     else:
@@ -61,7 +61,7 @@ def GIBO_import():
 
 def GIMO_import():
     global GIMO_path
-    GIMO_path = filedialog.askopenfilename()
+    GIMO_path = filedialog.askopenfilename(filetypes=[("XML", ".xml")])
     if ".xml" in GIMO_path:
         feedback_text_3.configure(text = ntpath.basename(GIMO_path), bg = "OliveDrab4")
     else:
@@ -70,7 +70,7 @@ def GIMO_import():
 
 def FIMO_import():
     global FIMO_path
-    FIMO_path = filedialog.askopenfilename()
+    FIMO_path = filedialog.askopenfilename(filetypes=[("XML", ".xml")])
     if ".xml" in FIMO_path:
         feedback_text_4.configure(text = ntpath.basename(FIMO_path), bg = "OliveDrab4")
     else:
@@ -142,7 +142,7 @@ def xml_conversion_script(xml_path):
 
 
 # function that copies the cell range of each report and copies it to the relevant sheet
-# on the the master template. Outputs a new file.
+# on the master template. outputs a new file.
 def xlsx_copy(reportsheet, destsheet):
 
 	reportsheet.delete_rows(1)
@@ -204,6 +204,7 @@ def xlsx_format(worksheet):
         for i in row:
             i.alignment = Alignment(horizontal="center")
             i.border = border
+    
     #finds max row of spreadsheet and concatonates number to column number range
     max_row =(len(ws['A']))
 
@@ -227,6 +228,7 @@ def xlsx_format(worksheet):
 def process_button_command():
 	#report_naming variable changes depending on which report is running below
 	global report_naming, GIAS_report, GIBO_report, GIMO_report, FIMO_report, GIAS_report_sheet, GIBO_report_sheet, GIMO_report_sheet, FIMO_report_sheet
+	
 	if os.path.isfile('ViR-template.xlsx'):
 		try:
 			report_naming = "Grow-In_As-Surveyed"
@@ -274,7 +276,7 @@ def process_button_command():
 				os.remove("dataframe.xlsx")		
 		
 		except:
-			errormsg( msg = "\nProblem loading XML")
+			errormsg(msg = "\nProblem loading XML")
 
 		try:
 			xlsx_collate()
@@ -305,7 +307,7 @@ def errormsg(msg):
 
 window = Tk()
 
-window.title("ViR Reporting Tool")
+window.title("NGUS: ViR Reporting Tool")
 
 window.geometry('440x250')
 
@@ -372,7 +374,7 @@ try:
 	GIMO_sheet = template['Grow-In(CircuitThermal STE WSZ)']
 	FIMO_sheet = template['Fall-In(CircuitThermal STE WSZ)']
 except:
-	errormsg( msg = "\nError! Could not find 'ViR-Template.xlsx'. \nPlease include this in the workspace and rerun the exe.")
+	errormsg( msg = "\nError! Could not find 'ViR-Template.xlsx'. \nPlease include this in the workspace and restart the app.")
 	
 window.mainloop()
 
